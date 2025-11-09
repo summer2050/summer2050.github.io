@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://summer2050.github.io</id>
+    <title>Ellen&apos;s life</title>
+    <updated>2025-11-09T05:16:47.568Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://summer2050.github.io"/>
+    <link rel="self" href="https://summer2050.github.io/atom.xml"/>
+    <subtitle>生活与学习记录</subtitle>
+    <logo>https://summer2050.github.io/images/avatar.png</logo>
+    <icon>https://summer2050.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Ellen&apos;s life</rights>
+    <entry>
+        <title type="html"><![CDATA[【护肤化妆】2025年7-8月]]></title>
+        <id>https://summer2050.github.io/skin_cosmetics250708/</id>
+        <link href="https://summer2050.github.io/skin_cosmetics250708/">
+        </link>
+        <updated>2025-08-25T07:28:20.000Z</updated>
+    </entry>
+</feed>
