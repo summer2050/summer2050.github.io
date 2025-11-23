@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ellen&#39;s Blog</title>
-        <link>https://example.com/</link>
+        <link>https://summer2050.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.152.2 https://gohugo.io/</generator>
         
@@ -19,16 +19,16 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Sun, 23 Nov 2025 14:29:28 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 23 Nov 2025 15:02:20 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://summer2050.github.io/rss.xml" />
         
         
             <item>
                 <title>
 My First Post</title>
-                <link>https://example.com/posts/my-first-post/</link>
-                <guid isPermaLink="true">https://example.com/posts/my-first-post/</guid>
+                <link>https://summer2050.github.io/posts/my-first-post/</link>
+                <guid isPermaLink="true">https://summer2050.github.io/posts/my-first-post/</guid>
                 <pubDate>Mon, 17 Nov 2025 11:50:13 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -40,7 +40,7 @@ My First Post</title>
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
                         
 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://example.com/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://example.com/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://summer2050.github.io/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://summer2050.github.io/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
                     </description>
