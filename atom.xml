@@ -1,20 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://summer2050.github.io</id>
-    <title>Ellen&apos;s life</title>
-    <updated>2025-11-09T05:16:47.568Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://summer2050.github.io"/>
-    <link rel="self" href="https://summer2050.github.io/atom.xml"/>
-    <subtitle>生活与学习记录</subtitle>
-    <logo>https://summer2050.github.io/images/avatar.png</logo>
-    <icon>https://summer2050.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2025, Ellen&apos;s life</rights>
-    <entry>
-        <title type="html"><![CDATA[【护肤化妆】2025年7-8月]]></title>
-        <id>https://summer2050.github.io/skin_cosmetics250708/</id>
-        <link href="https://summer2050.github.io/skin_cosmetics250708/">
-        </link>
-        <updated>2025-08-25T07:28:20.000Z</updated>
-    </entry>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">Ellen&#39;s Blog</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2025-11-23T14:29:28&#43;08:00</updated>
+    <id>https://example.com/</id>
+    <link rel="alternate" type="text/html" href="https://example.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <author>
+            <name>Ellen</name>
+            <uri>https://example.com/</uri>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.152.2">Hugo</generator>
+        <entry>
+            <title type="text">
+My First Post</title>
+            <link rel="alternate" type="text/html" href="https://example.com/posts/my-first-post/" />
+            <id>https://example.com/posts/my-first-post/</id>
+            <updated>2025-11-17T11:51:03&#43;08:00</updated>
+            <published>2025-11-17T11:50:13&#43;08:00</published>
+            <author>
+                    <name>Ellen</name>
+                    <uri>https://example.com/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+                
+&lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://example.com/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://example.com/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
 </feed>
