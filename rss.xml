@@ -19,7 +19,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 27 Nov 2025 02:48:01 &#43;0000</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 02:48:53 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://ellenli.cc/rss.xml" />
         
@@ -66,6 +66,39 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                                     <category domain="https://ellenli.cc/tags/%E5%86%B3%E7%AD%96/">决策</category>
                                 
                             
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>
+My First Post</title>
+                <link>https://ellenli.cc/posts/2post/</link>
+                <guid isPermaLink="true">https://ellenli.cc/posts/2post/</guid>
+                <pubDate>Mon, 17 Nov 2025 11:50:13 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                
+                <description>
+                        &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+                        
+&lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/2post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/2post/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
                         
                     
                 
