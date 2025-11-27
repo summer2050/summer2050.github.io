@@ -4,32 +4,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Ellen&#39;s Blog</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2025-11-27T02:38:04&#43;00:00</updated>
-    <id>https://summer2050.github.io/</id>
-    <link rel="alternate" type="text/html" href="https://summer2050.github.io/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://summer2050.github.io/atom.xml" />
+    <updated>2025-11-27T02:39:51&#43;00:00</updated>
+    <id>https://ellenli.cc/</id>
+    <link rel="alternate" type="text/html" href="https://ellenli.cc/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://ellenli.cc/atom.xml" />
     <author>
             <name>Ellen</name>
-            <uri>https://summer2050.github.io/</uri>
+            <uri>https://ellenli.cc/</uri>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.152.2">Hugo</generator>
         <entry>
             <title type="text">
 【播客笔记】决策：如何让你在复杂世界中过得更好</title>
-            <link rel="alternate" type="text/html" href="https://summer2050.github.io/posts/decision1/" />
-            <id>https://summer2050.github.io/posts/decision1/</id>
-            <updated>2025-11-27T02:38:02&#43;00:00</updated>
+            <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/decision1/" />
+            <id>https://ellenli.cc/posts/decision1/</id>
+            <updated>2025-11-27T02:39:49&#43;00:00</updated>
             <published>2025-11-25T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
-                    <uri>https://summer2050.github.io/</uri>
+                    <uri>https://ellenli.cc/</uri>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;p&gt;播客链接：https://www.xiaoyuzhoufm.com/episode/683e815031215eb50609a163&lt;/p&gt;
                 
 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://summer2050.github.io/posts/decision1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://summer2050.github.io/posts/decision1/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/decision1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/decision1/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
             </summary>
@@ -44,7 +44,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                             
                             
                             
-                                <category scheme="https://summer2050.github.io/categories/podcast/" term="podcast" label="podcast" />
+                                <category scheme="https://ellenli.cc/categories/podcast/" term="podcast" label="podcast" />
                             
                         
                     
@@ -54,7 +54,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
                             
                             
                             
-                                <category scheme="https://summer2050.github.io/tags/%E5%86%B3%E7%AD%96/" term="决策" label="决策" />
+                                <category scheme="https://ellenli.cc/tags/%E5%86%B3%E7%AD%96/" term="决策" label="决策" />
                             
                         
                     
@@ -65,13 +65,13 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
         <entry>
             <title type="text">
 My First Post</title>
-            <link rel="alternate" type="text/html" href="https://summer2050.github.io/posts/my-first-post/" />
-            <id>https://summer2050.github.io/posts/my-first-post/</id>
-            <updated>2025-11-27T02:38:02&#43;00:00</updated>
+            <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/my-first-post/" />
+            <id>https://ellenli.cc/posts/my-first-post/</id>
+            <updated>2025-11-27T02:39:49&#43;00:00</updated>
             <published>2025-11-17T11:50:13&#43;08:00</published>
             <author>
                     <name>Ellen</name>
-                    <uri>https://summer2050.github.io/</uri>
+                    <uri>https://ellenli.cc/</uri>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -79,7 +79,7 @@ My First Post</title>
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
                 
 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://summer2050.github.io/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://summer2050.github.io/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
             </summary>
