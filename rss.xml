@@ -19,7 +19,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 25 Nov 2025 22:20:07 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 27 Nov 2025 02:32:24 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://summer2050.github.io/rss.xml" />
         
@@ -88,6 +88,39 @@ My First Post</title>
                         
 &lt;blockquote&gt;
 &lt;p&gt;Read original: &lt;a href=&#34;https://summer2050.github.io/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://summer2050.github.io/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
+                    </description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>
+My First Post</title>
+                <link>https://summer2050.github.io/posts/my-second-post-2/</link>
+                <guid isPermaLink="true">https://summer2050.github.io/posts/my-second-post-2/</guid>
+                <pubDate>Mon, 17 Nov 2025 11:50:13 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                
+                <description>
+                        &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
+&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
+                        
+&lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://summer2050.github.io/posts/my-second-post-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://summer2050.github.io/posts/my-second-post-2/&lt;/a&gt;&lt;br&gt;
 Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
                     </description>
