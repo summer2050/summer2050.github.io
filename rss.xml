@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Ellen&#39;s Blog</title>
+        <title>Ellen 的第二博客</title>
         <link>https://ellenli.cc/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.152.2 https://gohugo.io/</generator>
@@ -19,7 +19,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 27 Nov 2025 02:48:53 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 05:38:39 &#43;0000</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://ellenli.cc/rss.xml" />
         
