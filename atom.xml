@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Ellen 的第二博客</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2025-11-30T06:01:24&#43;00:00</updated>
+    <updated>2025-12-01T11:12:25&#43;00:00</updated>
     <id>https://ellenli.cc/</id>
     <link rel="alternate" type="text/html" href="https://ellenli.cc/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ellenli.cc/atom.xml" />
@@ -16,10 +16,58 @@
     <generator uri="https://gohugo.io/" version="0.152.2">Hugo</generator>
         <entry>
             <title type="text">
+读《手机上瘾》有感</title>
+            <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/20251201/" />
+            <id>https://ellenli.cc/posts/20251201/</id>
+            <updated>2025-12-01T11:12:24&#43;00:00</updated>
+            <published>2025-12-01T00:00:00&#43;00:00</published>
+            <author>
+                    <name>Ellen</name>
+                    <uri>https://ellenli.cc/</uri>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
+                &lt;p&gt;今天读了书《手机上瘾》（The phone fix）的第三章，讲的是执行电池和低功耗模式。&lt;/p&gt;
+                
+&lt;blockquote&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/20251201/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/20251201/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
+&lt;/blockquote&gt;
+            </summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ellenli.cc/categories/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ellenli.cc/tags/" term="tags" label="tags" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">
 【播客笔记】决策：如何让你在复杂世界中过得更好</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/decision1/" />
             <id>https://ellenli.cc/posts/decision1/</id>
-            <updated>2025-11-30T06:01:22&#43;00:00</updated>
+            <updated>2025-12-01T11:12:24&#43;00:00</updated>
             <published>2025-11-25T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
@@ -67,7 +115,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 My First Post</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/my-first-post/" />
             <id>https://ellenli.cc/posts/my-first-post/</id>
-            <updated>2025-11-30T06:01:22&#43;00:00</updated>
+            <updated>2025-12-01T11:12:24&#43;00:00</updated>
             <published>2025-11-17T11:50:13&#43;08:00</published>
             <author>
                     <name>Ellen</name>
