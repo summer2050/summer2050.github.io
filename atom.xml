@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Ellen 的第二博客</title>
-    <subtitle type="html"></subtitle>
-    <updated>2025-12-05T05:47:11&#43;00:00</updated>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2025-12-05T05:50:22&#43;00:00</updated>
     <id>https://ellenli.cc/</id>
     <link rel="alternate" type="text/html" href="https://ellenli.cc/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ellenli.cc/atom.xml" />
@@ -12,25 +12,25 @@
             <name>Ellen</name>
             <uri>https://ellenli.cc/</uri>
             </author>
-    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.152.2">Hugo</generator>
         <entry>
             <title type="text">
 换种方式读自我提升类型的书</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/selfhelpreading/" />
             <id>https://ellenli.cc/posts/selfhelpreading/</id>
-            <updated>2025-12-05T05:47:09&#43;00:00</updated>
+            <updated>2025-12-05T05:50:21&#43;00:00</updated>
             <published>2025-12-04T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
                     <uri>https://ellenli.cc/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;p&gt;我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。&lt;/p&gt;
                 
 &lt;blockquote&gt;
-&lt;p&gt;阅读原文：&lt;a href=&#34;https://ellenli.cc/posts/selfhelpreading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/selfhelpreading/&lt;/a&gt;&lt;br&gt;
-博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/selfhelpreading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/selfhelpreading/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
             </summary>
             
@@ -67,18 +67,18 @@
 读《手机上瘾》有感</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/20251201/" />
             <id>https://ellenli.cc/posts/20251201/</id>
-            <updated>2025-12-05T05:47:09&#43;00:00</updated>
+            <updated>2025-12-05T05:50:21&#43;00:00</updated>
             <published>2025-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
                     <uri>https://ellenli.cc/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;p&gt;今天读了书《手机上瘾》（The phone fix）的第三章，讲的是执行电池和低功耗模式。&lt;/p&gt;
                 
 &lt;blockquote&gt;
-&lt;p&gt;阅读原文：&lt;a href=&#34;https://ellenli.cc/posts/20251201/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/20251201/&lt;/a&gt;&lt;br&gt;
-博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/20251201/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/20251201/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
             </summary>
             
@@ -115,18 +115,18 @@
 【播客笔记】决策：如何让你在复杂世界中过得更好</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/decision1/" />
             <id>https://ellenli.cc/posts/decision1/</id>
-            <updated>2025-12-05T05:47:09&#43;00:00</updated>
+            <updated>2025-12-05T05:50:21&#43;00:00</updated>
             <published>2025-11-25T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
                     <uri>https://ellenli.cc/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;p&gt;播客链接：https://www.xiaoyuzhoufm.com/episode/683e815031215eb50609a163&lt;/p&gt;
                 
 &lt;blockquote&gt;
-&lt;p&gt;阅读原文：&lt;a href=&#34;https://ellenli.cc/posts/decision1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/decision1/&lt;/a&gt;&lt;br&gt;
-博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/decision1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/decision1/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
             </summary>
             
@@ -163,20 +163,20 @@
 My First Post</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/my-first-post/" />
             <id>https://ellenli.cc/posts/my-first-post/</id>
-            <updated>2025-12-05T05:47:09&#43;00:00</updated>
+            <updated>2025-12-05T05:50:21&#43;00:00</updated>
             <published>2025-11-17T11:50:13&#43;08:00</published>
             <author>
                     <name>Ellen</name>
                     <uri>https://ellenli.cc/</uri>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">
                 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
                 
 &lt;blockquote&gt;
-&lt;p&gt;阅读原文：&lt;a href=&#34;https://ellenli.cc/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
-博客公告：博客现已开通邮件订阅，欢迎&lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;通过 Substack 订阅&lt;/a&gt;支持我的创作！&lt;/p&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
             </summary>
             
