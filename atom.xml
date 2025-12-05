@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">Ellen 的第二博客</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2025-12-04T06:18:32&#43;00:00</updated>
+    <updated>2025-12-05T02:25:37&#43;00:00</updated>
     <id>https://ellenli.cc/</id>
     <link rel="alternate" type="text/html" href="https://ellenli.cc/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ellenli.cc/atom.xml" />
@@ -19,7 +19,7 @@
 换种方式读自我提升类型的书</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/selfhelpreading/" />
             <id>https://ellenli.cc/posts/selfhelpreading/</id>
-            <updated>2025-12-04T06:18:30&#43;00:00</updated>
+            <updated>2025-12-05T02:25:36&#43;00:00</updated>
             <published>2025-12-04T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
@@ -67,7 +67,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 读《手机上瘾》有感</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/20251201/" />
             <id>https://ellenli.cc/posts/20251201/</id>
-            <updated>2025-12-04T06:18:30&#43;00:00</updated>
+            <updated>2025-12-05T02:25:36&#43;00:00</updated>
             <published>2025-12-01T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
@@ -115,7 +115,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 【播客笔记】决策：如何让你在复杂世界中过得更好</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/decision1/" />
             <id>https://ellenli.cc/posts/decision1/</id>
-            <updated>2025-12-04T06:18:30&#43;00:00</updated>
+            <updated>2025-12-05T02:25:36&#43;00:00</updated>
             <published>2025-11-25T00:00:00&#43;00:00</published>
             <author>
                     <name>Ellen</name>
@@ -163,7 +163,7 @@ Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;
 My First Post</title>
             <link rel="alternate" type="text/html" href="https://ellenli.cc/posts/my-first-post/" />
             <id>https://ellenli.cc/posts/my-first-post/</id>
-            <updated>2025-12-04T06:18:30&#43;00:00</updated>
+            <updated>2025-12-05T02:25:36&#43;00:00</updated>
             <published>2025-11-17T11:50:13&#43;08:00</published>
             <author>
                     <name>Ellen</name>
