@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ellen 的第二博客</title>
-        <link>https://ellenli.cc/</link>
+        <link>http://localhost:1313/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.152.2 https://gohugo.io/</generator>
         
@@ -19,108 +19,16 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Thu, 11 Dec 2025 07:02:19 &#43;0000</lastBuildDate>
+        <lastBuildDate>Sun, 30 Nov 2025 13:58:05 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://ellenli.cc/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
         
-        
-            <item>
-                <title>
-换种方式读自我提升类型的书</title>
-                <link>https://ellenli.cc/posts/selfhelpreading/</link>
-                <guid isPermaLink="true">https://ellenli.cc/posts/selfhelpreading/</guid>
-                <pubDate>Thu, 04 Dec 2025 00:00:00 &#43;0000</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                
-                <description>
-                        &lt;p&gt;我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。&lt;/p&gt;
-                        
-&lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/selfhelpreading/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/selfhelpreading/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-                    </description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://ellenli.cc/categories/%E5%AD%A6%E4%B9%A0/">学习</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://ellenli.cc/tags/">tags</category>
-                                
-                            
-                        
-                    
-                
-            </item>
-        
-            <item>
-                <title>
-读《手机上瘾》有感</title>
-                <link>https://ellenli.cc/posts/20251201/</link>
-                <guid isPermaLink="true">https://ellenli.cc/posts/20251201/</guid>
-                <pubDate>Mon, 01 Dec 2025 00:00:00 &#43;0000</pubDate>
-                
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
-                
-                
-                <description>
-                        &lt;p&gt;今天读了书《手机上瘾》（The phone fix）的第三章，讲的是执行电池和低功耗模式。&lt;/p&gt;
-                        
-&lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/20251201/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/20251201/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-                    </description>
-                
-                
-                
-                
-                
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://ellenli.cc/categories/%E8%AF%BB%E4%B9%A6/">读书</category>
-                                
-                            
-                        
-                    
-                        
-                            
-                                
-                                
-                                
-                                    <category domain="https://ellenli.cc/tags/">tags</category>
-                                
-                            
-                        
-                    
-                
-            </item>
         
             <item>
                 <title>
 【播客笔记】决策：如何让你在复杂世界中过得更好</title>
-                <link>https://ellenli.cc/posts/decision1/</link>
-                <guid isPermaLink="true">https://ellenli.cc/posts/decision1/</guid>
+                <link>http://localhost:1313/posts/decision1/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/decision1/</guid>
                 <pubDate>Tue, 25 Nov 2025 00:00:00 &#43;0000</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -130,7 +38,8 @@
                         &lt;p&gt;播客链接：https://www.xiaoyuzhoufm.com/episode/683e815031215eb50609a163&lt;/p&gt;
                         
 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/decision1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/decision1/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/decision1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/decision1/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
                     </description>
                 
@@ -144,7 +53,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ellenli.cc/categories/podcast/">podcast</category>
+                                    <category domain="http://localhost:1313/categories/podcast/">podcast</category>
                                 
                             
                         
@@ -154,7 +63,7 @@
                                 
                                 
                                 
-                                    <category domain="https://ellenli.cc/tags/%E5%86%B3%E7%AD%96/">决策</category>
+                                    <category domain="http://localhost:1313/tags/%E5%86%B3%E7%AD%96/">决策</category>
                                 
                             
                         
@@ -165,8 +74,8 @@
             <item>
                 <title>
 My First Post</title>
-                <link>https://ellenli.cc/posts/my-first-post/</link>
-                <guid isPermaLink="true">https://ellenli.cc/posts/my-first-post/</guid>
+                <link>http://localhost:1313/posts/my-first-post/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/my-first-post/</guid>
                 <pubDate>Mon, 17 Nov 2025 11:50:13 &#43;0800</pubDate>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
@@ -178,7 +87,8 @@ My First Post</title>
 &lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;
                         
 &lt;blockquote&gt;
-&lt;p&gt;Read original: &lt;a href=&#34;https://ellenli.cc/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ellenli.cc/posts/my-first-post/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Read original: &lt;a href=&#34;http://localhost:1313/posts/my-first-post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://localhost:1313/posts/my-first-post/&lt;/a&gt;&lt;br&gt;
+Notice: This blog now offers email subscriptions—feel free to &lt;a href=&#34;https://username.substack.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;subscribe via Substack&lt;/a&gt; to support my work!&lt;/p&gt;
 &lt;/blockquote&gt;
                     </description>
                 

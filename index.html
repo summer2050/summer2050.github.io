@@ -1,453 +1,670 @@
 <!DOCTYPE html>
-<html lang="en">
-    <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
-    <meta charset="UTF-8" />
+<html lang="en-US">
 
-    <meta name="generator" content="Hugo 0.152.2"><meta name="theme-color" content="#fff" />
-    <meta name="color-scheme" content="light dark">
+<head>
+	<meta name="generator" content="Hugo 0.152.2">
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://ellencord.netlify.app/img/favicon.png" />
+<title>Ellen&#39;s 自留地</title>
+<meta name="title" content="Ellen&#39;s 自留地" />
+<meta name="description" content="A Hugo theme. ✨ Transplanted from Hugo Bear Blog. Based on ʕ•ᴥ•ʔ Bear Blog." />
+<meta name="keywords" content="life,podcast,学习,读书,book,决策,彩妆,护肤," />
 
-    
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    
-    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
-    
-    <meta http-equiv="Cache-Control" content="no-transform" />
-    
-    <meta http-equiv="Cache-Control" content="no-siteapp" />
+<link rel="canonical" href="https://ellencord.netlify.app/">
 
-    <title>
-Ellen 的第二博客</title>
 
-    <link rel="stylesheet" href="/css/meme.min.b0a235cbf921338a59ccfee4511e742d80402ed4bce17b84ff8492150d041832.css"/>
+<meta property="og:url" content="https://ellencord.netlify.app/">
+  <meta property="og:site_name" content="Ellen&#39;s 自留地">
+  <meta property="og:title" content="Ellen&#39;s 自留地">
+  <meta property="og:description" content="为什么要公开写作 因为希望写的东西能对他人有用吧。
+我哼哧哼哧读了那么多东西，只读不记笔记，很快忘记。
+记的笔记只给自己看，觉得有点可惜。
+如果能把看到的东西分享给有缘人，万一对他人有用，那我的阅读和记录不算白费。
+分享能让我的阅读和记录最大化功用。
+2025年12月 月计划 写年终小结 研究：1-2岁育儿 语言学习：日语 小习惯
+进卧室不带主手机 15点前不看rss、小红书、twitter 吃饭、上厕所不看手机 翻书 《关键七问》⭐⭐
+《屏幕上的聪明决策》
+《发展心理学：从生命早期到青春期》⭐⭐⭐⭐
+只读学前期部分。
+影音 电影《异形：契约》⭐⭐⭐⭐
+国产剧《许我耀眼》⭐⭐⭐">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="https://ellencord.netlify.app/img/share.png">
 
-    
-    
-        
-            <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" defer></script><script src="/js/meme.min.e5836f7b8469eebbe7a066b5a369e9e3ed2662a8913de073fdecc5067cffbb46.js"></script>
 
-        
-    
 
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" media="print" onload="this.media='all'" />
-        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" /></noscript>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://ellencord.netlify.app/img/share.png">
+  <meta name="twitter:title" content="Ellen&#39;s 自留地">
+  <meta name="twitter:description" content="为什么要公开写作 因为希望写的东西能对他人有用吧。
+我哼哧哼哧读了那么多东西，只读不记笔记，很快忘记。
+记的笔记只给自己看，觉得有点可惜。
+如果能把看到的东西分享给有缘人，万一对他人有用，那我的阅读和记录不算白费。
+分享能让我的阅读和记录最大化功用。
+2025年12月 月计划 写年终小结 研究：1-2岁育儿 语言学习：日语 小习惯
+进卧室不带主手机 15点前不看rss、小红书、twitter 吃饭、上厕所不看手机 翻书 《关键七问》⭐⭐
+《屏幕上的聪明决策》
+《发展心理学：从生命早期到青春期》⭐⭐⭐⭐
+只读学前期部分。
+影音 电影《异形：契约》⭐⭐⭐⭐
+国产剧《许我耀眼》⭐⭐⭐">
 
-    <meta name="author" content="Ellen" /><meta name="description" content="MemE is a powerful and highly customizable GoHugo theme for personal blogs." />
 
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
-    <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
-    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" sizes="180x180" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-title" content="Ellen 的第二博客" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="application-name" content="Ellen 的第二博客" />
-    <link rel="manifest" href="/manifest.json" />
 
-    
-    <link rel="alternate" type="application/atom&#43;xml" href="https://ellenli.cc/atom.xml" title="Ellen 的第二博客" />
-    <link rel="alternate" type="application/rss&#43;xml" href="https://ellenli.cc/rss.xml" title="Ellen 的第二博客" />
-    
 
-    
-        <link rel="canonical" href="https://ellenli.cc/" />
-    
+  <meta itemprop="name" content="Ellen&#39;s 自留地">
+  <meta itemprop="description" content="为什么要公开写作 因为希望写的东西能对他人有用吧。
+我哼哧哼哧读了那么多东西，只读不记笔记，很快忘记。
+记的笔记只给自己看，觉得有点可惜。
+如果能把看到的东西分享给有缘人，万一对他人有用，那我的阅读和记录不算白费。
+分享能让我的阅读和记录最大化功用。
+2025年12月 月计划 写年终小结 研究：1-2岁育儿 语言学习：日语 小习惯
+进卧室不带主手机 15点前不看rss、小红书、twitter 吃饭、上厕所不看手机 翻书 《关键七问》⭐⭐
+《屏幕上的聪明决策》
+《发展心理学：从生命早期到青春期》⭐⭐⭐⭐
+只读学前期部分。
+影音 电影《异形：契约》⭐⭐⭐⭐
+国产剧《许我耀眼》⭐⭐⭐">
+  <meta itemprop="datePublished" content="2025-12-18T00:00:00+00:00">
+  <meta itemprop="dateModified" content="2025-12-18T00:00:00+00:00">
+  <meta itemprop="wordCount" content="23">
+  <meta itemprop="image" content="https://ellencord.netlify.app/img/share.png">
+<meta name="referrer" content="no-referrer-when-downgrade" />
 
-<script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "datePublished": "2025-12-04T00:00:00+00:00",
-        "dateModified": "2025-12-11T07:02:17+00:00",
-        "url": "https://ellenli.cc/",
-        "description": "MemE is a powerful and highly customizable GoHugo theme for personal blogs.",
-        "image": "https://ellenli.cc/icons/apple-touch-icon.png",
-        "author": {
-            "@type": "Person",
-            "image": "https://ellenli.cc/icons/apple-touch-icon.png",
-            "url": "https://ellenli.cc/",
-            "name": "Ellen"
-        },
-        "license": "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)",
-        "name": "\nEllen 的第二博客"
+  <link rel="alternate" type="application/rss+xml" href="https://ellencord.netlify.app/index.xml" title="Ellen's 自留地" />
+  <style>
+     
+    :root {
+        --width-max: 720px;
+        --font-primary: Verdana, sans-serif;
+        --font-secondary: monospace;
+        --font-size-primary: 1em;
+        --font-size-secondary: 0.8em;
+        --bg-color-primary: #fdfdfd;
+        --bg-color-secondary: #f2f4f7;
+        --text-color-primary: #1a1a1a;
+        --text-color-secondary: #444;
+        --text-color-tertiary: #8c8c8c;
+        --link-color: #0066cc;
+        --link-visited-color: #551a8b;
+        --border-color: #d0d7de;
+        --upvoted-color: #fa8072;
     }
-</script>
 
-    
+    @media (prefers-color-scheme: dark) {
+         
+        :root {
+            --bg-color-primary: #121212;
+            --bg-color-secondary: #1c1f24;
+            --text-color-primary: #e5e5e5;
+            --text-color-secondary: #b3b3b7;
+            --text-color-tertiary: #a0a0a0;
+            --link-color: #6da6ff;
+            --link-visited-color: #b388ff;
+            --border-color: #30363d;
+            --upvoted-color: #ff6b6b;
+        }
+    }
 
-<meta name="twitter:card" content="summary" />
+    body {
+        font-family: var(--font-primary);
+        font-size: var(--font-size-primary);
+        margin: auto;
+        padding: 20px;
+        max-width: var(--width-max);
+        text-align: left;
+        background-color: var(--bg-color-primary);
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        line-height: 1.7;
+        color: var(--text-color-primary);
+    }
 
-<meta name="twitter:site" content="@yixiuer" />
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+        color: var(--text-color-primary);
+    }
 
-    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin: 16px 0;
+    }
 
+    a {
+        color: var(--link-color);
+        cursor: pointer;
+        text-decoration: none;
+    }
 
+    a:hover {
+        text-decoration: underline;
+    }
 
-<meta property="og:title" content="
-Ellen 的第二博客" />
-<meta property="og:description" content="MemE is a powerful and highly customizable GoHugo theme for personal blogs." />
-<meta property="og:url" content="https://ellenli.cc/" />
-<meta property="og:site_name" content="Ellen 的第二博客" />
-<meta property="og:locale" content="en" /><meta property="og:image" content="https://ellenli.cc/icons/apple-touch-icon.png" />
-    <meta property="og:type" content="website" />
+    .title {
+        text-decoration: none;
+        border: 0;
+    }
 
-        <link rel="preconnect" href="https://www.google-analytics.com" crossorigin />
+    .title:hover {
+        text-decoration: none;
+    }
 
-        
+    .title span {
+        font-weight: 400;
+    }
 
+    nav a {
+        margin-right: 8px;
+    }
 
+    textarea {
+        width: 100%;
+        font-size: 16px;
+    }
 
+    input {
+        font-size: 14px;
+    }
 
-    
-    <script>
-        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-        ga('create', 'G-66J8E77R40', 'auto');
-        ga('send', 'pageview');
-    </script>
-    <script async src='https://www.google-analytics.com/analytics.js'></script>
-    
+    content {
+        line-height: 1.7;
+    }
 
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        border: 1px solid var(--border-color);
+        border-radius: 4px;
+    }
 
-    
-    
+    th,
+    td {
+        border: 1px solid var(--border-color);
+        padding: 4px;
+    }
 
-    
+    th {
+        background-color: var(--bg-color-secondary);
+    }
+
+    hr {
+        border: 0;
+        border-top: 1px dashed;
+    }
+
+    img {
+        max-width: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid var(--border-color);
+        border-radius: 4px;
+        content-visibility: auto;
+    }
+
+    img[src*="#minipic"] {
+        max-width: 50%;
+        margin-left: 0;
+        margin-right: auto;
+    }
+
+    .image-caption figcaption {
+        text-align: center;
+        font-style: italic;
+        font-size: 0.8em;
+        margin-top: 0.6em;
+        color: var(--text-color-secondary);
+    }
+
+    .image-caption {
+        margin: auto;
+    }
+
+    i {
+        font-style: normal;
+    }
+
+    time {
+        font-family: var(--font-secondary);
+        font-size: 15px;
+    }
+
+    code {
+        font-family: var(--font-secondary);
+        background-color: var(--bg-color-secondary);
+        padding: 2px;
+        border-radius: 4px;
+    }
+
+    pre code {
+        display: block;
+        padding: 16px;
+        white-space: pre-wrap;
+        overflow-x: auto;
+    }
+
+    div.highlight pre {
+        border-radius: 4px;
+    }
+
+    div.highlight code {
+        background-color: var(--bg-color-secondary);
+    }
+
+    blockquote {
+        border-left: 4px solid var(--border-color);
+        color: var(--text-color-secondary);
+        margin: 0;
+        padding-left: 8px;
+        font-style: normal;
+    }
+
+    blockquote p {
+        margin: 0;
+    }
+
+    footer {
+        padding: 25px 0;
+        text-align: center;
+        font-size: var(--font-size-secondary);
+    }
+
+    ul li:has(input) {
+        list-style-type: none;
+        margin-left: -25.5px;
+    }
+
+     
+    ul.blog-posts {
+        list-style-type: none;
+        padding: unset;
+    }
+
+    ul.blog-posts li {
+        display: flex;
+    }
+
+    ul.blog-posts li span {
+        flex: 0 0 130px;
+    }
+
+    ul.blog-posts li span.grouped {
+        flex: 0 0 80px;
+    }
+
+    ul.blog-posts li a:visited {
+        color: var(--link-visited-color);
+    }
+
+     
+    div.toc {
+        position: fixed;  
+        top: 50%;  
+        left: calc(
+            (100vw + var(--width-max)) / 2
+        );  
+        transform: translateY(-50%);  
+        width: calc((90vw - var(--width-max)) / 2);  
+        max-height: 80vh;  
+        overflow-y: auto;  
+        border: none;  
+        padding: 0;  
+        margin: 0;  
+        z-index: 99;  
+
+         
+        -ms-overflow-style: none;  
+        scrollbar-width: none;  
+    }
+
+    div.toc::-webkit-scrollbar {
+         
+        display: none;  
+    }
+
+    .toc-nav {
+         
+        padding: 1.5rem;  
+    }
+
+    .toc-nav ul {
+         
+        list-style: none;  
+        padding: 0;  
+        margin: 0;  
+    }
+
+    .toc-nav li {
+         
+        margin: 8px 0;  
+    }
+
+    .toc-nav a {
+         
+        display: block;  
+        text-decoration: none;  
+        color: transparent;  
+        padding: 0 12px;  
+        transition: all 0.2s ease;  
+        font-size: 0.9rem;  
+        line-height: 1.4;  
+        text-align: left;  
+        white-space: nowrap;  
+        overflow: hidden;  
+        text-overflow: ellipsis;  
+        max-width: 100%;  
+    }
+
+    .toc-nav:hover a {
+        color: var(--text-color-tertiary);  
+    }
+
+    .toc-nav a::before {
+         
+        content: "";  
+        display: inline-block;  
+        width: 16px;  
+        height: 4px;  
+        background-color: var(--text-color-tertiary);
+        border-radius: 16px;  
+        margin-right: 12px;  
+        vertical-align: middle;  
+    }
+
+    .toc-nav ul ul a::before {
+         
+        width: 12px;  
+        margin-right: 16px;  
+    }
+
+    .toc-nav ul ul ul a::before {
+         
+        width: 8px;  
+        margin-right: 20px;  
+    }
+
+    .toc-nav a.active,
+    .toc-nav a:hover {
+        text-decoration: none;
+        color: var(--text-color-primary);
+    }
+
+    .toc-nav a.active::before,
+    .toc-nav a:hover::before {
+        background-color: var(--text-color-primary);
+    }
+
+     
+    button.upvote-btn {
+        margin: 0;
+        padding: 0;
+        border: none;
+        background: none;
+        cursor: pointer;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: var(--text-color-primary);
+    }
+
+    button.upvoted {
+        color: var(--upvoted-color);
+    }
+
+    span.upvote-count {
+        margin-top: -4px;
+        font-size: smaller;
+    }
+
+     
+    body:has(.image-zoom-toggle:checked) {
+        overflow: hidden;
+    }
+
+    .image-zoom-container {
+        position: relative;
+        display: block;
+    }
+
+    .image-zoom-toggle {
+        display: none;
+    }
+
+    .image-zoom-label {
+        cursor: zoom-in;
+        display: block;
+        position: relative;
+    }
+
+    .image-zoom-label:focus {
+        outline: 2px solid var(--link-color);
+        outline-offset: 2px;
+    }
+
+    .zoomable-image {
+        transition: transform 0.3s ease;
+    }
+
+     
+    .image-zoom-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.9);
+        z-index: 1000;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        margin: 0;
+    }
+
+    .image-zoom-toggle:checked ~ .image-zoom-overlay {
+        display: flex;
+        cursor: zoom-out;
+    }
+
+     
+    .image-zoom-toggle:checked ~ .image-zoom-label {
+        cursor: default;
+    }
+
+    .image-zoom-toggle:checked ~ .image-zoom-overlay .zoomable-image {
+        max-width: 90vw;
+        max-height: 90vh;
+        width: auto;
+        height: auto;
+        transform: scale(1);
+        border: none;
+        border-radius: 8px;
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .image-zoom-toggle:checked ~ .image-zoom-overlay::before {
+        content: "";
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        width: 32px;
+        height: 32px;
+        background: rgba(255, 255, 255, 0.9);
+        border-radius: 50%;
+        cursor: pointer;
+        z-index: 1001;
+    }
+
+    .image-zoom-toggle:checked ~ .image-zoom-overlay::after {
+        content: "✕";
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        width: 32px;
+        height: 32px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 18px;
+        font-weight: bold;
+        color: #000;
+        cursor: pointer;
+        z-index: 1002;
+    }
+
+    .image-zoom-toggle:checked ~ .image-zoom-overlay figcaption {
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background: rgba(0, 0, 0, 0.8);
+        color: white;
+        padding: 8px 16px;
+        border-radius: 4px;
+        font-size: 14px;
+        z-index: 1001;
+        max-width: 80vw;
+        text-align: center;
+    }
+
+     
+    @media (max-width: 800px) {
+        img[src*="#minipic"] {
+            max-width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        div.toc {
+            display: none;
+        }
+
+        .image-zoom-label {
+            cursor: pointer;
+        }
+
+        .image-zoom-toggle:checked ~ .image-zoom-overlay {
+            padding: 10px;
+        }
+
+        .image-zoom-toggle:checked ~ .image-zoom-overlay::before,
+        .image-zoom-toggle:checked ~ .image-zoom-overlay::after {
+            top: 10px;
+            right: 10px;
+            width: 28px;
+            height: 28px;
+            font-size: 16px;
+        }
+
+        .image-zoom-toggle:checked ~ .image-zoom-overlay figcaption {
+            bottom: 10px;
+            font-size: 12px;
+            padding: 6px 12px;
+        }
+    }
+</style>
+
 </head>
 
-    <body>
-        <div class="container">
-            
-    <header class="header">
-        
-            <div class="header-wrapper">
-                <div class="header-inner single">
-                    
-    <div class="site-brand">
-        
-            <a href="/" class="brand">Ellen 的第二博客</a>
-        
-    </div>
+<body>
+  <header><a href="/" class="title">
+  <h1>Ellen&#39;s 自留地</h1>
+</a>
+<nav><a href="/">Home</a>
 
-                    <nav class="nav">
-    <ul class="menu" id="menu">
-        
+<a href="/weekly/">Weekly</a>
 
-        
-            
-                <li class="menu-item"><a href="/posts/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon archive"><path d="M32 448c0 17.7 14.3 32 32 32h384c17.7 0 32-14.3 32-32V160H32v288zm160-212c0-6.6 5.4-12 12-12h104c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H204c-6.6 0-12-5.4-12-12v-8zM480 32H32C14.3 32 0 46.3 0 64v48c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16V64c0-17.7-14.3-32-32-32z"/></svg><span class="menu-item-name">Posts</span></a>
-                </li>
-            
-        
-            
-                <li class="menu-item"><a href="/categories/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon th"><path d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"/></svg><span class="menu-item-name">Categories</span></a>
-                </li>
-            
-        
-            
-                <li class="menu-item"><a href="/tags/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="icon tags"><path d="M497.941 225.941L286.059 14.059A48 48 0 0 0 252.118 0H48C21.49 0 0 21.49 0 48v204.118a48 48 0 0 0 14.059 33.941l211.882 211.882c18.744 18.745 49.136 18.746 67.882 0l204.118-204.118c18.745-18.745 18.745-49.137 0-67.882zM112 160c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48zm513.941 133.823L421.823 497.941c-18.745 18.745-49.137 18.745-67.882 0l-.36-.36L527.64 323.522c16.999-16.999 26.36-39.6 26.36-63.64s-9.362-46.641-26.36-63.64L331.397 0h48.721a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882z"/></svg><span class="menu-item-name">Tags</span></a>
-                </li>
-            
-        
-            
-                <li class="menu-item"><a href="/about/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="icon user-circle"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></svg><span class="menu-item-name">About</span></a>
-                </li>
-            
-        
-            
-                
-                    
-                    
-                        <li class="menu-item">
-                            <button id="theme-switcher" type="button" aria-label="Switch theme"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon theme-icon-light"><path d="M193.2 104.5l48.8-97.5a18 18 0 0128 0l48.8 97.5 103.4 -34.5a18 18 0 0119.8 19.8l-34.5 103.4l97.5 48.8a18 18 0 010 28l-97.5 48.8 34.5 103.4a18 18 0 01-19.8 19.8l-103.4-34.5-48.8 97.5a18 18 0 01-28 0l-48.8-97.5l-103.4 34.5a18 18 0 01-19.8-19.8l34.5-103.4-97.5-48.8a18 18 0 010-28l97.5-48.8-34.5-103.4a18 18 0 0119.8-19.8zM256 128a128 128 0 10.01 0M256 160a96 96 0 10.01 0"/></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon theme-icon-dark"><path d="M27 412a256 256 0 10154-407a11.5 11.5 0 00-5 20a201.5 201.5 0 01-134 374a11.5 11.5 0 00-15 13"/></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="icon theme-icon-system"><path d="M528 0H48C21.5 0 0 21.5 0 48v320c0 26.5 21.5 48 48 48h192l-16 48h-72c-13.3 0-24 10.7-24 24s10.7 24 24 24h272c13.3 0 24-10.7 24-24s-10.7-24-24-24h-72l-16-48h192c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zm-16 352H64V64h448v288z"/></svg></button>
-                        </li>
-                    
-                
-            
-        
-            
-                
-            
-        
-            
-                <li class="menu-item search-item">
-                        <form id="search" class="search" role="search">
-    <label for="search-input"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon search-icon"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></label>
-    <input type="search" id="search-input" class="search-input">
-</form>
+<a href="/note/">Note</a>
 
-<template id="search-result" hidden>
-    <article class="content post">
-        <h2 class="post-title"><a class="summary-title-link"></a></h2>
-        <summary class="summary"></summary>
-        <div class="read-more-container">
-            <a class="read-more-link">Read More »</a>
-        </div>
-    </article>
-</template>
 
-                    </li>
-                
-            
-        
-    </ul>
+<a href="/blog/">Blog</a>
+
 </nav>
-
-                    
-                </div>
-            </div>
-            
-    <input type="checkbox" id="nav-toggle" aria-hidden="true" />
-    <label for="nav-toggle" class="nav-toggle"></label>
-    <label for="nav-toggle" class="nav-curtain"></label>
-
-
-        
-    </header>
-
-
-
-
-            
-            
-    
-    
-    
-    
-    
-    
-        <main class="main single" id="main">
-    <div class="main-inner">
-        
-        
-
-        
-        
-            <article class="content post home h-entry">
-                <h2 class="post-title p-name">
-                    <a href="/posts/selfhelpreading/" class="summary-title-link u-url">
-换种方式读自我提升类型的书</a>
-                </h2>
-                
-                    
-
-<div class="post-meta">
-    
-        
-        <time datetime="2025-12-04T00:00:00&#43;00:00" class="post-meta-item published dt-published"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>&nbsp;2025-12-4</time>
-    
-    
-    
-    
-        
-        
-        
-            
-                <span class="post-meta-item category"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon"><path d="M464 128H272l-54.63-54.63c-6-6-14.14-9.37-22.63-9.37H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48zm0 272H48V112h140.12l54.63 54.63c6 6 14.14 9.37 22.63 9.37H464v224z"/></svg>&nbsp;<a href="/categories/%E5%AD%A6%E4%B9%A0/" class="category-link p-category">学习</a></span>
-            
-        
-    
-    
-    
-    
-    
-</div>
-
-                
-                <summary class="summary p-summary">
-                    <p>我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。</p>
-                </summary>
-                
-                    <div class="read-more-container">
-                        <a href="/posts/selfhelpreading/" class="read-more-link">Read More »</a>
-                    </div>
-                
-            </article>
-        
-            <article class="content post home h-entry">
-                <h2 class="post-title p-name">
-                    <a href="/posts/20251201/" class="summary-title-link u-url">
-读《手机上瘾》有感</a>
-                </h2>
-                
-                    
-
-<div class="post-meta">
-    
-        
-        <time datetime="2025-12-01T00:00:00&#43;00:00" class="post-meta-item published dt-published"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>&nbsp;2025-12-1</time>
-    
-    
-    
-    
-        
-        
-        
-            
-                <span class="post-meta-item category"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon"><path d="M464 128H272l-54.63-54.63c-6-6-14.14-9.37-22.63-9.37H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48zm0 272H48V112h140.12l54.63 54.63c6 6 14.14 9.37 22.63 9.37H464v224z"/></svg>&nbsp;<a href="/categories/%E8%AF%BB%E4%B9%A6/" class="category-link p-category">读书</a></span>
-            
-        
-    
-    
-    
-    
-    
-</div>
-
-                
-                <summary class="summary p-summary">
-                    <p>今天读了书《手机上瘾》（The phone fix）的第三章，讲的是执行电池和低功耗模式。</p>
-                </summary>
-                
-                    <div class="read-more-container">
-                        <a href="/posts/20251201/" class="read-more-link">Read More »</a>
-                    </div>
-                
-            </article>
-        
-            <article class="content post home h-entry">
-                <h2 class="post-title p-name">
-                    <a href="/posts/decision1/" class="summary-title-link u-url">
-【播客笔记】决策：如何让你在复杂世界中过得更好</a>
-                </h2>
-                
-                    
-
-<div class="post-meta">
-    
-        
-        <time datetime="2025-11-25T00:00:00&#43;00:00" class="post-meta-item published dt-published"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>&nbsp;2025-11-25</time>
-    
-    
-    
-    
-        
-        
-        
-            
-                <span class="post-meta-item category"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon post-meta-icon"><path d="M464 128H272l-54.63-54.63c-6-6-14.14-9.37-22.63-9.37H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V176c0-26.51-21.49-48-48-48zm0 272H48V112h140.12l54.63 54.63c6 6 14.14 9.37 22.63 9.37H464v224z"/></svg>&nbsp;<a href="/categories/podcast/" class="category-link p-category">podcast</a></span>
-            
-        
-    
-    
-    
-    
-    
-</div>
-
-                
-                <summary class="summary p-summary">
-                    <p>播客链接：https://www.xiaoyuzhoufm.com/episode/683e815031215eb50609a163</p>
-                </summary>
-                
-                    <div class="read-more-container">
-                        <a href="/posts/decision1/" class="read-more-link">Read More »</a>
-                    </div>
-                
-            </article>
-        
-            <article class="content post home h-entry">
-                <h2 class="post-title p-name">
-                    <a href="/posts/my-first-post/" class="summary-title-link u-url">
-My First Post</a>
-                </h2>
-                
-                    
-
-<div class="post-meta">
-    
-        
-        <time datetime="2025-11-17T11:50:13&#43;08:00" class="post-meta-item published dt-published"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon post-meta-icon"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"/></svg>&nbsp;2025-11-17</time>
-    
-    
-    
-    
-        
-        
-        
-            
-        
-    
-    
-    
-    
-    
-</div>
-
-                
-                <summary class="summary p-summary">
-                    <h2 id="introduction">Introduction</h2>
-<p>This is <strong>bold</strong> text, and this is <em>emphasized</em> text.</p>
-<p>Visit the <a href="https://gohugo.io">Hugo</a> website!</p>
-                </summary>
-                
-            </article>
-        
-        
-    </div>
-</main>
-
-    
-    
-    
-
-            
-    <div id="back-to-top" class="back-to-top">
-        <a href="#top" aria-label="Back to top">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon arrow-up"><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg>
-        </a>
-    </div>
+</header>
+  <main> <h2 id="为什么要公开写作">为什么要公开写作</h2>
+<p>因为希望写的东西能对他人有用吧。</p>
+<p>我哼哧哼哧读了那么多东西，只读不记笔记，很快忘记。</p>
+<p>记的笔记只给自己看，觉得有点可惜。</p>
+<p>如果能把看到的东西分享给有缘人，万一对他人有用，那我的阅读和记录不算白费。</p>
+<p>分享能让我的阅读和记录最大化功用。</p>
+<h2 id="2025年12月">2025年12月</h2>
+<h3 id="月计划">月计划</h3>
+<ul>
+<li><input disabled="" type="checkbox"> 写年终小结</li>
+<li><input disabled="" type="checkbox"> 研究：1-2岁育儿</li>
+<li><input disabled="" type="checkbox"> 语言学习：日语</li>
+</ul>
+<p><strong>小习惯</strong></p>
+<ul>
+<li><input disabled="" type="checkbox"> 进卧室不带主手机</li>
+<li><input disabled="" type="checkbox"> 15点前不看rss、小红书、twitter</li>
+<li><input disabled="" type="checkbox"> 吃饭、上厕所不看手机</li>
+</ul>
+<h3 id="翻书">翻书</h3>
+<ol>
+<li>
+<p>《关键七问》⭐⭐</p>
+</li>
+<li>
+<p>《屏幕上的聪明决策》</p>
+</li>
+<li>
+<p>《发展心理学：从生命早期到青春期》⭐⭐⭐⭐</p>
+<p>只读学前期部分。</p>
+</li>
+</ol>
+<h3 id="影音">影音</h3>
+<ol>
+<li>
+<p>电影《异形：契约》⭐⭐⭐⭐</p>
+</li>
+<li>
+<p>国产剧《许我耀眼》⭐⭐⭐</p>
+</li>
+</ol>
+ 
+  </main>
+  <footer>
 
 
-            
-    <footer id="footer" class="footer">
-        <div class="footer-inner">
-            <div class="site-info">©&nbsp;2025–2025&nbsp;<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon footer-icon"><path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/></svg>&nbsp;Ellen</div><div class="powered-by">
-Powered by <a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener">Hugo</a> | Theme is <a href="https://github.com/reuixiy/hugo-theme-meme" target="_blank" rel="noopener">MemE</a></div>
-
-            
 
 
-            
-        </div>
-    </footer>
-
-
-        </div>
-        
-
-        
+Subscribe via <a href="/index.xml">RSS</a>.
+<br />
 
 
 
 
 
 
+
+
+
+
+Copyright © 2025, Ellen.
+
+
+</footer>
+
     
 
 
+</body>
 
-    <script src="https://cdn.jsdelivr.net/npm/medium-zoom@latest/dist/medium-zoom.min.js"></script>
-
-<script>
-    let imgNodes = document.querySelectorAll('div.post-body img');
-    imgNodes = Array.from(imgNodes).filter(node => node.parentNode.tagName !== "A");
-
-    mediumZoom(imgNodes, {
-        background: 'hsla(var(--color-bg-h), var(--color-bg-s), var(--color-bg-l), 0.95)'
-    })
-</script>
-
-
-
-
-    <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js" type="module" defer></script>
-
-
-
-
-
-
-    </body>
 </html>
