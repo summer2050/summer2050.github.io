@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://ellencord.netlify.app/sitemap.xml
+Sitemap: https://ellenli.cc/sitemap.xml
