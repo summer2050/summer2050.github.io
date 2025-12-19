@@ -26,12 +26,6 @@
     <loc>https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ellenli.cc/weekly/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ellenli.cc/weekly/2025weekly50/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ellenli.cc/posts/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -106,5 +100,8 @@
   </url><url>
     <loc>https://ellenli.cc/blog/%E8%82%B2%E5%84%BF/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/weekly/</loc>
+    <lastmod>2025-01-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>
