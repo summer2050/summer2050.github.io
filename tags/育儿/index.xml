@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>育儿 on Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/blog/%E8%82%B2%E5%84%BF/</link>
+    <link>https://ellenli.cc/tags/%E8%82%B2%E5%84%BF/</link>
     <description>Recent content in 育儿 on Ellen&#39;s 自留地</description>
     <generator>Hugo</generator>
     <language>en-US</language>
@@ -20,7 +20,7 @@
         <userId>00000000000000000</userId>
     </follow_challenge>
     
-    <atom:link href="https://ellenli.cc/blog/%E8%82%B2%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ellenli.cc/tags/%E8%82%B2%E5%84%BF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【播客】我！要！被！孩！子！的！磨！蹭！逼！疯！啦！</title>
       <link>https://ellenli.cc/note/250620/</link>

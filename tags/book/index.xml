@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Book on Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/blog/book/</link>
+    <link>https://ellenli.cc/tags/book/</link>
     <description>Recent content in Book on Ellen&#39;s 自留地</description>
     <generator>Hugo</generator>
     <language>en-US</language>
@@ -20,7 +20,7 @@
         <userId>00000000000000000</userId>
     </follow_challenge>
     
-    <atom:link href="https://ellenli.cc/blog/book/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ellenli.cc/tags/book/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>读《手机上瘾》有感</title>
       <link>https://ellenli.cc/note/20251201/</link>
