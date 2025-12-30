@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeklies on Ellen&#39;s 自留地</title>
+    <link>https://ellenli.cc/weekly/</link>
+    <description>Recent content in Weeklies on Ellen&#39;s 自留地</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    
+    
+    
+    <copyright>Copyright © 2025, Ellen.</copyright>
+    
+    
+    <lastBuildDate>Tue, 30 Dec 2025 00:00:00 +0000</lastBuildDate>
+    
+    
+    <follow_challenge>
+        <feedId>00000000000000000</feedId>
+        <userId>00000000000000000</userId>
+    </follow_challenge>
+    
+    <atom:link href="https://ellenli.cc/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>25Weekly | 写年终总结、读书、观影</title>
+      <link>https://ellenli.cc/weekly/20251230/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellenli.cc/weekly/20251230/</guid>
+      <description>&lt;p&gt;2025年12月22日至12月28日&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
