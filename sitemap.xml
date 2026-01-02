@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ellenli.cc/2026/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ellenli.cc/</loc>
-    <lastmod>2025-12-31T17:00:00+08:00</lastmod>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/2026/books2026/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/2026/cosmetics2026/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/2026/movies2026/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ellenli.cc/blog/</loc>
     <lastmod>2025-12-31T17:00:00+08:00</lastmod>
@@ -49,7 +61,5 @@
   </url><url>
     <loc>https://ellenli.cc/about/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ellenli.cc/2026/</loc>
   </url>
 </urlset>
