@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ellenli.cc/2026/</loc>
-    <lastmod>2026-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ellenli.cc/</loc>
+    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/weekly/2026-01/</loc>
+    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/weekly/</loc>
+    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2026-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ellenli.cc/2026/</loc>
     <lastmod>2026-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ellenli.cc/2026/books2026/</loc>
@@ -29,13 +38,7 @@
     <loc>https://ellenli.cc/posts/my2025/</loc>
     <lastmod>2025-12-31T17:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/</loc>
-    <lastmod>2025-12-31T17:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://ellenli.cc/weekly/20251230/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ellenli.cc/weekly/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ellenli.cc/categories/weekly/</loc>
@@ -64,8 +67,5 @@
   </url><url>
     <loc>https://ellenli.cc/about/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ellenli.cc/weekly/2026-01/</loc>
-    <lastmod>2025-01-07T00:00:00+00:00</lastmod>
   </url>
 </urlset>

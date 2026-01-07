@@ -12,10 +12,17 @@
     <copyright>Copyright © 2025, Ellen.</copyright>
     
     
-    <lastBuildDate>Fri, 02 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026-01 | 使用Stylus，周岁宴，计划2026，反思2025日记</title>
+      <link>https://ellenli.cc/weekly/2026-01/</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellenli.cc/weekly/2026-01/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2025.12.29-2026.1.4&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;这周周记发晚了，主要在忙于写读后感。然后意识到，写读后感需要再仔细读一遍书，边读边想边记，来不及和周记一起发。以后遇到要写读后感的书，只能延后发，发到我的&lt;a href=&#34;https://note.ellenli.cc&#34;&gt;笔记博客&lt;/a&gt;上。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Books 2026</title>
       <link>https://ellenli.cc/2026/books2026/</link>
@@ -78,13 +85,6 @@
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/posts/selfhelpreading/</guid>
       <description>&lt;p&gt;我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025-12 记录</title>
-      <link>https://ellenli.cc/202512/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/202512/</guid>
-      <description>&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;博主&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;低精力的懒人，但想变得不那么懒&lt;/li&gt;&#xA;&lt;li&gt;有大把时间摸鱼，想充实摸鱼&lt;/li&gt;&#xA;&lt;li&gt;2024年育一娃，从此开始漫漫育儿路（摸鱼时间显著减少）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;写&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;日常记录和总结&lt;/li&gt;&#xA;&lt;li&gt;阅读笔记：包括但不限于书籍、播客、视频、论文……&lt;/li&gt;&#xA;&lt;li&gt;想法思考&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2025年12月&#34;&gt;2025年12月&lt;/h2&gt;&#xA;&lt;h3 id=&#34;主线任务&#34;&gt;主线任务&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 在12/31前写完年终小结&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 语言学习：日语&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 研究：1-2岁育儿&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《发展心理学：从生命早期到青春期》⭐⭐⭐⭐ 只读学前期部分。&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《一个经济学家的育儿指南》 ⭐⭐⭐&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《蒙台梭利家庭方案》（12/22）⭐⭐⭐&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《0-5岁，大脑发育的黄金五年》⭐⭐⭐⭐&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;小习惯&#34;&gt;小习惯&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 12/21起，15点前不看 mastodon （12/20更新，12/30放弃）&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 15点前不看rss、小红书、twitter&lt;/li&gt;&#xA;&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 吃饭、上厕所不看手机&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;思考的问题&#34;&gt;思考的问题&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;如何拓展内容，而不是只有一个概括性的句子？&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;翻书&#34;&gt;翻书&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;《关键七问》⭐⭐&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;《屏幕上的聪明决策》⭐⭐⭐⭐&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Chasing Hope: A Reporter&amp;rsquo;s Life  (12.21-1.2) ⭐⭐⭐⭐⭐&lt;/p&gt;&#xA;&lt;p&gt;作者父亲的经历、作者采访的经历，不少纽约时报内部的办公室政治，写普通人的故事很感人。最后几章竞选州长讲美国政治就不那么吸引人。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;《还可以的金女士》(12.25-12.31)⭐⭐⭐⭐&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;影音&#34;&gt;影音&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;电影《异形：契约》⭐⭐⭐⭐&lt;/li&gt;&#xA;&lt;li&gt;国产剧《许我耀眼》⭐⭐⭐&lt;/li&gt;&#xA;&lt;li&gt;电影《小妇人》2019版 ⭐⭐⭐&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
