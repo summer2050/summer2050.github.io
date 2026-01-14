@@ -58,5 +58,5 @@
 ---
 
 > Author: Ellen  
-> URL: https://ellenli.cc/posts/2025cosmetics/  
+> URL: http://localhost:1313/posts/2025cosmetics/  
 
