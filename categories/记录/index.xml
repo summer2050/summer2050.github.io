@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>记录 on Ellen&#39;s 自留地</title>
+    <title>记录 - Category - Ellen&#39;s Blog</title>
     <link>https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/</link>
-    <description>Recent content in 记录 on Ellen&#39;s 自留地</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    
-    
-    
-    <copyright>Copyright © 2025, Ellen.</copyright>
-    
-    
-    <lastBuildDate>Tue, 13 Jan 2026 12:00:00 +0800</lastBuildDate>
-    
-    
+    <description>Ellen&#39;s Blog</description>
+    <generator>Hugo 0.154.5 &amp; FixIt v0.4.1</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Jan 2026 02:54:02 +0000</lastBuildDate>
     <atom:link href="https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>26周记 | 02 带娃四天</title>
       <link>https://ellenli.cc/weekly/2026-02/</link>
       <pubDate>Tue, 13 Jan 2026 12:00:00 +0800</pubDate>
       <guid>https://ellenli.cc/weekly/2026-02/</guid>
+      <category domain="https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/">记录</category>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2026.1.5-1.11&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
@@ -28,27 +21,31 @@
       <link>https://ellenli.cc/weekly/2026-01/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/weekly/2026-01/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2025.12.29-2026.1.4&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;这周周记发晚了，主要在忙于写读后感。然后意识到，写读后感需要再仔细读一遍书，边读边想边记，来不及和周记一起发。以后遇到要写读后感的书，只能延后发，发到我的&lt;a href=&#34;https://note.ellenli.cc&#34;&gt;笔记博客&lt;/a&gt;上。&lt;/p&gt;</description>
+      <category domain="https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/">记录</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2025.12.29-2026.1.4&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;这周周记发晚了，主要在忙于写读后感。然后意识到，写读后感需要再仔细读一遍书，边读边想边记，来不及和周记一起发。以后遇到要写读后感的书，只能延后发，发到我的&lt;a href=&#34;https://note.ellenli.cc&#34; target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;笔记博客&lt;/a&gt;上。&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的2025</title>
-      <link>https://ellenli.cc/posts/my2025/</link>
+      <link>https://ellenli.cc/blog/my2025/</link>
       <pubDate>Wed, 31 Dec 2025 17:00:00 +0800</pubDate>
-      <guid>https://ellenli.cc/posts/my2025/</guid>
+      <guid>https://ellenli.cc/blog/my2025/</guid>
+      <category domain="https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/">记录</category>
       <description>&lt;p&gt;2025年马上要过去了，回首这一年，我没有太多情绪，没有很快乐的事，也没有很糟糕的事，平平淡淡地度过这一年。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025 彩妆总结</title>
-      <link>https://ellenli.cc/posts/2025cosmetics/</link>
+      <link>https://ellenli.cc/blog/2025cosmetics/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/posts/2025cosmetics/</guid>
+      <guid>https://ellenli.cc/blog/2025cosmetics/</guid>
+      <category domain="https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/">记录</category>
       <description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2025 护肤总结</title>
-      <link>https://ellenli.cc/posts/2025skincare/</link>
+      <link>https://ellenli.cc/blog/2025skincare/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/posts/2025skincare/</guid>
+      <guid>https://ellenli.cc/blog/2025skincare/</guid>
+      <category domain="https://ellenli.cc/categories/%E8%AE%B0%E5%BD%95/">记录</category>
       <description>&lt;p&gt;这一年&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;&#xA;&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;&#xA;&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
