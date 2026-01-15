@@ -1,751 +1,386 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
+    <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+    <meta charset="UTF-8" />
 
-<head>
-  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="shortcut icon" href="https://ellenli.cc/static/favicon.ico" />
-<title>2026s | Ellen&#39;s 自留地</title>
-<meta name="title" content="2026s" />
-<meta name="description" content="A Hugo theme. ✨ Transplanted from Hugo Bear Blog. Based on ʕ•ᴥ•ʔ Bear Blog." />
-<meta name="keywords" content="weekly,总结,想法,彩妆,护肤," />
+    <meta name="generator" content="Hugo 0.154.5"><meta name="theme-color" content="#fff" />
+    <meta name="color-scheme" content="light dark">
 
-<link rel="canonical" href="https://ellenli.cc/2026/">
-
-
-<meta property="og:url" content="https://ellenli.cc/2026/">
-  <meta property="og:site_name" content="Ellen&#39;s 自留地">
-  <meta property="og:title" content="2026s">
-  <meta property="og:description" content="A Hugo theme. ✨ Transplanted from Hugo Bear Blog. Based on ʕ•ᴥ•ʔ Bear Blog.">
-  <meta property="og:locale" content="en_US">
-  <meta property="og:type" content="website">
-    <meta property="og:image" content="https://ellenli.cc/img/share.png">
-
-
-
-
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:image" content="https://ellenli.cc/img/share.png">
-  <meta name="twitter:title" content="2026s">
-  <meta name="twitter:description" content="A Hugo theme. ✨ Transplanted from Hugo Bear Blog. Based on ʕ•ᴥ•ʔ Bear Blog.">
-
-
-
-
-  <meta itemprop="name" content="2026s">
-  <meta itemprop="description" content="A Hugo theme. ✨ Transplanted from Hugo Bear Blog. Based on ʕ•ᴥ•ʔ Bear Blog.">
-  <meta itemprop="datePublished" content="2026-01-02T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2026-01-02T00:00:00+00:00">
-  <meta itemprop="image" content="https://ellenli.cc/img/share.png">
-<meta name="referrer" content="no-referrer-when-downgrade" />
-
-  <link rel="alternate" type="application/rss+xml" href="https://ellenli.cc/2026/index.xml" title="Ellen's 自留地" />
-  <style>
-	 
-    :root {
-        --width-max: 700px;
-        --font-primary: Microsoft Yahei UI, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "LXGW WenKai","Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-        --font-secondary: monospace;
-        --font-size-primary: 1em;
-        --font-size-secondary: 0.8em;
-        --bg-color-primary: #fdfdfd;
-        --bg-color-secondary: #f2f4f7;
-        --text-color-primary: #1a1a1a;
-        --text-color-secondary: #444;
-        --text-color-tertiary: #8c8c8c;
-        --link-color: #0066cc;
-        --link-visited-color: #551a8b;
-        --border-color: #d0d7de;
-        --upvoted-color: #fa8072;
-    }
-
-    @media (prefers-color-scheme: dark) {
-         
-        :root {
-            --bg-color-primary: #121212;
-            --bg-color-secondary: #1c1f24;
-            --text-color-primary: #e5e5e5;
-            --text-color-secondary: #b3b3b7;
-            --text-color-tertiary: #a0a0a0;
-            --link-color: #6da6ff;
-            --link-visited-color: #b388ff;
-            --border-color: #30363d;
-            --upvoted-color: #ff6b6b;
-        }
-    }
-
-    body {
-        font-family: var(--font-primary);
-        font-size: var(--font-size-primary);
-        margin: auto;
-        padding: 20px;
-        max-width: var(--width-max);
-        text-align: left;
-        background-color: var(--bg-color-primary);
-        word-wrap: break-word;
-        overflow-wrap: break-word;
-        line-height: 1.7;
-        color: var(--text-color-primary);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6,
-    strong,
-    b {
-        color: var(--text-color-primary);
-    }
-
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        margin: 16px 0;
-    }
-
-    a {
-        color: var(--link-color);
-        cursor: pointer;
-        text-decoration: none;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
-    .title {
-        text-decoration: none;
-        border: 0;
-    }
-
-    .title:hover {
-        text-decoration: none;
-    }
-
-    .title span {
-        font-weight: 400;
-    }
-
-    nav a {
-        margin-right: 8px;
-    }
-
-    textarea {
-        width: 100%;
-        font-size: 16px;
-    }
-
-    input {
-        font-size: 14px;
-    }
-
-    content {
-        line-height: 1.8;
-    }
-
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        border: 1px solid var(--border-color);
-        border-radius: 4px;
-    }
-
-    th,
-    td {
-        border: 1px solid var(--border-color);
-        padding: 4px;
-    }
-
-    th {
-        background-color: var(--bg-color-secondary);
-    }
-
-    hr {
-        border: 0;
-        border-top: 1px dashed;
-    }
-
-    img {
-        max-width: 100%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        border: 1px solid var(--border-color);
-        border-radius: 4px;
-        content-visibility: auto;
-    }
-
-    img[src*="#minipic"] {
-        max-width: 50%;
-        margin-left: 0;
-        margin-right: auto;
-    }
-
-    .image-caption figcaption {
-        text-align: center;
-        font-style: italic;
-        font-size: 0.8em;
-        margin-top: 0.6em;
-        color: var(--text-color-secondary);
-    }
-
-    .image-caption {
-        margin: auto;
-    }
-
-    i {
-        font-style: normal;
-    }
-
-    time {
-        font-family: var(--font-secondary);
-        font-size: 15px;
-    }
-
-    code {
-        font-family: var(--font-secondary);
-        background-color: var(--bg-color-secondary);
-        padding: 2px;
-        border-radius: 4px;
-    }
-
-    pre code {
-        display: block;
-        padding: 16px;
-        white-space: pre-wrap;
-        overflow-x: auto;
-    }
-
-    div.highlight pre {
-        border-radius: 4px;
-    }
-
-    div.highlight code {
-        background-color: var(--bg-color-secondary);
-    }
-
-    blockquote {
-        border-left: 4px solid var(--border-color);
-        color: var(--text-color-secondary);
-        margin: 0;
-        padding-left: 8px;
-        font-style: normal;
-    }
-
-    blockquote p {
-        margin: 0;
-    }
-
-    footer {
-        padding: 25px 0;
-        text-align: center;
-        font-size: var(--font-size-secondary);
-    }
-
-    ul li:has(input) {
-        list-style-type: none;
-        margin-left: -25.5px;
-    }
-
-     
-    ul.blog-posts {
-        list-style-type: none;
-        padding: unset;
-    }
-
-    ul.blog-posts li {
-        display: flex;
-    }
-
-    ul.blog-posts li span {
-        flex: 0 0 130px;
-    }
-
-    ul.blog-posts li span.grouped {
-        flex: 0 0 80px;
-    }
-
-    ul.blog-posts li a:visited {
-        color: var(--link-visited-color);
-    }
-
-     
-    div.toc {
-        position: fixed;  
-        top: 50%;  
-        left: calc(
-            (100vw + var(--width-max)) / 2
-        );  
-        transform: translateY(-50%);  
-        width: calc((90vw - var(--width-max)) / 2);  
-        max-height: 80vh;  
-        overflow-y: auto;  
-        border: none;  
-        padding: 0;  
-        margin: 0;  
-        z-index: 99;  
-
-         
-        -ms-overflow-style: none;  
-        scrollbar-width: none;  
-    }
-
-    div.toc::-webkit-scrollbar {
-         
-        display: none;  
-    }
-
-    .toc-nav {
-         
-        padding: 1.5rem;  
-    }
-
-    .toc-nav ul {
-         
-        list-style: none;  
-        padding: 0;  
-        margin: 0;  
-    }
-
-    .toc-nav li {
-         
-        margin: 8px 0;  
-    }
-
-    .toc-nav a {
-         
-        display: block;  
-        text-decoration: none;  
-        color: transparent;  
-        padding: 0 12px;  
-        transition: all 0.2s ease;  
-        font-size: 0.9rem;  
-        line-height: 1.4;  
-        text-align: left;  
-        white-space: nowrap;  
-        overflow: hidden;  
-        text-overflow: ellipsis;  
-        max-width: 100%;  
-    }
-
-    .toc-nav:hover a {
-        color: var(--text-color-tertiary);  
-    }
-
-    .toc-nav a::before {
-         
-        content: "";  
-        display: inline-block;  
-        width: 16px;  
-        height: 4px;  
-        background-color: var(--text-color-tertiary);
-        border-radius: 16px;  
-        margin-right: 12px;  
-        vertical-align: middle;  
-    }
-
-    .toc-nav ul ul a::before {
-         
-        width: 12px;  
-        margin-right: 16px;  
-    }
-
-    .toc-nav ul ul ul a::before {
-         
-        width: 8px;  
-        margin-right: 20px;  
-    }
-
-    .toc-nav a.active,
-    .toc-nav a:hover {
-        text-decoration: none;
-        color: var(--text-color-primary);
-    }
-
-    .toc-nav a.active::before,
-    .toc-nav a:hover::before {
-        background-color: var(--text-color-primary);
-    }
-
-     
-    button.upvote-btn {
-        margin: 0;
-        padding: 0;
-        border: none;
-        background: none;
-        cursor: pointer;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        color: var(--text-color-primary);
-    }
-
-    button.upvoted {
-        color: var(--upvoted-color);
-    }
-
-    span.upvote-count {
-        margin-top: -4px;
-        font-size: smaller;
-    }
-
-     
-    body:has(.image-zoom-toggle:checked) {
-        overflow: hidden;
-    }
-
-    .image-zoom-container {
-        position: relative;
-        display: block;
-    }
-
-    .image-zoom-toggle {
-        display: none;
-    }
-
-    .image-zoom-label {
-        cursor: zoom-in;
-        display: block;
-        position: relative;
-    }
-
-    .image-zoom-label:focus {
-        outline: 2px solid var(--link-color);
-        outline-offset: 2px;
-    }
-
-    .zoomable-image {
-        transition: transform 0.3s ease;
-    }
-
-     
-    .image-zoom-overlay {
-        display: none;
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        background: rgba(0, 0, 0, 0.9);
-        z-index: 1000;
-        align-items: center;
-        justify-content: center;
-        padding: 20px;
-        margin: 0;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay {
-        display: flex;
-        cursor: zoom-out;
-    }
-
-     
-    .image-zoom-toggle:checked ~ .image-zoom-label {
-        cursor: default;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay .zoomable-image {
-        max-width: 90vw;
-        max-height: 90vh;
-        width: auto;
-        height: auto;
-        transform: scale(1);
-        border: none;
-        border-radius: 8px;
-        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-        margin-left: auto !important;
-        margin-right: auto !important;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay::before {
-        content: "";
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        width: 32px;
-        height: 32px;
-        background: rgba(255, 255, 255, 0.9);
-        border-radius: 50%;
-        cursor: pointer;
-        z-index: 1001;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay::after {
-        content: "✕";
-        position: absolute;
-        top: 20px;
-        right: 20px;
-        width: 32px;
-        height: 32px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 18px;
-        font-weight: bold;
-        color: #000;
-        cursor: pointer;
-        z-index: 1002;
-    }
-
-    .image-zoom-toggle:checked ~ .image-zoom-overlay figcaption {
-        position: fixed;
-        bottom: 20px;
-        left: 50%;
-        transform: translateX(-50%);
-        background: rgba(0, 0, 0, 0.8);
-        color: white;
-        padding: 8px 16px;
-        border-radius: 4px;
-        font-size: 14px;
-        z-index: 1001;
-        max-width: 80vw;
-        text-align: center;
-    }
-
-     
-    @media (max-width: 800px) {
-        img[src*="#minipic"] {
-            max-width: 100%;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        div.toc {
-            display: none;
-        }
-
-        .image-zoom-label {
-            cursor: pointer;
-        }
-
-        .image-zoom-toggle:checked ~ .image-zoom-overlay {
-            padding: 10px;
-        }
-
-        .image-zoom-toggle:checked ~ .image-zoom-overlay::before,
-        .image-zoom-toggle:checked ~ .image-zoom-overlay::after {
-            top: 10px;
-            right: 10px;
-            width: 28px;
-            height: 28px;
-            font-size: 16px;
-        }
-
-        .image-zoom-toggle:checked ~ .image-zoom-overlay figcaption {
-            bottom: 10px;
-            font-size: 12px;
-            padding: 6px 12px;
-        }
-    }
-</style>
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-66J8E77R40"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-66J8E77R40');
-</script></head>
-
-<body>
-  <header><a href="/" class="title">
-  <h1>Ellen&#39;s 自留地</h1>
-</a>
-<nav><a href="/">Home</a>
-
-<a href="/2026/">2026</a>
-
-<a href="https://note.ellenli.cc/">Note</a>
-
-<a href="/categories/weekly/">Weekly</a>
-
-
-<a href="/blog/">Blog</a>
-
-</nav>
-</header>
-  <main>
-<content>
-  
-  
-  <input id="search-input" type="text" placeholder="Search..." style="margin-top: 16px" />
-  <script>
     
-    document.addEventListener('DOMContentLoaded', function () {
-      
-      const searchInput = document.getElementById('search-input');
-      const posts = document.querySelectorAll('.blog-posts li');
-      const years = document.querySelectorAll('.blog-posts h3');
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta name="format-detection" content="telephone=no, date=no, address=no, email=no" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
 
-      
-      function updateSearchResults(searchTerm) {
-        let visiblePosts = 0;
-        const displayedYears = new Set();
-        posts.forEach(function (post) {
-          const title = post.querySelector('a').textContent.toLowerCase();
-          const year = post.querySelector('time').getAttribute('datetime').split('-')[0];
-          if (title.includes(searchTerm)) {
-            post.style.display = '';
-            visiblePosts++;
-            displayedYears.add(year);
-          } else {
-            post.style.display = 'none';
-          }
-        });
+    <title>
+2026 | Ellen&#39;s 自留地</title>
+
+    <link rel="stylesheet" href="/css/meme.min.ce6b2efba496397e85798c679687eb8c2d2d27e74dba750fa75d06e5601264e2.css"/>
+
+    
+    
+        
+            <script src="https://cdn.jsdelivr.net/npm/lunr@2.3.9/lunr.min.js" defer></script><script src="/js/meme.min.e5836f7b8469eebbe7a066b5a369e9e3ed2662a8913de073fdecc5067cffbb46.js"></script>
 
         
-        years.forEach(function (y) {
-          const year = y.textContent;
-          y.style.display = displayedYears.has(year) ? '' : 'none';
-        });
-        
+    
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" media="print" onload="this.media='all'" />
+        <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM&#43;Plex&#43;Serif:ital,wght@0,400;0,500;0,700;1,400;1,700&amp;family=Source&#43;Code&#43;Pro:ital,wght@0,400;0,700;1,400;1,700&amp;family=Comfortaa:wght@700&amp;display=swap" /></noscript>
+
+    <meta name="author" content="Ellen" /><meta name="description" content="MemE is a powerful and highly customizable GoHugo theme for personal blogs." />
+
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="/icons/favicon.svg" />
+    <link rel="icon" type="image/png" href="/icons/favicon-96x96.png" sizes="96x96" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" sizes="180x180" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Ellen&#39;s 自留地" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="application-name" content="Ellen&#39;s 自留地" />
+    <link rel="manifest" href="/manifest.json" />
+
+    
+    
+
+    
+        <link rel="canonical" href="https://ellenli.cc/2026/" />
+    
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "datePublished": "2026-01-02T00:00:00+00:00",
+        "dateModified": "2026-01-15T06:22:42+00:00",
+        "url": "https://ellenli.cc/2026/",
+        "name": "\n2026",
+        "description": "MemE is a powerful and highly customizable GoHugo theme for personal blogs.",
+        "image": "https://ellenli.cc/icons/apple-touch-icon.png",
+        "publisher": {
+            "@type": "Organization",
+            "name": "Ellen's 自留地",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://ellenli.cc/icons/apple-touch-icon.png"
+            },
+            "url": "https://ellenli.cc/"
+        },
+        "mainEntityOfPage": {
+            "@type": "WebSite",
+            "@id": "https://ellenli.cc/"
+        }
+    }
+</script>
+
+    
+
+<meta name="twitter:card" content="summary" />
+
+<meta name="twitter:site" content="@yixiuer" />
+
+    
+
+
+
+<meta property="og:title" content="
+2026" />
+<meta property="og:description" content="MemE is a powerful and highly customizable GoHugo theme for personal blogs." />
+<meta property="og:url" content="https://ellenli.cc/2026/" />
+<meta property="og:site_name" content="Ellen&#39;s 自留地" />
+<meta property="og:locale" content="en" /><meta property="og:image" content="https://ellenli.cc/icons/apple-touch-icon.png" />
+    <meta property="og:type" content="website" />
+
+        <link rel="preconnect" href="https://www.google-analytics.com" crossorigin />
 
         
-        const countText = `There ${visiblePosts <= 1 ? `is ${visiblePosts} piece.` : `are ${visiblePosts} pieces.`}`;
-        document.getElementById('post-count').innerHTML = countText;
-        
-      }
 
-      searchInput.addEventListener('input', function () {
-        updateSearchResults(this.value.toLowerCase().trim());
-      });
-    });
-  </script>
-  
-  
-  
-  <p id="post-count">There  are 4 pieces. </p>
-  
-  <ul class="blog-posts">
+
+
+
+    
+    <script>
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        ga('create', 'G-66J8E77R40', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+    
+
+
     
     
+
     
-    
-    
-    
-    <h3>2026</h3>
-    
-    
-    
-    <li>
-      <span class=" grouped ">
-        <i>
-          <time datetime='2026-01-02' pubdate>
+</head>
+
+    <body>
+        <div class="container">
             
-            01-02
-            
-          </time>
-        </i>
-      </span>
-      <a href="https://ellenli.cc/2026/books2026/">Books 2026</a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    <li>
-      <span class=" grouped ">
-        <i>
-          <time datetime='2026-01-02' pubdate>
-            
-            01-02
-            
-          </time>
-        </i>
-      </span>
-      <a href="https://ellenli.cc/2026/movies2026/">Movies 2026</a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    <li>
-      <span class=" grouped ">
-        <i>
-          <time datetime='2026-01-01' pubdate>
-            
-            01-01
-            
-          </time>
-        </i>
-      </span>
-      <a href="https://ellenli.cc/2026/cosmetics2026/">Cosmetics 2026</a>
-    </li>
-    
-    
-    
-    
-    
-    
-    
-    <li>
-      <span class=" grouped ">
-        <i>
-          <time datetime='2026-01-01' pubdate>
-            
-            01-01
-            
-          </time>
-        </i>
-      </span>
-      <a href="https://ellenli.cc/2026/skincare2026/">护肤 2026</a>
-    </li>
-    
-    
-  </ul>
-  
-  <small>
-    <div>
-      
-      <a href="https://ellenli.cc/tags/%E5%BD%A9%E5%A6%86/">#彩妆</a>&nbsp;
-      
-      <a href="https://ellenli.cc/tags/%E6%8A%A4%E8%82%A4/">#护肤</a>&nbsp;
-      
+    <header class="header">
+        
+            <div class="header-wrapper">
+                <div class="header-inner list">
+                    
+    <div class="site-brand">
+        
+            <a href="/" class="brand">Ellen&#39;s 自留地</a>
+        
     </div>
-  </small>
-  
-</content>
 
-  </main>
-  <footer>
+                    <nav class="nav">
+    <ul class="menu" id="menu">
+        
+
+        
+            
+                <li class="menu-item"><a href=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon archive"><path d="M32 448c0 17.7 14.3 32 32 32h384c17.7 0 32-14.3 32-32V160H32v288zm160-212c0-6.6 5.4-12 12-12h104c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H204c-6.6 0-12-5.4-12-12v-8zM480 32H32C14.3 32 0 46.3 0 64v48c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16V64c0-17.7-14.3-32-32-32z"/></svg><span class="menu-item-name">Posts</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/categories/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon th"><path d="M149.333 56v80c0 13.255-10.745 24-24 24H24c-13.255 0-24-10.745-24-24V56c0-13.255 10.745-24 24-24h101.333c13.255 0 24 10.745 24 24zm181.334 240v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm32-240v80c0 13.255 10.745 24 24 24H488c13.255 0 24-10.745 24-24V56c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24zm-32 80V56c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.256 0 24.001-10.745 24.001-24zm-205.334 56H24c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24zM0 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H24c-13.255 0-24 10.745-24 24zm386.667-56H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zm0 160H488c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H386.667c-13.255 0-24 10.745-24 24v80c0 13.255 10.745 24 24 24zM181.333 376v80c0 13.255 10.745 24 24 24h101.333c13.255 0 24-10.745 24-24v-80c0-13.255-10.745-24-24-24H205.333c-13.255 0-24 10.745-24 24z"/></svg><span class="menu-item-name">Categories</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/tags/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="icon tags"><path d="M497.941 225.941L286.059 14.059A48 48 0 0 0 252.118 0H48C21.49 0 0 21.49 0 48v204.118a48 48 0 0 0 14.059 33.941l211.882 211.882c18.744 18.745 49.136 18.746 67.882 0l204.118-204.118c18.745-18.745 18.745-49.137 0-67.882zM112 160c-26.51 0-48-21.49-48-48s21.49-48 48-48 48 21.49 48 48-21.49 48-48 48zm513.941 133.823L421.823 497.941c-18.745 18.745-49.137 18.745-67.882 0l-.36-.36L527.64 323.522c16.999-16.999 26.36-39.6 26.36-63.64s-9.362-46.641-26.36-63.64L331.397 0h48.721a48 48 0 0 1 33.941 14.059l211.882 211.882c18.745 18.745 18.745 49.137 0 67.882z"/></svg><span class="menu-item-name">Tags</span></a>
+                </li>
+            
+        
+            
+                <li class="menu-item"><a href="/about/"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" class="icon user-circle"><path d="M248 8C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 96c48.6 0 88 39.4 88 88s-39.4 88-88 88-88-39.4-88-88 39.4-88 88-88zm0 344c-58.7 0-111.3-26.6-146.5-68.2 18.8-35.4 55.6-59.8 98.5-59.8 2.4 0 4.8.4 7.1 1.1 13 4.2 26.6 6.9 40.9 6.9 14.3 0 28-2.7 40.9-6.9 2.3-.7 4.7-1.1 7.1-1.1 42.9 0 79.7 24.4 98.5 59.8C359.3 421.4 306.7 448 248 448z"/></svg><span class="menu-item-name">About</span></a>
+                </li>
+            
+        
+            
+                
+                    
+                    
+                        <li class="menu-item">
+                            <button id="theme-switcher" type="button" aria-label="Switch theme"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon theme-icon-light"><path d="M193.2 104.5l48.8-97.5a18 18 0 0128 0l48.8 97.5 103.4 -34.5a18 18 0 0119.8 19.8l-34.5 103.4l97.5 48.8a18 18 0 010 28l-97.5 48.8 34.5 103.4a18 18 0 01-19.8 19.8l-103.4-34.5-48.8 97.5a18 18 0 01-28 0l-48.8-97.5l-103.4 34.5a18 18 0 01-19.8-19.8l34.5-103.4-97.5-48.8a18 18 0 010-28l97.5-48.8-34.5-103.4a18 18 0 0119.8-19.8zM256 128a128 128 0 10.01 0M256 160a96 96 0 10.01 0"/></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon theme-icon-dark"><path d="M27 412a256 256 0 10154-407a11.5 11.5 0 00-5 20a201.5 201.5 0 01-134 374a11.5 11.5 0 00-15 13"/></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" class="icon theme-icon-system"><path d="M528 0H48C21.5 0 0 21.5 0 48v320c0 26.5 21.5 48 48 48h192l-16 48h-72c-13.3 0-24 10.7-24 24s10.7 24 24 24h272c13.3 0 24-10.7 24-24s-10.7-24-24-24h-72l-16-48h192c26.5 0 48-21.5 48-48V48c0-26.5-21.5-48-48-48zm-16 352H64V64h448v288z"/></svg></button>
+                        </li>
+                    
+                
+            
+        
+            
+                
+            
+        
+            
+                <li class="menu-item search-item">
+                        <form id="search" class="search" role="search">
+    <label for="search-input"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon search-icon"><path d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg></label>
+    <input type="search" id="search-input" class="search-input">
+</form>
+
+<template id="search-result" hidden>
+    <article class="content post">
+        <h2 class="post-title"><a class="summary-title-link"></a></h2>
+        <summary class="summary"></summary>
+        <div class="read-more-container">
+            <a class="read-more-link">Read More »</a>
+        </div>
+    </article>
+</template>
+
+                    </li>
+                
+            
+        
+    </ul>
+</nav>
+
+                    
+                </div>
+            </div>
+            
+    <input type="checkbox" id="nav-toggle" aria-hidden="true" />
+    <label for="nav-toggle" class="nav-toggle"></label>
+    <label for="nav-toggle" class="nav-curtain"></label>
+
+
+        
+    </header>
 
 
 
 
-Subscribe via <a href="/index.xml">RSS</a>.
-<br />
+            
+            
+        <main class="main list" id="main">
+            <div class="main-inner">
+                <div class="content list-group">
+                    
+                        
+                            <h1 class="list-title">2026</h1>
+                        
+                        
+                    
+
+                    
+
+                    
+                    
+                        
+                        
+                            
+                            
+                                
+                            
+                                
+                            
+                                
+                                    
+                                
+                            
+                                
+                                    
+                                
+                            
+                                
+                                    
+                                
+                            
+                                
+                                    
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                                
+                            
+                        
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+                    
+                        
+                        
+                        
+                        
+                        
+                            
+                        
+                        
+                        <h2 class="list-year">2026</h2>
+                        
+                            <ul class="list-part">
+        
+            <li class="list-item">
+                <a href="/2026/movies2026/" class="list-item-title">
+Movies 2026</a>
+                <time datetime="2026-01-02T00:00:00&#43;00:00" class="list-item-time">1-2</time>
+            </li>
+        
+            <li class="list-item">
+                <a href="/2026/books2026/" class="list-item-title">
+Books 2026</a>
+                <time datetime="2026-01-02T00:00:00&#43;00:00" class="list-item-time">1-2</time>
+            </li>
+        
+            <li class="list-item">
+                <a href="/2026/skincare2026/" class="list-item-title">
+护肤 2026</a>
+                <time datetime="2026-01-01T00:00:00&#43;00:00" class="list-item-time">1-1</time>
+            </li>
+        
+            <li class="list-item">
+                <a href="/2026/cosmetics2026/" class="list-item-title">
+Cosmetics 2026</a>
+                <time datetime="2026-01-01T00:00:00&#43;00:00" class="list-item-time">1-1</time>
+            </li>
+        
+        
+    </ul>
+
+
+                        
+                    
+                </div>
+            </div>
+        </main>
+    
+
+            
+    <div id="back-to-top" class="back-to-top">
+        <a href="#top" aria-label="Back to top">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="icon arrow-up"><path d="M34.9 289.5l-22.2-22.2c-9.4-9.4-9.4-24.6 0-33.9L207 39c9.4-9.4 24.6-9.4 33.9 0l194.3 194.3c9.4 9.4 9.4 24.6 0 33.9L413 289.4c-9.5 9.5-25 9.3-34.3-.4L264 168.6V456c0 13.3-10.7 24-24 24h-32c-13.3 0-24-10.7-24-24V168.6L69.2 289.1c-9.3 9.8-24.8 10-34.3.4z"/></svg>
+        </a>
+    </div>
+
+
+            
+    <footer id="footer" class="footer">
+        <div class="footer-inner">
+            <div class="site-info">©&nbsp;2025–2026&nbsp;<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="icon footer-icon"><path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"/></svg>&nbsp;Ellen</div><div class="powered-by">
+Powered by <a href="https://github.com/gohugoio/hugo" target="_blank" rel="noopener">Hugo</a> | Theme is <a href="https://github.com/reuixiy/hugo-theme-meme" target="_blank" rel="noopener">MemE</a></div>
+
+            
+
+
+            
+        </div>
+    </footer>
+
+
+        </div>
+        
+
+        
 
 
 
 
 
-
-
-
-
-
-Copyright © 2025, Ellen.
-
-
-</footer>
 
     
 
 
-</body>
 
+    <script src="https://cdn.jsdelivr.net/npm/medium-zoom@latest/dist/medium-zoom.min.js"></script>
+
+<script>
+    let imgNodes = document.querySelectorAll('div.post-body img');
+    imgNodes = Array.from(imgNodes).filter(node => node.parentNode.tagName !== "A");
+
+    mediumZoom(imgNodes, {
+        background: 'hsla(var(--color-bg-h), var(--color-bg-s), var(--color-bg-l), 0.95)'
+    })
+</script>
+
+
+
+
+    <script src="https://cdn.jsdelivr.net/npm/instant.page@5.1.0/instantpage.min.js" type="module" defer></script>
+
+
+
+
+
+
+    </body>
 </html>
