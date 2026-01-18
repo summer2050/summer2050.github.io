@@ -55,5 +55,5 @@
 ---
 
 > Author: Ellen  
-> URL: http://ellenli.cc/blog/2025skincare/  
+> URL: http://localhost:1313/blog/2025skincare/  
 

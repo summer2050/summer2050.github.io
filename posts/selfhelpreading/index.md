@@ -72,5 +72,5 @@
 ---
 
 > Author: Ellen  
-> URL: http://localhost:1313/posts/selfhelpreading/  
+> URL: http://ellenli.cc/posts/selfhelpreading/  
 
