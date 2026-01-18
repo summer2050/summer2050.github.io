@@ -67,5 +67,5 @@
 ---
 
 > Author: Ellen  
-> URL: http://localhost:1313/blog/2026-02/  
+> URL: http://ellenli.cc/blog/2026-02/  
 
