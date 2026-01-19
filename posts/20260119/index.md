@@ -2,8 +2,11 @@
 
 
 > **《屏幕上的聪明决策》**
+>
 > 作者: [美\] 什洛莫·贝纳茨] / [美\] 乔纳·莱勒
+>
 > 原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior
+>
 > 出版年: 2017-3
 
 ### 如何在众多选择中挑出合心意的选择？
