@@ -1,1 +1,1 @@
-window.config={"comment":{"enable":false},"search":{"distance":100,"findAllMatches":false,"fuseIndexURL":"/search.json","highlightTag":"em","ignoreFieldNorm":false,"ignoreLocation":false,"isCaseSensitive":false,"location":0,"maxResultLength":10,"minMatchCharLength":2,"noResultsFound":"No results found","snippetLength":30,"threshold":0.3,"type":"fuse","useExtendedSearch":false},"twemoji":true,"version":"v0.4.1"};console.log('Page config:', window.config);
+window.config={"comment":{"enable":true,"expired":false},"version":"v0.4.2"};
