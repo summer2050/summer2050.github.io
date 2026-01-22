@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Weekly - Category - Ellen&#39;s 自留地</title>
+    <title>Weekly on Ellen&#39;s 自留地</title>
     <link>http://ellenli.cc/categories/weekly/</link>
-    <description>Ellen&#39;s 自留地</description>
-    <generator>Hugo 0.154.5 &amp; FixIt v0.4.2</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 22 Jan 2026 07:15:12 +0000</lastBuildDate>
+    <description>Recent content in Weekly on Ellen&#39;s 自留地</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 13 Jan 2026 12:00:00 +0800</lastBuildDate>
     <atom:link href="http://ellenli.cc/categories/weekly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>26周记 | 02 带娃四天</title>
       <link>http://ellenli.cc/posts/2026-02/</link>
       <pubDate>Tue, 13 Jan 2026 12:00:00 +0800</pubDate>
       <guid>http://ellenli.cc/posts/2026-02/</guid>
-      <category domain="http://ellenli.cc/categories/weekly/">Weekly</category>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2026.1.5-1.11&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
     <item>
@@ -21,15 +20,13 @@
       <link>http://ellenli.cc/posts/2026-01/</link>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://ellenli.cc/posts/2026-01/</guid>
-      <category domain="http://ellenli.cc/categories/weekly/">Weekly</category>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2025.12.29-2026.1.4&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;这周周记发晚了，主要在忙于写读后感。然后意识到，写读后感需要再仔细读一遍书，边读边想边记，来不及和周记一起发。以后遇到要写读后感的书，只能延后发，发到我的&lt;a href=&#34;https://note.ellenli.cc&#34; target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;笔记博客&lt;/a&gt;上。&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;2025.12.29-2026.1.4&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;这周周记发晚了，主要在忙于写读后感。然后意识到，写读后感需要再仔细读一遍书，边读边想边记，来不及和周记一起发。以后遇到要写读后感的书，只能延后发，发到我的&#xA;&#xA;&#xA;&lt;a href=&#34;https://note.ellenli.cc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;笔记博客&lt;/a&gt;&#xA;上。&lt;/p&gt;</description>
     </item>
     <item>
       <title>25Weekly | 写年终总结、读书、观影</title>
       <link>http://ellenli.cc/posts/20251230/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://ellenli.cc/posts/20251230/</guid>
-      <category domain="http://ellenli.cc/categories/weekly/">Weekly</category>
       <description>&lt;p&gt;2025年12月22日至12月28日&lt;/p&gt;</description>
     </item>
   </channel>
