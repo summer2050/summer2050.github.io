@@ -12,10 +12,17 @@
     <copyright>Copyright © 2025, Ellen.</copyright>
     
     
-    <lastBuildDate>Wed, 31 Dec 2025 17:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 14:30:00 +0800</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/categories/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年一月小结</title>
+      <link>https://ellenli.cc/posts/2026-january/</link>
+      <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
+      <guid>https://ellenli.cc/posts/2026-january/</guid>
+      <description>&lt;p&gt;之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>我的2025</title>
       <link>https://ellenli.cc/posts/my2025/</link>
