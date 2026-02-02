@@ -1,1 +1,0 @@
-window.config={"comment":{"enable":true,"expired":false},"version":"v0.4.2"};
