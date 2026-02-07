@@ -6,8 +6,16 @@
     <description>Ellen&#39;s 自留地</description>
     <generator>Hugo 0.155.2 &amp; FixIt v0.4.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Feb 2026 13:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 11:33:19 +0000</lastBuildDate>
     <atom:link href="http://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分享一个无痛减少刷手机的方法</title>
+      <link>http://ellenli.cc/posts/20260207/</link>
+      <pubDate>Sat, 07 Feb 2026 19:30:00 +0800</pubDate>
+      <guid>http://ellenli.cc/posts/20260207/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%83%B3%E6%B3%95/">想法</category>
+      <description>&lt;p&gt;从拥有智能手机的第一年起，或者说从社交网站诞生起，我就尝试过多种减少社交应用使用时间的方法。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2026年一月小结</title>
       <link>http://ellenli.cc/posts/2026-january/</link>
@@ -79,14 +87,6 @@
       <guid>http://ellenli.cc/posts/2025skincare/</guid>
       <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
       <description>&lt;p&gt;这一年&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;&#xA;&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;&#xA;&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>换种方式读自我提升类型的书</title>
-      <link>http://ellenli.cc/posts/selfhelpreading/</link>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://ellenli.cc/posts/selfhelpreading/</guid>
-      <category domain="http://ellenli.cc/categories/%E6%83%B3%E6%B3%95/">想法</category>
-      <description>&lt;p&gt;我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
