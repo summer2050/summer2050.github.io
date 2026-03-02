@@ -4,10 +4,18 @@
     <title>Ellen&#39;s 自留地</title>
     <link>http://ellenli.cc/</link>
     <description>Ellen&#39;s 自留地</description>
-    <generator>Hugo 0.156.0 &amp; FixIt v0.4.2</generator>
+    <generator>Hugo 0.157.0 &amp; FixIt v0.4.2</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 05:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 05:49:33 +0000</lastBuildDate>
     <atom:link href="http://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年二月小结</title>
+      <link>http://ellenli.cc/posts/2026-02/</link>
+      <pubDate>Mon, 02 Mar 2026 13:00:00 +0800</pubDate>
+      <guid>http://ellenli.cc/posts/2026-02/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
+      <description>&lt;p&gt;尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>26周记 | 06 充实的一周</title>
       <link>http://ellenli.cc/posts/2026-06/</link>
@@ -79,14 +87,6 @@
       <guid>http://ellenli.cc/posts/20251230/</guid>
       <category domain="http://ellenli.cc/categories/weekly/">Weekly</category>
       <description>&lt;p&gt;2025年12月22日至12月28日&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025 彩妆总结</title>
-      <link>http://ellenli.cc/posts/2025cosmetics/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://ellenli.cc/posts/2025cosmetics/</guid>
-      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
-      <description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
