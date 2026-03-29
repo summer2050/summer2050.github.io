@@ -47,5 +47,5 @@
 ---
 
 > Author: Ellen  
-> URL: http://ellenli.cc/posts/20251230/  
+> URL: http://ellenli.cc/weekly/20251230/  
 

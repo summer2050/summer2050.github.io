@@ -92,5 +92,5 @@
 ---
 
 > Author: Ellen  
-> URL: http://ellenli.cc/posts/2026-01/  
+> URL: http://ellenli.cc/weekly/2026-01/  
 

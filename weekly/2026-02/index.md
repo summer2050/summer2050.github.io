@@ -67,5 +67,5 @@
 ---
 
 > Author: Ellen  
-> URL: http://ellenli.cc/posts/2026-02/  
+> URL: http://ellenli.cc/weekly/2026-02/  
 

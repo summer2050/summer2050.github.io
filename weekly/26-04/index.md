@@ -63,5 +63,5 @@
 ---
 
 > Author: Ellen  
-> URL: http://ellenli.cc/posts/26-04/  
+> URL: http://ellenli.cc/weekly/26-04/  
 
