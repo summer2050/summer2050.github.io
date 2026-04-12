@@ -14,9 +14,30 @@
     
     <webMaster></webMaster>
     
-    <lastBuildDate>Mon, 02 Mar 2026 13:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 Z</lastBuildDate>
     
     <atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    
+
+    <item>
+      <title>About</title>
+      <link>https://ellenli.cc/about/</link>
+      <pubDate>Sun, 12 Apr 2026 00:00:00 Z</pubDate>
+      
+      <author></author>
+
+      
+      
+      
+      
+
+      <description>
+       ## 子博客 笔记
+周记
+
+      </description>
+      <guid isPermaLink="true">https://ellenli.cc/about/</guid>
+    </item>
     
 
     <item>
