@@ -1,377 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/</link>
-    <description>Recent blog posts on Ellen&#39;s 自留地</description>
-    
-    <generator>Hugo (https://gohugo.io)</generator>
-    
-    <language>en-us</language>
-    
-    <managingEditor></managingEditor>
-    
-    <webMaster></webMaster>
-    
-    <lastBuildDate>Sun, 12 Apr 2026 00:00:00 Z</lastBuildDate>
-    
-    <atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
-    
-
-    <item>
-      <title>About</title>
-      <link>https://ellenli.cc/about/</link>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       ## 子博客 笔记
-周记
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/about/</guid>
-    </item>
-    
-
+    <link>http://ellenli.cc/</link>
+    <description>Ellen&#39;s 自留地</description>
+    <generator>Hugo 0.160.1 &amp; FixIt v0.4.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Apr 2026 04:53:17 +0000</lastBuildDate>
+    <atom:link href="http://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026年二月小结</title>
-      <link>https://ellenli.cc/posts/2026-february/</link>
+      <link>http://ellenli.cc/posts/2026-february/</link>
       <pubDate>Mon, 02 Mar 2026 13:00:00 +0800</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/2026-february/</guid>
+      <guid>http://ellenli.cc/posts/2026-february/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
+      <description>&lt;p&gt;尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。&lt;/p&gt;</description>
     </item>
-    
-
     <item>
       <title>分享一个无痛减少刷手机的方法</title>
-      <link>https://ellenli.cc/posts/20260207/</link>
+      <link>http://ellenli.cc/posts/20260207/</link>
       <pubDate>Sat, 07 Feb 2026 19:30:00 +0800</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/20260207/</guid>
+      <guid>http://ellenli.cc/posts/20260207/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%83%B3%E6%B3%95/">想法</category>
+      <description>&lt;p&gt;从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。&lt;/p&gt;</description>
     </item>
-    
-
     <item>
       <title>2026年一月小结</title>
-      <link>https://ellenli.cc/posts/2026-january/</link>
+      <link>http://ellenli.cc/posts/2026-january/</link>
       <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/2026-january/</guid>
+      <guid>http://ellenli.cc/posts/2026-january/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
+      <description>&lt;p&gt;之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。&lt;/p&gt;</description>
     </item>
-    
-
     <item>
       <title>笔记 | 《屏幕上的聪明决策》之第7章：应对屏幕上的选择困难</title>
-      <link>https://ellenli.cc/posts/20260119/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       《屏幕上的聪明决策》
-作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒
-原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior
-出版年: 2017-3
-## 如何在众多选择中挑出合心意的选择？ 在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？
-无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。
-购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。
-如何把上百个选项降到5个以内？
-分类，以此排除大部分选项，选出16个选项。
-还剩16多个选项，怎么做？
-以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。
-在4个选项中认真比较，找出最佳的选择。
-选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/20260119/</guid>
+      <link>http://ellenli.cc/posts/20260119/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://ellenli.cc/posts/20260119/</guid>
+      <category domain="http://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒&lt;/p&gt;&#xA;&lt;p&gt;原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior&lt;/p&gt;&#xA;&lt;p&gt;出版年: 2017-3&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 class=&#34;heading-element&#34; id=&#34;如何在众多选择中挑出合心意的选择&#34;&gt;&lt;span&gt;如何在众多选择中挑出合心意的选择？&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%a6%82%e4%bd%95%e5%9c%a8%e4%bc%97%e5%a4%9a%e9%80%89%e6%8b%a9%e4%b8%ad%e6%8c%91%e5%87%ba%e5%90%88%e5%bf%83%e6%84%8f%e7%9a%84%e9%80%89%e6%8b%a9&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;</description>
     </item>
-    
-
-    <item>
-      <title>Books 2026</title>
-      <link>https://ellenli.cc/2026/books2026/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       # 一月 Chasing Hope: A Reporter&amp;amp;rsquo;s Life (12.21-1.2) ⭐⭐⭐⭐⭐
-作者父亲的经历、作者采访的经历，不少纽约时报内部的办公室政治，写普通人的故事很感人。最后几章竞选州长讲美国政治就不那么吸引人。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/2026/books2026/</guid>
-    </item>
-    
-
-    <item>
-      <title>Movies 2026</title>
-      <link>https://ellenli.cc/2026/movies2026/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       # 一月 
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/2026/movies2026/</guid>
-    </item>
-    
-
-    <item>
-      <title>Cosmetics 2026</title>
-      <link>https://ellenli.cc/2026/cosmetics2026/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       ## 妆前 time secret 妆前，粉色和绿色各一支
-## 遮瑕 剧院魅影三色遮暇（小样）
-## 粉底 pl 看不见粉底一代
-Mac 无暇粉底液二代
-郑瑄茉气垫
-Laura Mercier 气垫
-## 眉笔 植村秀砍刀眉笔
-橘朵眉笔
-## 定妆 ## 腮红 倩碧小雏菊腮红 05
-## 口红 
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/2026/cosmetics2026/</guid>
-    </item>
-    
-
-    <item>
-      <title>护肤 2026</title>
-      <link>https://ellenli.cc/2026/skincare2026/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       ## 爽肤水 HBN发光水 雅诗兰黛原生液精华 ## 日间精华 拾颜VC精华喷雾（已失活） 瑷尔博士精华 三蛋丸 EUK精华 ## 夜间精华 露得清超A瓶a醇精华 snowberry 蓝铜胜肽精华 murad A醇晚霜 ## 眼霜 芯丝翠眼霜 悦薇眼霜 ## 乳液面霜 瑷尔博士益生菌面霜 珂润面霜 ## 防晒 妮维雅630防晒 欧珀莱黄瓶防晒 ## 清洁 植村秀琥珀卸妆油（小样） 且初卸妆膏 
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/2026/skincare2026/</guid>
-    </item>
-    
-
     <item>
       <title>我的2025</title>
-      <link>https://ellenli.cc/posts/my2025/</link>
+      <link>http://ellenli.cc/posts/my2025/</link>
       <pubDate>Wed, 31 Dec 2025 17:00:00 +0800</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      2025年马上要过去了，回首这一年，我没有太多情绪，没有很快乐的事，也没有很糟糕的事，平平淡淡地度过这一年。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/my2025/</guid>
+      <guid>http://ellenli.cc/posts/my2025/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
+      <description>&lt;p&gt;2025年马上要过去了，回首这一年，我没有太多情绪，没有很快乐的事，也没有很糟糕的事，平平淡淡地度过这一年。&lt;/p&gt;</description>
     </item>
-    
-
     <item>
       <title>2025 彩妆总结</title>
-      <link>https://ellenli.cc/posts/2025cosmetics/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/2025cosmetics/</guid>
+      <link>http://ellenli.cc/posts/2025cosmetics/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://ellenli.cc/posts/2025cosmetics/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
+      <description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
     </item>
-    
-
     <item>
       <title>2025 护肤总结</title>
-      <link>https://ellenli.cc/posts/2025skincare/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      这一年
-终于回归使用a醇，皮肤细腻。 尝试用15%的原型维C，大翻车，刺痛长痘。 最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。 
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/2025skincare/</guid>
+      <link>http://ellenli.cc/posts/2025skincare/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://ellenli.cc/posts/2025skincare/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
+      <description>&lt;p&gt;这一年&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;&#xA;&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;&#xA;&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
-
     <item>
       <title>换种方式读自我提升类型的书</title>
-      <link>https://ellenli.cc/posts/selfhelpreading/</link>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/selfhelpreading/</guid>
+      <link>http://ellenli.cc/posts/selfhelpreading/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://ellenli.cc/posts/selfhelpreading/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%83%B3%E6%B3%95/">想法</category>
+      <description>&lt;p&gt;我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。&lt;/p&gt;</description>
     </item>
-    
-
-    <item>
-      <title>2025-12 记录</title>
-      <link>https://ellenli.cc/202512/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       # 关于 博主
-低精力的懒人，但想变得不那么懒 有大把时间摸鱼，想充实摸鱼 2024年育一娃，从此开始漫漫育儿路（摸鱼时间显著减少） 写
-日常记录和总结 阅读笔记：包括但不限于书籍、播客、视频、论文…… 想法思考 # 2025年12月 ## 主线任务 在12/31前写完年终小结 语言学习：日语 研究：1-2岁育儿 《发展心理学：从生命早期到青春期》⭐⭐⭐⭐ 只读学前期部分。 《一个经济学家的育儿指南》 ⭐⭐⭐ 《蒙台梭利家庭方案》（12/22）⭐⭐⭐ 《0-5岁，大脑发育的黄金五年》⭐⭐⭐⭐ ## 小习惯 12/21起，15点前不看 mastodon （12/20更新，12/30放弃） 15点前不看rss、小红书、twitter 吃饭、上厕所不看手机 ## 思考的问题 如何拓展内容，而不是只有一个概括性的句子？ ## 翻书 《关键七问》⭐⭐
-《屏幕上的聪明决策》⭐⭐⭐⭐
-Chasing Hope: A Reporter&amp;amp;rsquo;s Life (12.21-1.2) ⭐⭐⭐⭐⭐
-作者父亲的经历、作者采访的经历，不少纽约时报内部的办公室政治，写普通人的故事很感人。最后几章竞选州长讲美国政治就不那么吸引人。
-《还可以的金女士》(12.25-12.31)⭐⭐⭐⭐
-## 影音 电影《异形：契约》⭐⭐⭐⭐ 国产剧《许我耀眼》⭐⭐⭐ 电影《小妇人》2019版 ⭐⭐⭐ 
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/202512/</guid>
-    </item>
-    
-
-    <item>
-      <title>About</title>
-      <link>https://ellenli.cc/about2/</link>
-      <pubDate>Tue, 25 Nov 2025 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       ## 第二博客是什么 有第二博客，必然有第一博客。
-很多时候，人们建立博客，精心挑选精美的主题，乐此不疲地装修主题，但在输出内容上，则更新地很少。
-为什么更新少？可能是没有想好以怎样的频率，写出怎样的内容。还可能是，对内容的要求过高，觉得写出来的东西不值得别人花时间阅读。
-所以，我建立第二博客来应对完美主义的难题。第二博客的初衷是练习写作，保持更新，希望在实际写作中提高写作能力。之后挑选写的不错的、个人满意的文章放到第一博客中。
-## 为什么要公开写作 因为希望写的东西能对他人有用吧。
-我哼哧哼哧读了那么多东西，只读不记笔记，很快忘记。
-记的笔记只给自己看，觉得有点可惜。
-如果能把看到的东西分享给有缘人，万一对他人有用，那我的阅读和记录不算白费。
-分享能让我的阅读和记录最大化功用。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/about2/</guid>
-    </item>
-    
-
-    <item>
-      <title></title>
-      <link>https://ellenli.cc/index_about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       # 关于 博主
-低精力的懒人，但想变得不那么懒 有大把时间摸鱼，想充实摸鱼 2024年育一娃，从此开始漫漫育儿路（摸鱼时间显著减少） 写
-日常记录和总结 阅读笔记：包括但不限于书籍、播客、视频、论文…… 想法思考 
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/index_about/</guid>
-    </item>
-    
   </channel>
 </rss>
