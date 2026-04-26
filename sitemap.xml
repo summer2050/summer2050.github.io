@@ -35,13 +35,13 @@
         <loc>https://ellenli.cc/posts/2026-january/</loc>
         <lastmod>2026-02-01T14:30:00+08:00</lastmod>
       </url><url>
-        <loc>https://ellenli.cc/tags/%E5%86%B3%E7%AD%96/</loc>
-        <lastmod>2026-01-19T00:00:00+00:00</lastmod>
-      </url><url>
         <loc>https://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/</loc>
         <lastmod>2026-01-19T00:00:00+00:00</lastmod>
       </url><url>
         <loc>https://ellenli.cc/posts/20260119/</loc>
+        <lastmod>2026-01-19T00:00:00+00:00</lastmod>
+      </url><url>
+        <loc>https://ellenli.cc/tags/%E5%86%B3%E7%AD%96/</loc>
         <lastmod>2026-01-19T00:00:00+00:00</lastmod>
       </url><url>
         <loc>https://ellenli.cc/2026/</loc>
@@ -84,5 +84,7 @@
         <lastmod>2025-11-25T00:00:00+00:00</lastmod>
       </url><url>
         <loc>https://ellenli.cc/index_about/</loc>
+      </url><url>
+        <loc>https://ellenli.cc/authors/</loc>
       </url>
 </urlset>
