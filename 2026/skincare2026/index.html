@@ -267,7 +267,7 @@
 
 
     
-        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4?rnd=1777182057" type="text/javascript" charset="utf-8" defer></script>
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4?rnd=1777182162" type="text/javascript" charset="utf-8" defer></script>
     
 
 
@@ -655,49 +655,6 @@
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
-
-
-    
-
- 
- 
- 
-
-<script>
-        function detectCurrentScheme2() {
-                const defaultTheme = "auto";
-                if (localStorage !== null && localStorage.getItem("user-color-scheme")) {
-                        return localStorage.getItem("user-color-scheme");
-                }
-                if (defaultTheme === "dark" || defaultTheme === "light") {
-                        return defaultTheme;
-                }
-                return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
-        }
-
-        let giscusTheme = detectCurrentScheme2();
-        let giscusAttributes = {
-                src: "https://giscus.app/client.js",
-                "data-repo": "hugo-theme-anubis2\/hugo-theme-anubis2",
-                "data-repo-id": "R_kgDOLEp76Q",
-                "data-category": "General",
-                "data-category-id": "DIC_kwDOLEp76c4CcbPS",
-                "data-mapping": "pathname",
-                "data-strict": "0",
-                "data-reactions-enabled": "1",
-                "data-emit-metadata": "0",
-                "data-input-position": "bottom",
-                "data-theme": giscusTheme,
-                "data-lang": "en",
-                crossorigin: "anonymous",
-                lazyload: "false",
-                async: true,
-        };
-        let main = document.querySelector("main");
-        let giscusScript = document.createElement("script");
-        Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
-        main.appendChild(giscusScript);
-</script>
 
 
 
