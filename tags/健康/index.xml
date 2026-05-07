@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>Ellen&#39;s 自留地</title>
+    <link>https://ellenli.cc/</link>
+    <description>Recent blog posts on Ellen&#39;s 自留地</description>
+    
+    <generator>Hugo (https://gohugo.io)</generator>
+    
+    <language>en-us</language>
+    
+    <managingEditor></managingEditor>
+    
+    <webMaster></webMaster>
+    
+    <lastBuildDate>Thu, 07 May 2026 13:20:00 +0800</lastBuildDate>
+    
+    <atom:link href="https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+
+    <item>
+      <title>【精读一本书】Eat Your Ice Cream</title>
+      <link>https://ellenli.cc/posts/book-eatyouricecream/</link>
+      <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
+      
+      <author></author>
+
+      
+      
+      
+      
+
+      <description>
+       Eat Your Ice Cream 的读后感早早写好，迟迟未发。 发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。
+
+      </description>
+      <guid isPermaLink="true">https://ellenli.cc/posts/book-eatyouricecream/</guid>
+    </item>
+    
+  </channel>
+</rss>
