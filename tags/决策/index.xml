@@ -1,54 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/</link>
-    <description>Recent blog posts on Ellen&#39;s 自留地</description>
-    
-    <generator>Hugo (https://gohugo.io)</generator>
-    
-    <language>en-us</language>
-    
-    <managingEditor></managingEditor>
-    
-    <webMaster></webMaster>
-    
-    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 Z</lastBuildDate>
-    
+    <title>决策 on Ellen&#39;s 自留地</title>
+    <link>https://ellenli.cc/tags/%E5%86%B3%E7%AD%96/</link>
+    <description>Recent content in 决策 on Ellen&#39;s 自留地</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ellenli.cc/tags/%E5%86%B3%E7%AD%96/index.xml" rel="self" type="application/rss+xml" />
-    
-
     <item>
       <title>笔记 | 《屏幕上的聪明决策》之第7章：应对屏幕上的选择困难</title>
       <link>https://ellenli.cc/posts/20260119/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       《屏幕上的聪明决策》
-作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒
-原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior
-出版年: 2017-3
-## 如何在众多选择中挑出合心意的选择？ 在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？
-无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。
-购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。
-如何把上百个选项降到5个以内？
-分类，以此排除大部分选项，选出16个选项。
-还剩16多个选项，怎么做？
-以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。
-在4个选项中认真比较，找出最佳的选择。
-选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。
-
-      </description>
-      <guid isPermaLink="true">https://ellenli.cc/posts/20260119/</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellenli.cc/posts/20260119/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒&lt;/p&gt;&#xA;&lt;p&gt;原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior&lt;/p&gt;&#xA;&lt;p&gt;出版年: 2017-3&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;如何在众多选择中挑出合心意的选择&#34;&gt;如何在众多选择中挑出合心意的选择？&lt;/h3&gt;&#xA;&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;&#xA;&lt;p&gt;无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。&lt;/p&gt;&#xA;&lt;p&gt;购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。&lt;/p&gt;&#xA;&lt;p&gt;如何把上百个选项降到5个以内？&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;分类，以此排除大部分选项，选出16个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;还剩16多个选项，怎么做？&lt;/p&gt;&#xA;&lt;p&gt;以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;在4个选项中认真比较，找出最佳的选择。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
   </channel>
 </rss>
