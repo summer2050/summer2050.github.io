@@ -58,5 +58,5 @@
 ---
 
 > Author: Ellen  
-> URL: https://ellenli.cc/posts/2025cosmetics/  
+> URL: http://ellenli.cc/posts/2025cosmetics/  
 

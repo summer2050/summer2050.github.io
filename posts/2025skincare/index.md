@@ -55,5 +55,5 @@
 ---
 
 > Author: Ellen  
-> URL: https://ellenli.cc/posts/2025skincare/  
+> URL: http://ellenli.cc/posts/2025skincare/  
 

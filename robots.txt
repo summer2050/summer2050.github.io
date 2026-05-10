@@ -97,4 +97,4 @@ Disallow: /
 User-agent: ClaudeBot
 Disallow: /
 
-Sitemap: https://ellenli.cc/sitemap.xml
+Sitemap: http://ellenli.cc/sitemap.xml
