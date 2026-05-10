@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>健康 on Ellen&#39;s 自留地</title>
+    <title>健康 - Tag - Ellen&#39;s 自留地</title>
     <link>https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/</link>
-    <description>Recent content in 健康 on Ellen&#39;s 自留地</description>
-    <generator>Hugo</generator>
+    <description>Ellen&#39;s 自留地</description>
+    <generator>Hugo 0.161.1 &amp; FixIt v0.4.1</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 13:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 06:07:25 +0000</lastBuildDate>
     <atom:link href="https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【精读一本书】Eat Your Ice Cream</title>
       <link>https://ellenli.cc/posts/book-eatyouricecream/</link>
       <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
       <guid>https://ellenli.cc/posts/book-eatyouricecream/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;doulist-item&#34;&gt;&#xA;    &lt;div class=&#34;doulist-subject&#34;&gt;&#xA;        &lt;div class=&#34;doulist-post&#34;&gt;&#xA;            &lt;img decoding=&#34;async&#34; referrerpolicy=&#34;no-referrer&#34; src=&#34;https://dbapi.wpista.com/book/38189063.jpg&#34; alt=&#34;Eat Your Ice Cream: Six Simple Rules for a Long and Healthy Life&#34;&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&#34;doulist-content&#34;&gt;&#xA;            &lt;div class=&#34;doulist-title&#34;&gt;&#xA;                &lt;a href=&#34;https://book.douban.com/subject/38189063/&#34; class=&#34;cute&#34; target=&#34;_blank&#34; rel=&#34;external nofollow&#34;&#xA;                    title=&#34;Eat Your Ice Cream: Six Simple Rules for a Long and Healthy Life&#34;&gt;Eat Your Ice Cream: Six Simple Rules for a Long and Healthy Life&lt;/a&gt;&#xA;            &lt;/div&gt;&#xA;            &lt;div class=&#34;rating&#34;&gt;&#xA;                &lt;span class=&#34;allstardark&#34;&gt;&#xA;                    &lt;span class=&#34;allstarlight&#34; style=&#34;--width: 0%&#34;&gt;&lt;/span&gt;&#xA;                &lt;/span&gt;&#xA;                &lt;span class=&#34;rating_nums&#34;&gt;0.0&lt;/span&gt;&#xA;            &lt;/div&gt;&#xA;            &lt;div class=&#34;abstract&#34;&gt;Ezekiel J. Emanuel MD / W. W. Norton &amp;amp; Company&lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
+      <category domain="https://ellenli.cc/categories/note/">Note</category>
+      <description>&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34; border=&#34;0&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34; target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
