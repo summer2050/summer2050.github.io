@@ -1,11 +1,9 @@
 # About
 
 
-### 子博客
+## 关于
 
-- [笔记](https://note.ellenli.cc)
-
-- [周记](https://weekly.ellenli.cc)
+### 为什么写博客？
 
 ---
 
