@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>笔记 on Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/</link>
-    <description>Recent content in 笔记 on Ellen&#39;s 自留地</description>
-    <generator>Hugo</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Mon, 18 May 2026 06:26:31 +0000</lastBuildDate>
-    <atom:link href="https://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <title>笔记 - Category - Ellen&#39;s 自留地</title>
+    <link>http://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/</link>
+    <description>Ellen&#39;s 自留地</description>
+    <generator>Hugo 0.161.1 &amp; FixIt v0.4.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 May 2026 06:30:08 +0000</lastBuildDate>
+    <atom:link href="http://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【精读一本书】Eat Your Ice Cream</title>
-      <link>https://ellenli.cc/posts/book-eatyouricecream/</link>
+      <link>http://ellenli.cc/posts/book-eatyouricecream/</link>
       <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
-      <guid>https://ellenli.cc/posts/book-eatyouricecream/</guid>
-      <description>&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34; border=&#34;0&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
+      <guid>http://ellenli.cc/posts/book-eatyouricecream/</guid>
+      <category domain="http://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      <description>&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34; border=&#34;0&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34; target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
     </item>
     <item>
       <title>笔记 | 《屏幕上的聪明决策》之第7章：应对屏幕上的选择困难</title>
-      <link>https://ellenli.cc/posts/20260119/</link>
+      <link>http://ellenli.cc/posts/20260119/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/posts/20260119/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒&lt;/p&gt;&#xA;&lt;p&gt;原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior&lt;/p&gt;&#xA;&lt;p&gt;出版年: 2017-3&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;如何在众多选择中挑出合心意的选择&#34;&gt;如何在众多选择中挑出合心意的选择？&lt;/h3&gt;&#xA;&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;&#xA;&lt;p&gt;无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。&lt;/p&gt;&#xA;&lt;p&gt;购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。&lt;/p&gt;&#xA;&lt;p&gt;如何把上百个选项降到5个以内？&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;分类，以此排除大部分选项，选出16个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;还剩16多个选项，怎么做？&lt;/p&gt;&#xA;&lt;p&gt;以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;在4个选项中认真比较，找出最佳的选择。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <guid>http://ellenli.cc/posts/20260119/</guid>
+      <category domain="http://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/">笔记</category>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒&lt;/p&gt;&#xA;&lt;p&gt;原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior&lt;/p&gt;&#xA;&lt;p&gt;出版年: 2017-3&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 class=&#34;heading-element&#34; id=&#34;如何在众多选择中挑出合心意的选择&#34;&gt;&lt;span&gt;如何在众多选择中挑出合心意的选择？&lt;/span&gt;&#xA;  &lt;a href=&#34;#%e5%a6%82%e4%bd%95%e5%9c%a8%e4%bc%97%e5%a4%9a%e9%80%89%e6%8b%a9%e4%b8%ad%e6%8c%91%e5%87%ba%e5%90%88%e5%bf%83%e6%84%8f%e7%9a%84%e9%80%89%e6%8b%a9&#34; class=&#34;heading-mark&#34;&gt;&#xA;    &lt;svg class=&#34;octicon octicon-link&#34; viewBox=&#34;0 0 16 16&#34; version=&#34;1.1&#34; width=&#34;16&#34; height=&#34;16&#34; aria-hidden=&#34;true&#34;&gt;&lt;path d=&#34;m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
