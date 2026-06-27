@@ -1,20 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
   <channel>
-    <title>护肤 - Tag - Ellen&#39;s 自留地</title>
-    <link>http://ellenli.cc/tags/%E6%8A%A4%E8%82%A4/</link>
-    <description>Ellen&#39;s 自留地</description>
-    <generator>Hugo 0.161.1 &amp; FixIt v0.4.2</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 18 May 2026 10:01:44 +0000</lastBuildDate>
-    <atom:link href="http://ellenli.cc/tags/%E6%8A%A4%E8%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    <title>Ellen&#39;s 自留地</title>
+    <link>https://ellenli.cc/</link>
+    <description>Recent blog posts on Ellen&#39;s 自留地</description>
+    
+    <generator>Hugo (https://gohugo.io)</generator>
+    
+    <language>en-us</language>
+    
+    <managingEditor></managingEditor>
+    
+    <webMaster></webMaster>
+    
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 Z</lastBuildDate>
+    
+    <atom:link href="https://ellenli.cc/tags/%E6%8A%A4%E8%82%A4/index.xml" rel="self" type="application/rss+xml" />
+    
+
     <item>
       <title>2025 护肤总结</title>
-      <link>http://ellenli.cc/posts/2025skincare/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://ellenli.cc/posts/2025skincare/</guid>
-      <category domain="http://ellenli.cc/categories/%E6%80%BB%E7%BB%93/">总结</category>
-      <description>&lt;p&gt;这一年&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;&#xA;&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;&#xA;&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <link>https://ellenli.cc/posts/2025skincare/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 Z</pubDate>
+      
+      <author></author>
+
+      
+      
+      
+      
+
+      <description>
+      这一年
+终于回归使用a醇，皮肤细腻。 尝试用15%的原型维C，大翻车，刺痛长痘。 最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。 
+      </description>
+      <content:encoded>&lt;p&gt;这一年&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;
+&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;
+&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;爽肤水&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e7%88%bd%e8%82%a4%e6%b0%b4&#34;&gt;
+        ##
+    &lt;/a&gt;
+    爽肤水
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; HBN发光水。还可以，不知道有没有用。&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 雅诗兰黛原生液精华（小样）。还可以，不知道有没有用。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;精华&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e7%b2%be%e5%8d%8e&#34;&gt;
+        ##
+    &lt;/a&gt;
+    精华
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 德玛润精华。还可以，不知道有没有用&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 拾颜VC精华。喷头不好用，有待改进。总是喷得到处都是，溅到衣服上。&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 瑷尔博士摇醒精华&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 三蛋丸 EUK 精华&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 露得清A醇精华。好用，有效果。⭐⭐⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; snowberry蓝铜胜肽精华&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 悦木之源榆绿木精华（小样）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;眼霜&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e7%9c%bc%e9%9c%9c&#34;&gt;
+        ##
+    &lt;/a&gt;
+    眼霜
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 芯丝翠眼霜。好用！有效果！⭐⭐⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 悦薇眼霜。好用。⭐⭐⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 欧珀莱眼霜（小样）。滋润，无功无过。&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 悦薇焕白眼霜（小样）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;乳液与面霜&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e4%b9%b3%e6%b6%b2%e4%b8%8e%e9%9d%a2%e9%9c%9c&#34;&gt;
+        ##
+    &lt;/a&gt;
+    乳液与面霜
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; freeplus 乳液（小样）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 雅漾修复霜。屏障修护利器。&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 贝德玛控油乳。好用！（夏）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 雅诗兰黛智妍乳霜（小样）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; murad a醇面霜（小样）⭐⭐⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 瑷尔博士益生菌面霜（冬）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 珂润面霜（冬）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;防晒&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e9%98%b2%e6%99%92&#34;&gt;
+        ##
+    &lt;/a&gt;
+    防晒
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 理肤泉大哥大。好用！防晒力强，和底妆不打架。&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 妮维雅630防晒&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 雪肌精防晒霜（小样）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 欧珀莱防晒黄瓶&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;卸妆&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%8d%b8%e5%a6%86&#34;&gt;
+        ##
+    &lt;/a&gt;
+    卸妆
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 且初卸妆膏。不错，便宜，在李佳琦直播间买了好多。&lt;/li&gt;
+&lt;/ul&gt;</content:encoded>
+      
+      <category>护肤</category>
+      
+      
+      <category>总结</category>
+      
+      <guid isPermaLink="true">https://ellenli.cc/posts/2025skincare/</guid>
     </item>
+    
   </channel>
 </rss>
