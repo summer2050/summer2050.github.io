@@ -1,188 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/</link>
-    <description>Recent blog posts on Ellen&#39;s 自留地</description>
+    <title>笔记 on Ellen&#39;s 自留地</title>
+    <link>http://localhost:1313/categories/%E7%AC%94%E8%AE%B0/</link>
+    <description>Recent content in 笔记 on Ellen&#39;s 自留地</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
     
-    <generator>Hugo (https://gohugo.io)</generator>
     
-    <language>zh</language>
     
-    <managingEditor></managingEditor>
+    <copyright>Copyright © 2025, Ellen.</copyright>
     
-    <webMaster></webMaster>
     
-    <lastBuildDate>Thu, 07 May 2026 13:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
     
-    <atom:link href="https://ellenli.cc/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     
-
-    <item>
-      <title>【精读一本书】Eat Your Ice Cream</title>
-      <link>https://ellenli.cc/posts/book-eatyouricecream/</link>
-      <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       Eat Your Ice Cream 的读后感早早写好，迟迟未发。 发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。
-
-      </description>
-      <content:encoded>&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34; border=&#34;0&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。
-发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;
-&lt;h3 id=&#34;为什么读这本书我读这本书的目的是什么&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e8%af%bb%e8%bf%99%e6%9c%ac%e4%b9%a6%e6%88%91%e8%af%bb%e8%bf%99%e6%9c%ac%e4%b9%a6%e7%9a%84%e7%9b%ae%e7%9a%84%e6%98%af%e4%bb%80%e4%b9%88&#34;&gt;
-        ##
-    &lt;/a&gt;
-    为什么读这本书，我读这本书的目的是什么？
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;p&gt;之前读了这本书简要介绍的文章，感觉写得很清楚简洁，生动，作者的观点符合我的认知：不要追求极端的健康行为，可以偶尔吃点不健康的食物，更重要的是生活质量。所以想去读一下原书。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;我读这本书的目的&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;想知道除了饮食运动睡眠之外，还有哪些方式可以促进健康。&lt;/p&gt;
-&lt;h3 id=&#34;作者回答了我的问题吗回答得怎么样我认同作者的回答吗&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e4%bd%9c%e8%80%85%e5%9b%9e%e7%ad%94%e4%ba%86%e6%88%91%e7%9a%84%e9%97%ae%e9%a2%98%e5%90%97%e5%9b%9e%e7%ad%94%e5%be%97%e6%80%8e%e4%b9%88%e6%a0%b7%e6%88%91%e8%ae%a4%e5%90%8c%e4%bd%9c%e8%80%85%e7%9a%84%e5%9b%9e%e7%ad%94%e5%90%97&#34;&gt;
-        ##
-    &lt;/a&gt;
-    作者回答了我的问题吗，回答得怎么样，我认同作者的回答吗？
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;p&gt;作者推荐6大行为来维持健康。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;别做傻事——避免自毁风险&lt;/li&gt;
-&lt;li&gt;与人交谈——培养家庭、朋友和其他社会关系&lt;/li&gt;
-&lt;li&gt;拓展思维——保持头脑敏锐&lt;/li&gt;
-&lt;li&gt;吃你的冰淇淋——也要吃健康的食物和饮料&lt;/li&gt;
-&lt;li&gt;动起来！——规律且有效地进行锻炼。&lt;/li&gt;
-&lt;li&gt;睡得像婴儿一样——获得你需要的休息&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;认同！&lt;/p&gt;
-&lt;h3 id=&#34;为什么给这本书高分它的优秀之处是什么&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e7%bb%99%e8%bf%99%e6%9c%ac%e4%b9%a6%e9%ab%98%e5%88%86%e5%ae%83%e7%9a%84%e4%bc%98%e7%a7%80%e4%b9%8b%e5%a4%84%e6%98%af%e4%bb%80%e4%b9%88&#34;&gt;
-        ##
-    &lt;/a&gt;
-    为什么给这本书高分，它的优秀之处是什么？
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;观点清晰明确。很少有默认两可的建议，而是给出具体明确的建议。&lt;/li&gt;
-&lt;li&gt;结构清晰。每段都是总分结构，很清楚明了。&lt;/li&gt;
-&lt;li&gt;研究与个人案例比例均衡。7:3至6:4的比例比较适合，研究一定要比案例多，否则显得干货少，不够有说服力。&lt;/li&gt;
-&lt;li&gt;写亲身或身边的例子很真诚。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;阅读过程中印象最深刻的一点是什么&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e9%98%85%e8%af%bb%e8%bf%87%e7%a8%8b%e4%b8%ad%e5%8d%b0%e8%b1%a1%e6%9c%80%e6%b7%b1%e5%88%bb%e7%9a%84%e4%b8%80%e7%82%b9%e6%98%af%e4%bb%80%e4%b9%88&#34;&gt;
-        ##
-    &lt;/a&gt;
-    阅读过程中印象最深刻的一点是什么？
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;p&gt;最深刻的一点是：随着年纪增长，人的流体智力会下降。流体智力指概念形成、认知处理速度、思维灵活性和批判性推理能力都会随着年龄增长而下降。45岁开始下降，随着年龄增加，下降速度会变快。&lt;/p&gt;
-&lt;p&gt;这就是老年人学新东西慢，很难接受新事物的原因，不是他们不想学习，而是学习的能力下降了。&lt;/p&gt;
-&lt;p&gt;这让我感受到，要趁着年轻（也就是现在）的日子多多体验新事物、学习新东西，而不是想着退休后有大块时间后才去学习。因为退休后，虽然有时间，但学习的能力消退了。&lt;/p&gt;
-&lt;p&gt;现在当有一些可支配的自由时间时，一部分来放松，一部分来学习想要学习的东西，无论是乐器、语言、舞蹈、做项目等等。&lt;/p&gt;
-&lt;p&gt;另一个让我印象深刻的点是，社交关系对健康的重要性。&lt;/p&gt;
-&lt;p&gt;读了第二章让我好好想了想如何增加社交联系。特此问了chatgpt，作为一个低社交需求的i人，chatgpt告诉我，我更需要维持功能型社交，就像健身——不一定喜欢，但保持基本状态。&lt;/p&gt;
-&lt;p&gt;其他一些重要的点：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;不要让头部受到撞击。小心足球、橄榄球、曲棍球等运动。&lt;/li&gt;
-&lt;li&gt;少吃：含糖饮料、零食、超加工食品。&lt;/li&gt;
-&lt;li&gt;多吃：发酵食品、乳制品、膳食纤维、不饱和脂肪、未加工的碳水化合物，控制肉、盐、土豆、酒的摄入。&lt;/li&gt;
-&lt;li&gt;为了维护思维健康，少做被动活动和反复做相同的活动。被动活动指看电视、电影、体育比赛等，相同的活动只会锻炼大脑特定区域，尝试不同的活动能锻炼大脑不同的区域。&lt;/li&gt;
-&lt;li&gt;健康和长寿只是美好生活的手段，而不是生活的本质，更重要的是多做有意义的事。&lt;/li&gt;
-&lt;/ol&gt;</content:encoded>
-      
-      <category>健康</category>
-      
-      
-      <category>笔记</category>
-      
-      <guid isPermaLink="true">https://ellenli.cc/posts/book-eatyouricecream/</guid>
-    </item>
-    
-
+    <atom:link href="http://localhost:1313/categories/%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>笔记 | 《屏幕上的聪明决策》之第7章：应对屏幕上的选择困难</title>
-      <link>https://ellenli.cc/posts/20260119/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       《屏幕上的聪明决策》
-作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒
-原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior
-出版年: 2017-3
-## 如何在众多选择中挑出合心意的选择？ 在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？
-无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。
-购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。
-如何把上百个选项降到5个以内？
-分类，以此排除大部分选项，选出16个选项。
-还剩16多个选项，怎么做？
-以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。
-在4个选项中认真比较，找出最佳的选择。
-选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。
-
-      </description>
-      <content:encoded>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒&lt;/p&gt;
-&lt;p&gt;原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior&lt;/p&gt;
-&lt;p&gt;出版年: 2017-3&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;如何在众多选择中挑出合心意的选择&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e5%a6%82%e4%bd%95%e5%9c%a8%e4%bc%97%e5%a4%9a%e9%80%89%e6%8b%a9%e4%b8%ad%e6%8c%91%e5%87%ba%e5%90%88%e5%bf%83%e6%84%8f%e7%9a%84%e9%80%89%e6%8b%a9&#34;&gt;
-        ##
-    &lt;/a&gt;
-    如何在众多选择中挑出合心意的选择？
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;
-&lt;p&gt;无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。&lt;/p&gt;
-&lt;p&gt;购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。&lt;/p&gt;
-&lt;p&gt;如何把上百个选项降到5个以内？&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;分类，以此排除大部分选项，选出16个选项。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;还剩16多个选项，怎么做？&lt;/p&gt;
-&lt;p&gt;以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在4个选项中认真比较，找出最佳的选择。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</content:encoded>
-      
-      <category>决策</category>
-      
-      
-      <category>笔记</category>
-      
-      <guid isPermaLink="true">https://ellenli.cc/posts/20260119/</guid>
+      <link>http://localhost:1313/posts/20260119/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/20260119/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒&lt;/p&gt;&#xA;&lt;p&gt;原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior&lt;/p&gt;&#xA;&lt;p&gt;出版年: 2017-3&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;如何在众多选择中挑出合心意的选择&#34;&gt;如何在众多选择中挑出合心意的选择？&lt;/h3&gt;&#xA;&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;&#xA;&lt;p&gt;无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。&lt;/p&gt;&#xA;&lt;p&gt;购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。&lt;/p&gt;&#xA;&lt;p&gt;如何把上百个选项降到5个以内？&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;分类，以此排除大部分选项，选出16个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;还剩16多个选项，怎么做？&lt;/p&gt;&#xA;&lt;p&gt;以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;在4个选项中认真比较，找出最佳的选择。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
-    
   </channel>
 </rss>
