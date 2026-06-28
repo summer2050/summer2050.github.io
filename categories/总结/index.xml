@@ -2,40 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>总结 on Ellen&#39;s 自留地</title>
-    <link>http://localhost:1313/categories/%E6%80%BB%E7%BB%93/</link>
+    <link>https://ellenli.cc/categories/%E6%80%BB%E7%BB%93/</link>
     <description>Recent content in 总结 on Ellen&#39;s 自留地</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 02 Mar 2026 13:00:00 +0800</lastBuildDate><atom:link href="https://ellenli.cc/categories/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年二月小结</title>
+      <link>https://ellenli.cc/posts/2026-february/</link>
+      <pubDate>Mon, 02 Mar 2026 13:00:00 +0800</pubDate>
+      
+      <guid>https://ellenli.cc/posts/2026-february/</guid>
+      
+      <description>&lt;p&gt;尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。&lt;/p&gt;</description>
+      
+    </item>
     
+    <item>
+      <title>2026年一月小结</title>
+      <link>https://ellenli.cc/posts/2026-january/</link>
+      <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
+      
+      <guid>https://ellenli.cc/posts/2026-january/</guid>
+      
+      <description>&lt;p&gt;之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。&lt;/p&gt;</description>
+      
+    </item>
     
-    
-    <copyright>Copyright © 2025, Ellen.</copyright>
-    
-    
-    <lastBuildDate>Wed, 31 Dec 2025 17:00:00 +0800</lastBuildDate>
-    
-    
-    <atom:link href="http://localhost:1313/categories/%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的2025</title>
-      <link>http://localhost:1313/posts/my2025/</link>
+      <link>https://ellenli.cc/posts/my2025/</link>
       <pubDate>Wed, 31 Dec 2025 17:00:00 +0800</pubDate>
-      <guid>http://localhost:1313/posts/my2025/</guid>
+      
+      <guid>https://ellenli.cc/posts/my2025/</guid>
+      
       <description>&lt;p&gt;2025年马上要过去了，回首这一年，我没有太多情绪，没有很快乐的事，也没有很糟糕的事，平平淡淡地度过这一年。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>2025 彩妆总结</title>
-      <link>http://localhost:1313/posts/2025cosmetics/</link>
+      <link>https://ellenli.cc/posts/2025cosmetics/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025cosmetics/</guid>
+      
+      <guid>https://ellenli.cc/posts/2025cosmetics/</guid>
+      
       <description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>2025 护肤总结</title>
-      <link>http://localhost:1313/posts/2025skincare/</link>
+      <link>https://ellenli.cc/posts/2025skincare/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/2025skincare/</guid>
-      <description>&lt;p&gt;这一年&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;&#xA;&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;&#xA;&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+      <guid>https://ellenli.cc/posts/2025skincare/</guid>
+      
+      <description>&lt;p&gt;这一年&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;
+&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;
+&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
