@@ -2,42 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 		<sitemap>
-			<loc>https://ellenli.cc/de-de/sitemap.xml</loc>
-			
-		</sitemap>
-	
-		<sitemap>
 			<loc>https://ellenli.cc/en-gb/sitemap.xml</loc>
 			
 		</sitemap>
 	
 		<sitemap>
-			<loc>https://ellenli.cc/fr-fr/sitemap.xml</loc>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>https://ellenli.cc/ja/sitemap.xml</loc>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>https://ellenli.cc/pt-br/sitemap.xml</loc>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>https://ellenli.cc/ru-ru/sitemap.xml</loc>
-			
-		</sitemap>
-	
-		<sitemap>
 			<loc>https://ellenli.cc/zh-cn/sitemap.xml</loc>
-			
-		</sitemap>
-	
-		<sitemap>
-			<loc>https://ellenli.cc/it/sitemap.xml</loc>
 			
 		</sitemap>
 	
