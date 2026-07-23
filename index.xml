@@ -4,87 +4,404 @@
     <title>Ellen&#39;s 自留地</title>
     <link>https://ellenli.cc/</link>
     <description>Recent content on Ellen&#39;s 自留地</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    
-    
-    
-    <copyright>Copyright © 2025, Ellen.</copyright>
-    
-    
-    <lastBuildDate>Wed, 01 Jul 2026 10:40:00 +0800</lastBuildDate>
-    
-    
-    <atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 01 Jul 2026 10:40:00 +0800</lastBuildDate><atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2026年六月小结</title>
       <link>https://ellenli.cc/posts/2026-06/</link>
       <pubDate>Wed, 01 Jul 2026 10:40:00 +0800</pubDate>
+      
       <guid>https://ellenli.cc/posts/2026-06/</guid>
+      
       <description>&lt;p&gt;2026年一半过完了。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>【精读一本书】Eat Your Ice Cream</title>
       <link>https://ellenli.cc/posts/book-eatyouricecream/</link>
       <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
+      
       <guid>https://ellenli.cc/posts/book-eatyouricecream/</guid>
-      <description>&lt;p&gt;&lt;figure&#xA;    class=&#34;image-caption image-zoom-container&#34;&#xA;&gt;&#xA;    &#xA;    &lt;input&#xA;        type=&#34;checkbox&#34;&#xA;        id=&#34;img-a4e677da&#34;&#xA;        class=&#34;image-zoom-toggle&#34;&#xA;        aria-label=&#34;放大图片：cover&#34;&#xA;    /&gt;&#xA;    &lt;label&#xA;        for=&#34;img-a4e677da&#34;&#xA;        class=&#34;image-zoom-label&#34;&#xA;    &gt;&#xA;        &lt;img&#xA;            src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34;&#xA;            alt=&#34;cover&#34;&#xA;            loading=&#34;lazy&#34;&#xA;            class=&#34;zoomable-image&#34;&#xA;        /&gt;&#xA;    &lt;/label&gt;&#xA;    &#xA;    &lt;label&#xA;        for=&#34;img-a4e677da&#34;&#xA;        class=&#34;image-zoom-overlay&#34;&#xA;    &gt;&#xA;        &lt;img&#xA;            src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34;&#xA;            alt=&#34;cover&#34;&#xA;            class=&#34;zoomable-image&#34;&#xA;        /&gt;&#xA;    &lt;/label&gt;&#xA;    &#xA;    &lt;figcaption&gt;cover&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。
+发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>About</title>
       <link>https://ellenli.cc/about/</link>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ellenli.cc/about/</guid>
-      <description>&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-写给谁看&#34;&gt;1. 写给谁看？&lt;/h3&gt;&#xA;&lt;p&gt;博客写给非特定对象，即不曾谋面的中文互联网读者，而非大陆社交媒体用户。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-为什么公开&#34;&gt;2. 为什么公开？&lt;/h3&gt;&#xA;&lt;p&gt;对我来说，公开写作是为了提升写作水平和认知水平。&lt;/p&gt;&#xA;&lt;p&gt;即把文章写得能够吸引普通读者去读并读完，让读者理解我在表达什么。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-不适合追求反馈&#34;&gt;3. 不适合追求反馈&lt;/h3&gt;&#xA;&lt;p&gt;鉴于中文博客现状，反馈、互动、点赞、评论极少。大多数人已读不回（本人也是如此）。&lt;/p&gt;&#xA;&lt;p&gt;如果追求更多反馈，适合发在抖音、小红书、知乎、豆瓣，而不是在外网写博客。&lt;/p&gt;&#xA;&lt;p&gt;写独立博客，更多的是追求表达的自由。国内社交网站确实能带来更多的读者和阅读量、更多的反馈、甚至能变现，但时刻需要自我审查和承受炸号的风险。算是各有利弊。&lt;/p&gt;&#xA;&lt;p&gt;而我追求更自由地表达，因此选择独立博客。&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-博客内容&#34;&gt;4. 博客内容&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;生活体验。如游记、物品评测、某段经历等。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;读书新知。我基本上每天读书，常读心理学、个人成长、科普等类型的书，适时分享读过的有启发的文本。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;研究的问题。我的日常关注点在：行为改变、提升表达沟通、健康管理、育儿。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;5-关于博主&#34;&gt;5. 关于博主&lt;/h3&gt;&#xA;&lt;p&gt;35+阿姨，已婚已育。&lt;/p&gt;&#xA;&lt;p&gt;写博客，为了记录“当时只道是寻常”的生活。&lt;/p&gt;</description>
+      
+      <description>&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;
+&lt;h3 id=&#34;1-写给谁看&#34;&gt;1. 写给谁看？&lt;/h3&gt;
+&lt;p&gt;博客写给非特定对象，即不曾谋面的中文互联网读者，而非大陆社交媒体用户。&lt;/p&gt;
+&lt;h3 id=&#34;2-为什么公开&#34;&gt;2. 为什么公开？&lt;/h3&gt;
+&lt;p&gt;对我来说，公开写作是为了提升写作水平和认知水平。&lt;/p&gt;
+&lt;p&gt;即把文章写得能够吸引普通读者去读并读完，让读者理解我在表达什么。&lt;/p&gt;
+&lt;h3 id=&#34;3-不适合追求反馈&#34;&gt;3. 不适合追求反馈&lt;/h3&gt;
+&lt;p&gt;鉴于中文博客现状，反馈、互动、点赞、评论极少。大多数人已读不回（本人也是如此）。&lt;/p&gt;
+&lt;p&gt;如果追求更多反馈，适合发在抖音、小红书、知乎、豆瓣，而不是在外网写博客。&lt;/p&gt;
+&lt;p&gt;写独立博客，更多的是追求表达的自由。国内社交网站确实能带来更多的读者和阅读量、更多的反馈、甚至能变现，但时刻需要自我审查和承受炸号的风险。算是各有利弊。&lt;/p&gt;
+&lt;p&gt;而我追求更自由地表达，因此选择独立博客。&lt;/p&gt;
+&lt;h3 id=&#34;4-博客内容&#34;&gt;4. 博客内容&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;生活体验。如游记、物品评测、某段经历等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;读书新知。我基本上每天读书，常读心理学、个人成长、科普等类型的书，适时分享读过的有启发的文本。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;研究的问题。我的日常关注点在：行为改变、提升表达沟通、健康管理、育儿。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;5-关于博主&#34;&gt;5. 关于博主&lt;/h3&gt;
+&lt;p&gt;35+阿姨，已婚已育。&lt;/p&gt;
+&lt;p&gt;写博客，为了记录“当时只道是寻常”的生活。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>2026年二月小结</title>
       <link>https://ellenli.cc/posts/2026-february/</link>
       <pubDate>Mon, 02 Mar 2026 13:00:00 +0800</pubDate>
+      
       <guid>https://ellenli.cc/posts/2026-february/</guid>
+      
       <description>&lt;p&gt;尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>分享一个无痛减少刷手机的方法</title>
       <link>https://ellenli.cc/posts/20260207/</link>
       <pubDate>Sat, 07 Feb 2026 19:30:00 +0800</pubDate>
+      
       <guid>https://ellenli.cc/posts/20260207/</guid>
+      
       <description>&lt;p&gt;从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>2026年一月小结</title>
       <link>https://ellenli.cc/posts/2026-january/</link>
       <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
+      
       <guid>https://ellenli.cc/posts/2026-january/</guid>
+      
       <description>&lt;p&gt;之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。&lt;/p&gt;</description>
+      
     </item>
+    
     <item>
       <title>笔记 | 《屏幕上的聪明决策》之第7章：应对屏幕上的选择困难</title>
       <link>https://ellenli.cc/posts/20260119/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ellenli.cc/posts/20260119/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;&#xA;作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒&#xA;原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior&#xA;出版年: 2017-3&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;如何在众多选择中挑出合心意的选择&#34;&gt;如何在众多选择中挑出合心意的选择？&lt;/h3&gt;&#xA;&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;&#xA;&lt;p&gt;无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。&lt;/p&gt;&#xA;&lt;p&gt;购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。&lt;/p&gt;&#xA;&lt;p&gt;如何把上百个选项降到5个以内？&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;分类，以此排除大部分选项，选出16个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;还剩16多个选项，怎么做？&lt;/p&gt;&#xA;&lt;p&gt;以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;在4个选项中认真比较，找出最佳的选择。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;《屏幕上的聪明决策》&lt;/strong&gt;
+作者: [美] 什洛莫·贝纳茨] / [美] 乔纳·莱勒
+原作名: The Smarter Screen: Surprising Ways to Influence and Improve Online Behavior
+出版年: 2017-3&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;如何在众多选择中挑出合心意的选择&#34;&gt;如何在众多选择中挑出合心意的选择？&lt;/h3&gt;
+&lt;p&gt;在这个物质极大丰富的时代，我们的麻烦是，购物时，选择太多，如何从几百个选择中选出最适合的东西？&lt;/p&gt;
+&lt;p&gt;无限的选择会让人麻木，让有限的脑容量瘫痪，最后要么做出错误的选择，要么干脆放弃选择。&lt;/p&gt;
+&lt;p&gt;购物的一个小规律：人们一般在不超过5个选项中认真思考甄别，而不是在10个、20个、甚至上百个选项中仔细辨别。&lt;/p&gt;
+&lt;p&gt;如何把上百个选项降到5个以内？&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;分类，以此排除大部分选项，选出16个选项。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;还剩16多个选项，怎么做？&lt;/p&gt;
+&lt;p&gt;以四个为一组，分成5组，每组找到其中最好的一个，最后竞选出4个选项。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在4个选项中认真比较，找出最佳的选择。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;选项过多还有个问题，人们做出选择后，更容易懊恼没有选择的部分。于是可以做个结束仪式。比如在未选中的选项上划伤X，在饭店点餐时合上菜单给服务员，说明点菜完毕。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
     </item>
+    
     <item>
       <title>Books 2026</title>
       <link>https://ellenli.cc/2026/books2026/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ellenli.cc/2026/books2026/</guid>
-      <description>&lt;h2 id=&#34;一月&#34;&gt;一月&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Chasing Hope: A Reporter&amp;rsquo;s Life  (12.21-1.2) ⭐⭐⭐⭐⭐&lt;/p&gt;&#xA;&lt;p&gt;作者父亲的经历、作者采访的经历，不少纽约时报内部的办公室政治，写普通人的故事很感人。最后几章竞选州长讲美国政治就不那么吸引人。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      
+      <description>&lt;h2 id=&#34;一月&#34;&gt;一月&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Chasing Hope: A Reporter&amp;rsquo;s Life  (12.21-1.2) ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;作者父亲的经历、作者采访的经历，不少纽约时报内部的办公室政治，写普通人的故事很感人。最后几章竞选州长讲美国政治就不那么吸引人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
     </item>
+    
     <item>
       <title>Movies 2026</title>
       <link>https://ellenli.cc/2026/movies2026/</link>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ellenli.cc/2026/movies2026/</guid>
-      <description>&lt;h2 id=&#34;一月&#34;&gt;一月&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      
+      <description>&lt;h2 id=&#34;一月&#34;&gt;一月&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
     </item>
+    
     <item>
       <title>Cosmetics 2026</title>
       <link>https://ellenli.cc/2026/cosmetics2026/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
       <guid>https://ellenli.cc/2026/cosmetics2026/</guid>
-      <description>&lt;h3 id=&#34;妆前&#34;&gt;妆前&lt;/h3&gt;&#xA;&lt;p&gt;time secret 妆前，粉色和绿色各一支&lt;/p&gt;&#xA;&lt;h3 id=&#34;遮瑕&#34;&gt;遮瑕&lt;/h3&gt;&#xA;&lt;p&gt;剧院魅影三色遮暇（小样）&lt;/p&gt;&#xA;&lt;h3 id=&#34;粉底&#34;&gt;粉底&lt;/h3&gt;&#xA;&lt;p&gt;pl 看不见粉底一代&lt;/p&gt;&#xA;&lt;p&gt;Mac 无暇粉底液二代&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;郑瑄茉气垫&lt;/p&gt;&#xA;&lt;p&gt;Laura Mercier 气垫&lt;/p&gt;&#xA;&lt;h3 id=&#34;眉笔&#34;&gt;眉笔&lt;/h3&gt;&#xA;&lt;p&gt;植村秀砍刀眉笔&lt;/p&gt;&#xA;&lt;p&gt;橘朵眉笔&lt;/p&gt;&#xA;&lt;h3 id=&#34;定妆&#34;&gt;定妆&lt;/h3&gt;&#xA;&lt;h3 id=&#34;腮红&#34;&gt;腮红&lt;/h3&gt;&#xA;&lt;p&gt;倩碧小雏菊腮红 05&lt;/p&gt;&#xA;&lt;h3 id=&#34;口红&#34;&gt;口红&lt;/h3&gt;</description>
+      
+      <description>&lt;h3 id=&#34;妆前&#34;&gt;妆前&lt;/h3&gt;
+&lt;p&gt;time secret 妆前，粉色和绿色各一支&lt;/p&gt;
+&lt;h3 id=&#34;遮瑕&#34;&gt;遮瑕&lt;/h3&gt;
+&lt;p&gt;剧院魅影三色遮暇（小样）&lt;/p&gt;
+&lt;h3 id=&#34;粉底&#34;&gt;粉底&lt;/h3&gt;
+&lt;p&gt;pl 看不见粉底一代&lt;/p&gt;
+&lt;p&gt;Mac 无暇粉底液二代&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;郑瑄茉气垫&lt;/p&gt;
+&lt;p&gt;Laura Mercier 气垫&lt;/p&gt;
+&lt;h3 id=&#34;眉笔&#34;&gt;眉笔&lt;/h3&gt;
+&lt;p&gt;植村秀砍刀眉笔&lt;/p&gt;
+&lt;p&gt;橘朵眉笔&lt;/p&gt;
+&lt;h3 id=&#34;定妆&#34;&gt;定妆&lt;/h3&gt;
+&lt;h3 id=&#34;腮红&#34;&gt;腮红&lt;/h3&gt;
+&lt;p&gt;倩碧小雏菊腮红 05&lt;/p&gt;
+&lt;h3 id=&#34;口红&#34;&gt;口红&lt;/h3&gt;</description>
+      
     </item>
+    
+    <item>
+      <title>护肤 2026</title>
+      <link>https://ellenli.cc/2026/skincare2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://ellenli.cc/2026/skincare2026/</guid>
+      
+      <description>&lt;h3 id=&#34;爽肤水&#34;&gt;爽肤水&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; HBN发光水&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 雅诗兰黛原生液精华&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;日间精华&#34;&gt;日间精华&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 拾颜VC精华喷雾（已失活）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 瑷尔博士精华&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 三蛋丸 EUK精华&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;夜间精华&#34;&gt;夜间精华&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 露得清超A瓶a醇精华&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; snowberry 蓝铜胜肽精华&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; murad A醇晚霜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;眼霜&#34;&gt;眼霜&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 芯丝翠眼霜&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 悦薇眼霜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;乳液面霜&#34;&gt;乳液面霜&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 瑷尔博士益生菌面霜&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 珂润面霜&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;防晒&#34;&gt;防晒&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 妮维雅630防晒&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 欧珀莱黄瓶防晒&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;清洁&#34;&gt;清洁&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 植村秀琥珀卸妆油（小样）&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 且初卸妆膏&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>我的2025</title>
+      <link>https://ellenli.cc/posts/my2025/</link>
+      <pubDate>Wed, 31 Dec 2025 17:00:00 +0800</pubDate>
+      
+      <guid>https://ellenli.cc/posts/my2025/</guid>
+      
+      <description>&lt;p&gt;2025年马上要过去了，回首这一年，我没有太多情绪，没有很快乐的事，也没有很糟糕的事，平平淡淡地度过这一年。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>2025 彩妆总结</title>
+      <link>https://ellenli.cc/posts/2025cosmetics/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ellenli.cc/posts/2025cosmetics/</guid>
+      
+      <description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>2025 护肤总结</title>
+      <link>https://ellenli.cc/posts/2025skincare/</link>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ellenli.cc/posts/2025skincare/</guid>
+      
+      <description>&lt;p&gt;这一年&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;终于回归使用a醇，皮肤细腻。&lt;/li&gt;
+&lt;li&gt;尝试用15%的原型维C，大翻车，刺痛长痘。&lt;/li&gt;
+&lt;li&gt;最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>换种方式读自我提升类型的书</title>
+      <link>https://ellenli.cc/posts/selfhelpreading/</link>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ellenli.cc/posts/selfhelpreading/</guid>
+      
+      <description>&lt;p&gt;我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>2025-12 记录</title>
+      <link>https://ellenli.cc/202512/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ellenli.cc/202512/</guid>
+      
+      <description>&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;博主&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;低精力的懒人，但想变得不那么懒&lt;/li&gt;
+&lt;li&gt;有大把时间摸鱼，想充实摸鱼&lt;/li&gt;
+&lt;li&gt;2024年育一娃，从此开始漫漫育儿路（摸鱼时间显著减少）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;写&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;日常记录和总结&lt;/li&gt;
+&lt;li&gt;阅读笔记：包括但不限于书籍、播客、视频、论文……&lt;/li&gt;
+&lt;li&gt;想法思考&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2025年12月&#34;&gt;2025年12月&lt;/h2&gt;
+&lt;h3 id=&#34;主线任务&#34;&gt;主线任务&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 在12/31前写完年终小结&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 语言学习：日语&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 研究：1-2岁育儿
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《发展心理学：从生命早期到青春期》⭐⭐⭐⭐ 只读学前期部分。&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《一个经济学家的育儿指南》 ⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《蒙台梭利家庭方案》（12/22）⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 《0-5岁，大脑发育的黄金五年》⭐⭐⭐⭐&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;小习惯&#34;&gt;小习惯&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 12/21起，15点前不看 mastodon （12/20更新，12/30放弃）&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 15点前不看rss、小红书、twitter&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 吃饭、上厕所不看手机&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;思考的问题&#34;&gt;思考的问题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;如何拓展内容，而不是只有一个概括性的句子？&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;翻书&#34;&gt;翻书&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;《关键七问》⭐⭐&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《屏幕上的聪明决策》⭐⭐⭐⭐&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chasing Hope: A Reporter&amp;rsquo;s Life  (12.21-1.2) ⭐⭐⭐⭐⭐&lt;/p&gt;
+&lt;p&gt;作者父亲的经历、作者采访的经历，不少纽约时报内部的办公室政治，写普通人的故事很感人。最后几章竞选州长讲美国政治就不那么吸引人。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;《还可以的金女士》(12.25-12.31)⭐⭐⭐⭐&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;影音&#34;&gt;影音&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;电影《异形：契约》⭐⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;国产剧《许我耀眼》⭐⭐⭐&lt;/li&gt;
+&lt;li&gt;电影《小妇人》2019版 ⭐⭐⭐&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://ellenli.cc/about2/</link>
+      <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://ellenli.cc/about2/</guid>
+      
+      <description>&lt;h3 id=&#34;第二博客是什么&#34;&gt;第二博客是什么&lt;/h3&gt;
+&lt;p&gt;有第二博客，必然有第一博客。&lt;/p&gt;
+&lt;p&gt;很多时候，人们建立博客，精心挑选精美的主题，乐此不疲地装修主题，但在输出内容上，则更新地很少。&lt;/p&gt;
+&lt;p&gt;为什么更新少？可能是没有想好以怎样的频率，写出怎样的内容。还可能是，对内容的要求过高，觉得写出来的东西不值得别人花时间阅读。&lt;/p&gt;
+&lt;p&gt;所以，我建立第二博客来应对完美主义的难题。第二博客的初衷是练习写作，保持更新，希望在实际写作中提高写作能力。之后挑选写的不错的、个人满意的文章放到第一博客中。&lt;/p&gt;
+&lt;h3 id=&#34;为什么要公开写作&#34;&gt;为什么要公开写作&lt;/h3&gt;
+&lt;p&gt;因为希望写的东西能对他人有用吧。&lt;/p&gt;
+&lt;p&gt;我哼哧哼哧读了那么多东西，只读不记笔记，很快忘记。&lt;/p&gt;
+&lt;p&gt;记的笔记只给自己看，觉得有点可惜。&lt;/p&gt;
+&lt;p&gt;如果能把看到的东西分享给有缘人，万一对他人有用，那我的阅读和记录不算白费。&lt;/p&gt;
+&lt;p&gt;分享能让我的阅读和记录最大化功用。&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ellenli.cc/index_about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ellenli.cc/index_about/</guid>
+      
+      <description>&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;博主&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;低精力的懒人，但想变得不那么懒&lt;/li&gt;
+&lt;li&gt;有大把时间摸鱼，想充实摸鱼&lt;/li&gt;
+&lt;li&gt;2024年育一娃，从此开始漫漫育儿路（摸鱼时间显著减少）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;写&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;日常记录和总结&lt;/li&gt;
+&lt;li&gt;阅读笔记：包括但不限于书籍、播客、视频、论文……&lt;/li&gt;
+&lt;li&gt;想法思考&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

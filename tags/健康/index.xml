@@ -4,24 +4,21 @@
     <title>健康 on Ellen&#39;s 自留地</title>
     <link>https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/</link>
     <description>Recent content in 健康 on Ellen&#39;s 自留地</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    
-    
-    
-    <copyright>Copyright © 2025, Ellen.</copyright>
-    
-    
-    <lastBuildDate>Thu, 07 May 2026 13:20:00 +0800</lastBuildDate>
-    
-    
-    <atom:link href="https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 07 May 2026 13:20:00 +0800</lastBuildDate><atom:link href="https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【精读一本书】Eat Your Ice Cream</title>
       <link>https://ellenli.cc/posts/book-eatyouricecream/</link>
       <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
+      
       <guid>https://ellenli.cc/posts/book-eatyouricecream/</guid>
-      <description>&lt;p&gt;&lt;figure&#xA;    class=&#34;image-caption image-zoom-container&#34;&#xA;&gt;&#xA;    &#xA;    &lt;input&#xA;        type=&#34;checkbox&#34;&#xA;        id=&#34;img-a4e677da&#34;&#xA;        class=&#34;image-zoom-toggle&#34;&#xA;        aria-label=&#34;放大图片：cover&#34;&#xA;    /&gt;&#xA;    &lt;label&#xA;        for=&#34;img-a4e677da&#34;&#xA;        class=&#34;image-zoom-label&#34;&#xA;    &gt;&#xA;        &lt;img&#xA;            src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34;&#xA;            alt=&#34;cover&#34;&#xA;            loading=&#34;lazy&#34;&#xA;            class=&#34;zoomable-image&#34;&#xA;        /&gt;&#xA;    &lt;/label&gt;&#xA;    &#xA;    &lt;label&#xA;        for=&#34;img-a4e677da&#34;&#xA;        class=&#34;image-zoom-overlay&#34;&#xA;    &gt;&#xA;        &lt;img&#xA;            src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34;&#xA;            alt=&#34;cover&#34;&#xA;            class=&#34;zoomable-image&#34;&#xA;        /&gt;&#xA;    &lt;/label&gt;&#xA;    &#xA;    &lt;figcaption&gt;cover&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。
+发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
