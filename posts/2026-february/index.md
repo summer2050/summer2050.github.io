@@ -194,6 +194,6 @@ Chatgpt 每天有几次免费提问次数，我每天时不时地提点问题来
 
 ---
 
-> Author: Ellen  
+> Author:   
 > URL: http://ellenli.cc/posts/2026-february/  
 

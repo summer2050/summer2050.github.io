@@ -39,6 +39,6 @@ Laura Mercier 气垫
 
 ---
 
-> Author: Ellen  
+> Author:   
 > URL: http://ellenli.cc/2026/cosmetics2026/  
 

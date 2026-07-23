@@ -71,6 +71,6 @@
 
 ---
 
-> Author: Ellen  
+> Author:   
 > URL: http://ellenli.cc/posts/selfhelpreading/  
 

@@ -25,6 +25,6 @@
 
 ---
 
-> Author: Ellen  
+> Author:   
 > URL: http://ellenli.cc/about2/  
 

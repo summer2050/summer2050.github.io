@@ -42,6 +42,6 @@
 
 ---
 
-> Author: Ellen  
+> Author:   
 > URL: http://ellenli.cc/posts/20260207/  
 

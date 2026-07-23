@@ -8,6 +8,6 @@
 
 ---
 
-> Author: Ellen  
+> Author:   
 > URL: http://ellenli.cc/2026/movies2026/  
 
