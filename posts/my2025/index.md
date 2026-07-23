@@ -72,6 +72,6 @@
 
 ---
 
-> Author:   
+> 作者: Ellen  
 > URL: http://ellenli.cc/posts/my2025/  
 

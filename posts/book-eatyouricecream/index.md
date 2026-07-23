@@ -61,6 +61,6 @@
 
 ---
 
-> Author:   
+> 作者: Ellen  
 > URL: http://ellenli.cc/posts/book-eatyouricecream/  
 

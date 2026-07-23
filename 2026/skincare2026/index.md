@@ -44,6 +44,6 @@
 
 ---
 
-> Author:   
+> 作者: Ellen  
 > URL: http://ellenli.cc/2026/skincare2026/  
 

@@ -82,6 +82,6 @@ D5&D6: 名古屋
 
 ---
 
-> Author:   
+> 作者: Ellen  
 > URL: http://ellenli.cc/posts/2026-06/  
 

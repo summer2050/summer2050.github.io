@@ -18,6 +18,6 @@
 
 ---
 
-> Author:   
+> 作者: Ellen  
 > URL: http://ellenli.cc/index_about/  
 
