@@ -1,66 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/</link>
-    <description>Recent blog posts on Ellen&#39;s 自留地</description>
+    <title>效率 on Ellen&#39;s 自留地</title>
+    <link>https://ellenli.cc/tags/%E6%95%88%E7%8E%87/</link>
+    <description>Recent content in 效率 on Ellen&#39;s 自留地</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
     
-    <generator>Hugo (https://gohugo.io)</generator>
     
-    <language>zh</language>
     
-    <managingEditor></managingEditor>
+    <copyright>Copyright © 2025, Ellen.</copyright>
     
-    <webMaster></webMaster>
     
     <lastBuildDate>Sat, 07 Feb 2026 19:30:00 +0800</lastBuildDate>
     
-    <atom:link href="https://ellenli.cc/tags/%E6%95%88%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
     
-
+    <atom:link href="https://ellenli.cc/tags/%E6%95%88%E7%8E%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>分享一个无痛减少刷手机的方法</title>
       <link>https://ellenli.cc/posts/20260207/</link>
       <pubDate>Sat, 07 Feb 2026 19:30:00 +0800</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。
-
-      </description>
-      <content:encoded>&lt;p&gt;从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。&lt;/p&gt;
-&lt;p&gt;比如用app或软件屏蔽某个社交应用或网站（安卓用 &lt;a href=&#34;https://play.google.com/store/apps/details?id=kr.co.rinasoft.howuse&amp;amp;hl=en-US&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;ubhind&lt;/a&gt;，windows 用&lt;a href=&#34;https://getcoldturkey.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;cold turkey&lt;/a&gt;）；把某些社交网站的密码改成特别复杂，难以记住的；手机上设置限时30分钟、1小时的时间限制（结局很显然，总是点取消限制）；还试过关闭小红书的个性化推荐。&lt;/p&gt;
-&lt;p&gt;去年下半年，我终于找到一个能减少社交应用使用时间的方法，一直坚持到现在。&lt;/p&gt;
-&lt;p&gt;需要注意的是，是减少而不是完全不用某个应用，因为小红书、B站等新媒体不仅能娱乐消遣，还能获取知识，检索有用的信息，而传统的搜索引擎工具无法替代这类新信息平台。&lt;/p&gt;
-&lt;p&gt;我的方法很简单（复杂的坚持不下去）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首先，根据使用时长或干扰程度，排列社交应用或网站&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;我的是：小红书&amp;gt;推特&amp;gt;毛象&amp;gt;豆瓣&amp;gt;B站&amp;gt;微博。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;其次，设置使用规则&lt;/strong&gt;：&lt;strong&gt;第一个月，15点前不看小红书，其他社交应用正常使用&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;设置15点后可以使用，是因为工作日我是7点起床，到15点已经过去8小时。15点前我专心工作、做主线任务。&lt;/p&gt;
-&lt;p&gt;当15点前有刷小红书的冲动时，就刷一遍推特、毛象、豆瓣、B站、微博，来替代和疏解刷小红书的冲动。&lt;/p&gt;
-&lt;p&gt;晚上我还会用习惯app打卡完成打卡：今日15点前没看小红书✅。&lt;/p&gt;
-&lt;p&gt;这个方法的全部流程到此基本结束。&lt;/p&gt;
-&lt;p&gt;第二个月，我再加上推特，即15点前不看小红书和推特。&lt;/p&gt;
-&lt;p&gt;想刷的时候，就看毛象、豆瓣、B站、微博。&lt;/p&gt;
-&lt;p&gt;这就是去年我天天用小红书，但实际使用时长并不多的原因——2025年打开小红书358天，使用时长260小时。&lt;/p&gt;
-&lt;p&gt;对我而言，到推特为止，不用再增加限制，因为我并不沉迷豆瓣、B站、微博。&lt;/p&gt;
-&lt;p&gt;小红书、推特和毛象占据了80%的时间，只要减少它们的使用就能大幅减少手机的使用，而豆瓣、B站、微博用作白天无聊、排队、等待时的缓冲 app 。&lt;/p&gt;
-&lt;p&gt;切记：理解人们改变的心切，希望一下子完全减少手机使用时间。但慢慢来才不容易失败，只需几个月时间就能大幅减少使用时间，而剧烈的、急切的改变会让大脑承受不住冲动和压力而失败。&lt;/p&gt;</content:encoded>
-      
-      <category>效率</category>
-      
-      
-      <category>想法</category>
-      
-      <guid isPermaLink="true">https://ellenli.cc/posts/20260207/</guid>
+      <guid>https://ellenli.cc/posts/20260207/</guid>
+      <description>&lt;p&gt;从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

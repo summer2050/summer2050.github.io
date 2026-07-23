@@ -1,139 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/</link>
-    <description>Recent blog posts on Ellen&#39;s 自留地</description>
+    <title>彩妆 on Ellen&#39;s 自留地</title>
+    <link>https://ellenli.cc/tags/%E5%BD%A9%E5%A6%86/</link>
+    <description>Recent content in 彩妆 on Ellen&#39;s 自留地</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
     
-    <generator>Hugo (https://gohugo.io)</generator>
     
-    <language>zh</language>
     
-    <managingEditor></managingEditor>
+    <copyright>Copyright © 2025, Ellen.</copyright>
     
-    <webMaster></webMaster>
     
-    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 Z</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
+    
     
     <atom:link href="https://ellenli.cc/tags/%E5%BD%A9%E5%A6%86/index.xml" rel="self" type="application/rss+xml" />
-    
-
     <item>
       <title>2025 彩妆总结</title>
       <link>https://ellenli.cc/posts/2025cosmetics/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 Z</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-      之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。
-
-      </description>
-      <content:encoded>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;
-&lt;p&gt;但看着一堆彩妆品，我心里更希望物尽其用，而不是过期后扔掉，不仅心疼钱，更心疼浪费物品。&lt;/p&gt;
-&lt;p&gt;所以今年开始，我更多买粉底小样、更多记录化妆消耗、气垫用完才买。&lt;/p&gt;
-&lt;p&gt;现在的我觉得，买东西最佳方式是用完（缺了）再买，而不是提前计划在大促时候购买。大促时候适合买：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;大件物品（如电器、上千元的衣服，确实便宜很多）；&lt;/li&gt;
-&lt;li&gt;有固定品牌偏好、保质期长的消耗品，如纸巾、洗衣液等。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&#34;妆前&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e5%a6%86%e5%89%8d&#34;&gt;
-        ##
-    &lt;/a&gt;
-    妆前
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; time secret 隔离 2只，粉色和绿色&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; hourglass 提亮 birch&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;粉底&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e7%b2%89%e5%ba%95&#34;&gt;
-        ##
-    &lt;/a&gt;
-    粉底
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; maquillage 粉底液&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 纪梵希柔光粉底液 ⭐⭐⭐⭐⭐（纪梵希粉底液很适合我，皮肤状态差的时候，长痘、泛红的时候不会加重皮肤负担，轻薄自然，可惜停产了！）&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; mac无暇粉底液二代&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; pl 看不见粉底液 1代&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 罗拉玛希 气垫 2只 ⭐⭐⭐⭐⭐ （妆效奶油肌，遮瑕够用，不像别的气垫开封后会挥发，这个气垫打开一年后还能用）&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 郑瑄茉气垫 2只  ​&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;小样&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 纪梵希柔雾粉底液 5ml&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;del&gt;兰蔻持妆粉底液二代 5ml 长痘&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;del&gt;blankme 小源泉粉底液 10ml 长痘&lt;/del&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; nas 超方瓶 4ml L2&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 淂意超贴瓶粉底液 10ml ​​&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;腮红&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e8%85%ae%e7%ba%a2&#34;&gt;
-        ##
-    &lt;/a&gt;
-    腮红
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 3CE nude peach&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 倩碧小雏菊腮红 05&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 倩丽双色腮红 01&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;遮瑕&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e9%81%ae%e7%91%95&#34;&gt;
-        ##
-    &lt;/a&gt;
-    遮瑕
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 歌剧魅影遮瑕（小样）⭐⭐⭐⭐⭐（花了二十多块钱买的小样，用了大半年才只是一个浅坑。我一般用三文鱼色遮黑眼圈，黄色提亮泪沟。）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;散粉&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e6%95%a3%e7%b2%89&#34;&gt;
-        ##
-    &lt;/a&gt;
-    散粉
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 罗拉玛希散粉&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;眉笔&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e7%9c%89%e7%ac%94&#34;&gt;
-        ##
-    &lt;/a&gt;
-    眉笔
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 植村秀砍刀眉笔 ⭐⭐⭐⭐⭐&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 橘朵眉笔&lt;/li&gt;
-&lt;/ul&gt;</content:encoded>
-      
-      <category>彩妆</category>
-      
-      
-      <category>总结</category>
-      
-      <guid isPermaLink="true">https://ellenli.cc/posts/2025cosmetics/</guid>
+      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://ellenli.cc/posts/2025cosmetics/</guid>
+      <description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
