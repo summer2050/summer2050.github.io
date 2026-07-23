@@ -1,7 +1,7 @@
 # 【精读一本书】Eat Your Ice Cream
 
 
-<img src="https://i.ibb.co/C3rxnkvj/cover.jpg" alt="cover" style="zoom: 33%;" />
+<img src="https://i.ibb.co/C3rxnkvj/cover.jpg" alt="cover" style="zoom: 50%;" />
 
 [Eat Your Ice Cream](https://book.douban.com/subject/38189063/) 的读后感早早写好，迟迟未发。
 发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。
