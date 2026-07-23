@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>月度小结 - 分类 - Ellen&#39;s 自留地</title>
+    <link>http://ellenli.cc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/</link>
+    <description>Ellen&#39;s 自留地</description>
+    <generator>Hugo 0.164.0 &amp; FixIt v0.4.5</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 23 Jul 2026 12:32:49 +0000</lastBuildDate>
+    <atom:link href="http://ellenli.cc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年一月小结</title>
+      <link>http://ellenli.cc/posts/2026-01/</link>
+      <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
+      <guid>http://ellenli.cc/posts/2026-01/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/">月度小结</category>
+      <description>&lt;p&gt;之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

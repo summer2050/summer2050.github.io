@@ -100,5 +100,5 @@
 ---
 
 > 作者: Ellen  
-> URL: http://ellenli.cc/posts/2026-january/  
+> URL: http://ellenli.cc/posts/2026-01/  
 
