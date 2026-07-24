@@ -6,8 +6,24 @@
     <description>Ellen&#39;s 自留地</description>
     <generator>Hugo 0.164.0 &amp; FixIt v0.4.5</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 02:33:31 +0000</lastBuildDate>
     <atom:link href="http://ellenli.cc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年六月小结</title>
+      <link>http://ellenli.cc/posts/2026-06/</link>
+      <pubDate>Wed, 01 Jul 2026 10:40:00 +0800</pubDate>
+      <guid>http://ellenli.cc/posts/2026-06/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/">月度小结</category>
+      <description>&lt;p&gt;2026年一半过完了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2026年二月小结</title>
+      <link>http://ellenli.cc/posts/2026-february/</link>
+      <pubDate>Mon, 02 Mar 2026 13:00:00 +0800</pubDate>
+      <guid>http://ellenli.cc/posts/2026-february/</guid>
+      <category domain="http://ellenli.cc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/">月度小结</category>
+      <description>&lt;p&gt;尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2026年一月小结</title>
       <link>http://ellenli.cc/posts/2026-01/</link>
