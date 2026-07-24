@@ -177,7 +177,7 @@ Chatgpt 每天有几次免费提问次数，我每天时不时地提点问题来
 
 7. **[3步把话说清楚：超有用、超有料的极简沟通术](https://book.douban.com/subject/37866467/)** **⭐⭐⭐**
 
-   <img src="https://imgur.com/5IWBGXU.jpeg" alt="cover -w70" width= 260px; />
+   <img src="https://i.ibb.co/xKFdHZTz/image.jpg" alt="cover -w70" width= 260px; />
    
    还行。可以一读。
 
