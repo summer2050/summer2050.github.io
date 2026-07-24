@@ -1,4 +1,4 @@
-# 笔记 | 《屏幕上的聪明决策》之第7章：应对屏幕上的选择困难
+# 笔记 | 《屏幕上的聪明决策》：应对屏幕上的选择困难
 
 
 <img src="https://i.ibb.co/Dxc3N5C/image.jpg" alt="cover" style="zoom:33%;" />
