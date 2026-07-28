@@ -1,2 +1,2 @@
 User-Agent: *
-Sitemap: https://ellenlicc/sitemap.xml
+Sitemap: https://ellenli.cc/sitemap.xml

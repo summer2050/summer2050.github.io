@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>阅读笔记 on Ellen&#39;s 自留地</title>
-		<link>https://ellenlicc/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
+		<link>https://ellenli.cc/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</link>
 		<description>Recent content in 阅读笔记 on Ellen&#39;s 自留地</description>
 		<generator>Hugo</generator>
 		<language>zh-CN</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Tue, 28 Jul 2026 12:30:00 +0800</lastBuildDate>
 		
-			<atom:link href="https://ellenlicc/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://ellenli.cc/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>播客笔记 | 知行小酒馆：E236 从时间管理到爱你老己：我们如何停止和自己较劲？</title>
-				<link>https://ellenlicc/20260728/</link>
+				<link>https://ellenli.cc/20260728/</link>
 				<pubDate>Tue, 28 Jul 2026 12:30:00 +0800</pubDate>
-				<guid>https://ellenlicc/20260728/</guid>
+				<guid>https://ellenli.cc/20260728/</guid>
 				<description>&lt;p&gt;&lt;a href=&#34;https://www.xiaoyuzhoufm.com/episode/6a0ffa80e59ebca9361c8451&#34;&gt;播客链接&lt;/a&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>【精读一本书】Eat Your Ice Cream</title>
-				<link>https://ellenlicc/book-eatyouricecream/</link>
+				<link>https://ellenli.cc/book-eatyouricecream/</link>
 				<pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
-				<guid>https://ellenlicc/book-eatyouricecream/</guid>
+				<guid>https://ellenli.cc/book-eatyouricecream/</guid>
 				<description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>笔记 | 《屏幕上的聪明决策》：应对屏幕上的选择困难</title>
-				<link>https://ellenlicc/20260119/</link>
+				<link>https://ellenli.cc/20260119/</link>
 				<pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-				<guid>https://ellenlicc/20260119/</guid>
+				<guid>https://ellenli.cc/20260119/</guid>
 				<description>&lt;!-- raw HTML omitted --&gt;</description>
 			</item>
 	</channel>
