@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ellenlicc/blog/</loc>
+    <lastmod>2026-07-28T12:30:00+08:00</lastmod>
+  </url><url>
     <loc>https://ellenlicc/</loc>
     <lastmod>2026-07-28T12:30:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/</loc>
-    <lastmod>2026-07-28T12:30:00+08:00</lastmod>
-  </url><url>
-    <loc>https://ellenlicc/posts/20260728/</loc>
+    <loc>https://ellenlicc/20260728/</loc>
     <lastmod>2026-07-28T12:30:00+08:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/blog/%E6%95%88%E7%8E%87/</loc>
@@ -17,13 +17,13 @@
     <loc>https://ellenlicc/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2026-07-28T12:30:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/2026-06/</loc>
+    <loc>https://ellenlicc/2026-06/</loc>
     <lastmod>2026-07-01T10:40:00+08:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/</loc>
     <lastmod>2026-07-01T10:40:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/book-eatyouricecream/</loc>
+    <loc>https://ellenlicc/book-eatyouricecream/</loc>
     <lastmod>2026-05-07T13:20:00+08:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/blog/%E5%81%A5%E5%BA%B7/</loc>
@@ -32,22 +32,22 @@
     <loc>https://ellenlicc/about/</loc>
     <lastmod>2026-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/2026-february/</loc>
+    <loc>https://ellenlicc/2026-february/</loc>
     <lastmod>2026-03-02T13:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/20260207/</loc>
+    <loc>https://ellenlicc/20260207/</loc>
     <lastmod>2026-02-07T19:30:00+08:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/categories/%E6%83%B3%E6%B3%95/</loc>
     <lastmod>2026-02-07T19:30:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/2026-01/</loc>
+    <loc>https://ellenlicc/2026-01/</loc>
     <lastmod>2026-02-01T14:30:00+08:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/blog/%E5%86%B3%E7%AD%96/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/20260119/</loc>
+    <loc>https://ellenlicc/20260119/</loc>
     <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/2026/</loc>
@@ -68,13 +68,13 @@
     <loc>https://ellenlicc/categories/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2025-12-31T17:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/my2025/</loc>
+    <loc>https://ellenlicc/my2025/</loc>
     <lastmod>2025-12-31T17:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/2025cosmetics/</loc>
+    <loc>https://ellenlicc/2025cosmetics/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/2025skincare/</loc>
+    <loc>https://ellenlicc/2025skincare/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/blog/%E5%BD%A9%E5%A6%86/</loc>
@@ -86,7 +86,7 @@
     <loc>https://ellenlicc/categories/%E7%89%A9%E5%93%81/</loc>
     <lastmod>2025-12-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ellenlicc/posts/selfhelpreading/</loc>
+    <loc>https://ellenlicc/selfhelpreading/</loc>
     <lastmod>2025-12-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ellenlicc/202512/</loc>
