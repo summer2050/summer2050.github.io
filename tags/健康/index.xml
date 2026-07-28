@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>健康 on Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/</link>
-    <description>Recent content in 健康 on Ellen&#39;s 自留地</description>
-    <generator>Hugo</generator>
-    <language>en-US</language>
-    
-    
-    
-    
-    <lastBuildDate>Thu, 07 May 2026 13:20:00 +0800</lastBuildDate>
-    
-    
-    <atom:link href="https://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <title>健康 - 标签 - Ellen&#39;s 自留地</title>
+    <link>http://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/</link>
+    <description>Ellen&#39;s 自留地</description>
+    <generator>Hugo 0.164.0 &amp; FixIt v0.4.5</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 28 Jul 2026 05:14:10 +0000</lastBuildDate>
+    <atom:link href="http://ellenli.cc/tags/%E5%81%A5%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【精读一本书】Eat Your Ice Cream</title>
-      <link>https://ellenli.cc/posts/book-eatyouricecream/</link>
+      <link>http://ellenli.cc/posts/book-eatyouricecream/</link>
       <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
-      <guid>https://ellenli.cc/posts/book-eatyouricecream/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
+      <guid>http://ellenli.cc/posts/book-eatyouricecream/</guid>
+      <category domain="http://ellenli.cc/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/">阅读笔记</category>
+      <description>&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34; style=&#34;zoom: 50%;&#34; /&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34; target=&#34;_blank&#34; rel=&#34;external nofollow noopener noreferrer&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
