@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>物品 on Ellen&#39;s 自留地</title>
-		<link>https://ellenlicc/categories/%E7%89%A9%E5%93%81/</link>
-		<description>Recent content in 物品 on Ellen&#39;s 自留地</description>
+		<title>护肤 on Ellen&#39;s 自留地</title>
+		<link>https://ellenlicc/blog/%E6%8A%A4%E8%82%A4/</link>
+		<description>Recent content in 护肤 on Ellen&#39;s 自留地</description>
 		<generator>Hugo</generator>
 		<language>zh-CN</language>
 		
@@ -12,14 +12,7 @@
 		
 			<lastBuildDate>Thu, 18 Dec 2025 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://ellenlicc/categories/%E7%89%A9%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>2025 彩妆总结</title>
-				<link>https://ellenlicc/posts/2025cosmetics/</link>
-				<pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-				<guid>https://ellenlicc/posts/2025cosmetics/</guid>
-				<description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
-			</item>
+			<atom:link href="https://ellenlicc/blog/%E6%8A%A4%E8%82%A4/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>2025 护肤总结</title>
 				<link>https://ellenlicc/posts/2025skincare/</link>

@@ -1,1 +1,0 @@
-window.config={"comment":{"enable":true,"expired":false},"print":{"expandAdmonition":true,"expandCode":true,"expandDetails":true,"expandFileTree":false},"tooltip":true,"version":"v0.4.5"};
