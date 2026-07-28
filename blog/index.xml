@@ -19,77 +19,70 @@
       <link>https://ellenli.cc/p/20260728/</link>
       <pubDate>Tue, 28 Jul 2026 12:30:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/20260728/</guid>
-      <description><p><a href="https://www.xiaoyuzhoufm.com/episode/6a0ffa80e59ebca9361c8451">播客链接</a></p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2026年六月小结</title>
       <link>https://ellenli.cc/p/2026-06/</link>
       <pubDate>Wed, 01 Jul 2026 10:40:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/2026-06/</guid>
-      <description><p>2026年一半过完了。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>【精读一本书】Eat Your Ice Cream</title>
       <link>https://ellenli.cc/p/book-eatyouricecream/</link>
       <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/book-eatyouricecream/</guid>
-      <description><!-- raw HTML omitted -->
-<p><a href="https://book.douban.com/subject/38189063/">Eat Your Ice Cream</a> 的读后感早早写好，迟迟未发。
-发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2026年二月小结</title>
       <link>https://ellenli.cc/p/2026-february/</link>
       <pubDate>Mon, 02 Mar 2026 13:00:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/2026-february/</guid>
-      <description><p>尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>分享一个无痛减少刷手机的方法</title>
       <link>https://ellenli.cc/p/20260207/</link>
       <pubDate>Sat, 07 Feb 2026 19:30:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/20260207/</guid>
-      <description><p>从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2026年一月小结</title>
       <link>https://ellenli.cc/p/2026-01/</link>
       <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/2026-01/</guid>
-      <description><p>之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>笔记 | 《屏幕上的聪明决策》：应对屏幕上的选择困难</title>
       <link>https://ellenli.cc/p/20260119/</link>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/p/20260119/</guid>
-      <description><!-- raw HTML omitted --></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>我的2025</title>
       <link>https://ellenli.cc/p/my2025/</link>
       <pubDate>Wed, 31 Dec 2025 17:00:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/my2025/</guid>
-      <description><p>2025年马上要过去了，回首这一年，我没有太多情绪，没有很快乐的事，也没有很糟糕的事，平平淡淡地度过这一年。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2025 彩妆总结</title>
       <link>https://ellenli.cc/p/2025cosmetics/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/p/2025cosmetics/</guid>
-      <description><p>之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2025 护肤总结</title>
       <link>https://ellenli.cc/p/2025skincare/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/p/2025skincare/</guid>
-      <description><p>这一年</p>
-<ul>
-<li>终于回归使用a醇，皮肤细腻。</li>
-<li>尝试用15%的原型维C，大翻车，刺痛长痘。</li>
-<li>最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。</li>
-</ul></description>
+      <description>{ .Summary}</description>
     </item>
   </channel>
 </rss>

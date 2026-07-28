@@ -19,19 +19,14 @@
       <link>https://ellenli.cc/p/2025cosmetics/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/p/2025cosmetics/</guid>
-      <description><p>之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2025 护肤总结</title>
       <link>https://ellenli.cc/p/2025skincare/</link>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/p/2025skincare/</guid>
-      <description><p>这一年</p>
-<ul>
-<li>终于回归使用a醇，皮肤细腻。</li>
-<li>尝试用15%的原型维C，大翻车，刺痛长痘。</li>
-<li>最佳品牌是芯丝翠，C店打折买的，能看得出使用效果。</li>
-</ul></description>
+      <description>{ .Summary}</description>
     </item>
   </channel>
 </rss>

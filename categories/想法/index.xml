@@ -19,14 +19,14 @@
       <link>https://ellenli.cc/p/20260207/</link>
       <pubDate>Sat, 07 Feb 2026 19:30:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/20260207/</guid>
-      <description><p>从拥有智能手机的第一年起，我就开始尝试多种减少社交应用使用时间的方法。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>换种方式读自我提升类型的书</title>
       <link>https://ellenli.cc/p/selfhelpreading/</link>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/p/selfhelpreading/</guid>
-      <description><p>我过去很喜欢读自我提升类书，然而，读了那么多书后，我发现，重要的不是阅读，而是行动。那在阅读与行动的鸿沟中，现在的我是这样做的。</p></description>
+      <description>{ .Summary}</description>
     </item>
   </channel>
 </rss>

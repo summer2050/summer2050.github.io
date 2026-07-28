@@ -19,21 +19,21 @@
       <link>https://ellenli.cc/p/2026-06/</link>
       <pubDate>Wed, 01 Jul 2026 10:40:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/2026-06/</guid>
-      <description><p>2026年一半过完了。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2026年二月小结</title>
       <link>https://ellenli.cc/p/2026-february/</link>
       <pubDate>Mon, 02 Mar 2026 13:00:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/2026-february/</guid>
-      <description><p>尝试把一个月的周记组合成月记，不知道读者更喜欢周记还是月记。</p></description>
+      <description>{ .Summary}</description>
     </item>
     <item>
       <title>2026年一月小结</title>
       <link>https://ellenli.cc/p/2026-01/</link>
       <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
       <guid>https://ellenli.cc/p/2026-01/</guid>
-      <description><p>之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。</p></description>
+      <description>{ .Summary}</description>
     </item>
   </channel>
 </rss>
