@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ellenli.cc/blog/</loc>
+    <loc>https://ellenli.cc/</loc>
     <lastmod>2026-07-28T12:30:00+08:00</lastmod>
   </url><url>
-    <loc>https://ellenli.cc/</loc>
+    <loc>https://ellenli.cc/blog/</loc>
     <lastmod>2026-07-28T12:30:00+08:00</lastmod>
   </url><url>
     <loc>https://ellenli.cc/posts/20260728/</loc>
@@ -94,7 +94,5 @@
   </url><url>
     <loc>https://ellenli.cc/about2/</loc>
     <lastmod>2025-11-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ellenli.cc/index_about/</loc>
   </url>
 </urlset>
