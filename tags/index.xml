@@ -10,10 +10,24 @@
     
     
     
-    <lastBuildDate>Tue, 28 Jul 2026 12:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:30:00 +0800</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>失败</title>
+      <link>https://ellenli.cc/tags/%E5%A4%B1%E8%B4%A5/</link>
+      <pubDate>Thu, 30 Jul 2026 13:30:00 +0800</pubDate>
+      <guid>https://ellenli.cc/tags/%E5%A4%B1%E8%B4%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>播客</title>
+      <link>https://ellenli.cc/tags/%E6%92%AD%E5%AE%A2/</link>
+      <pubDate>Thu, 30 Jul 2026 13:30:00 +0800</pubDate>
+      <guid>https://ellenli.cc/tags/%E6%92%AD%E5%AE%A2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>效率</title>
       <link>https://ellenli.cc/tags/%E6%95%88%E7%8E%87/</link>
