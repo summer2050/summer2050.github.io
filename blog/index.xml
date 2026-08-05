@@ -10,10 +10,17 @@
     
     
     
-    <lastBuildDate>Thu, 30 Jul 2026 13:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:00:00 +0800</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 七月小结</title>
+      <link>https://ellenli.cc/posts/2026-07/</link>
+      <pubDate>Wed, 05 Aug 2026 13:00:00 +0800</pubDate>
+      <guid>https://ellenli.cc/posts/2026-07/</guid>
+      <description></description>
+    </item>
     <item>
       <title>【播客笔记】Anyway.FM 设计杂谈：访谈 ECharts 开发者羡辙，程序员如何把副业做成主业</title>
       <link>https://ellenli.cc/posts/20260730/</link>
@@ -76,13 +83,6 @@
       <pubDate>Wed, 31 Dec 2025 17:00:00 +0800</pubDate>
       <guid>https://ellenli.cc/posts/my2025/</guid>
       <description>&lt;p&gt;2025年马上要过去了，回首这一年，我没有太多情绪，没有很快乐的事，也没有很糟糕的事，平平淡淡地度过这一年。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>2025 彩妆总结</title>
-      <link>https://ellenli.cc/posts/2025cosmetics/</link>
-      <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/posts/2025cosmetics/</guid>
-      <description>&lt;p&gt;之前，我把购买彩妆品当作一种奖励。我培养习惯的时候会打卡，打卡后有积分，积分转变为钱可以购买彩妆品。这相对于无限制地购买彩妆品，更心安理得一些。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

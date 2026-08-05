@@ -10,10 +10,17 @@
     
     
     
-    <lastBuildDate>Thu, 30 Jul 2026 13:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:00:00 +0800</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 七月小结</title>
+      <link>https://ellenli.cc/posts/2026-07/</link>
+      <pubDate>Wed, 05 Aug 2026 13:00:00 +0800</pubDate>
+      <guid>https://ellenli.cc/posts/2026-07/</guid>
+      <description></description>
+    </item>
     <item>
       <title>【播客笔记】Anyway.FM 设计杂谈：访谈 ECharts 开发者羡辙，程序员如何把副业做成主业</title>
       <link>https://ellenli.cc/posts/20260730/</link>
@@ -76,13 +83,6 @@
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://ellenli.cc/posts/20260119/</guid>
       <description>&lt;img src=&#34;https://i.ibb.co/Dxc3N5C/image.jpg&#34; alt=&#34;cover&#34; style=&#34;zoom:33%;&#34; /&gt;</description>
-    </item>
-    <item>
-      <title>Books 2026</title>
-      <link>https://ellenli.cc/2026/books2026/</link>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/2026/books2026/</guid>
-      <description>&lt;h2 id=&#34;一月&#34;&gt;一月&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Chasing Hope: A Reporter&amp;rsquo;s Life  (12.21-1.2) ⭐⭐⭐⭐⭐&lt;/p&gt;&#xA;&lt;p&gt;作者父亲的经历、作者采访的经历，不少纽约时报内部的办公室政治，写普通人的故事很感人。最后几章竞选州长讲美国政治就不那么吸引人。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>
