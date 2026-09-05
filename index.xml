@@ -10,10 +10,17 @@
     
     
     
-    <lastBuildDate>Wed, 05 Aug 2026 13:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 14:40:00 +0800</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年八月小结</title>
+      <link>https://ellenli.cc/posts/2026-08/</link>
+      <pubDate>Sat, 05 Sep 2026 14:40:00 +0800</pubDate>
+      <guid>https://ellenli.cc/posts/2026-08/</guid>
+      <description>&lt;p&gt;刚刚过去的八月，对我最重要的两件事，一是两岁的娃搬到小家，九月开始上托班，我妈和我们同住，帮忙带娃，从此三口之家得以每日相见。二是申请回到原部门成功，九月回到原部门上班。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2026年七月小结</title>
       <link>https://ellenli.cc/posts/2026-07/</link>
@@ -76,13 +83,6 @@
       <pubDate>Sun, 01 Feb 2026 14:30:00 +0800</pubDate>
       <guid>https://ellenli.cc/posts/2026-01/</guid>
       <description>&lt;p&gt;之前放到博客主页，发现随时更新不方便，决定先放到notion随手更新，再到月末发布。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>笔记 | 《屏幕上的聪明决策》：应对屏幕上的选择困难</title>
-      <link>https://ellenli.cc/posts/20260119/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/posts/20260119/</guid>
-      <description>&lt;img src=&#34;https://i.ibb.co/Dxc3N5C/image.jpg&#34; alt=&#34;cover&#34; style=&#34;zoom:33%;&#34; /&gt;</description>
     </item>
   </channel>
 </rss>
