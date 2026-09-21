@@ -10,10 +10,17 @@
     
     
     
-    <lastBuildDate>Sat, 05 Sep 2026 14:40:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ellenli.cc/about/</link>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://ellenli.cc/about/</guid>
+      <description>&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;&#xA;&lt;h3 id=&#34;博主&#34;&gt;&lt;strong&gt;博主&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;低精力的懒人，INTP&lt;/li&gt;&#xA;&lt;li&gt;2024年育一娃，从此开始漫漫育儿路（摸鱼时间显著减少）&lt;/li&gt;&#xA;&lt;li&gt;大部分时间在：工作、育儿、阅读、看剧看电影、散步运动&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;关注&#34;&gt;&lt;strong&gt;关注&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;行为改变&lt;/li&gt;&#xA;&lt;li&gt;沟通技能&lt;/li&gt;&#xA;&lt;li&gt;学习成长&lt;/li&gt;&#xA;&lt;li&gt;健康&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;博客内容&#34;&gt;博客内容&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ellenli.cc/categories/%E6%9C%88%E5%BA%A6%E5%B0%8F%E7%BB%93/&#34;&gt;月度小结&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ellenli.cc/categories/%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/&#34;&gt;阅读笔记&lt;/a&gt;：读到的有收获的书、播客、视频等&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ellenli.cc/categories/%E6%83%B3%E6%B3%95/&#34;&gt;思考想法&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>2026年八月小结</title>
       <link>https://ellenli.cc/posts/2026-08/</link>
@@ -55,13 +62,6 @@
       <pubDate>Thu, 07 May 2026 13:20:00 +0800</pubDate>
       <guid>https://ellenli.cc/posts/book-eatyouricecream/</guid>
       <description>&lt;img src=&#34;https://i.ibb.co/C3rxnkvj/cover.jpg&#34; alt=&#34;cover&#34; style=&#34;zoom: 50%;&#34; /&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://book.douban.com/subject/38189063/&#34;&gt;Eat Your Ice Cream&lt;/a&gt; 的读后感早早写好，迟迟未发。&#xA;发现一个月精读一本书比较适合我的节奏，故开一个“精读一本书”的专题。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://ellenli.cc/about/</link>
-      <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://ellenli.cc/about/</guid>
-      <description>&lt;h2 id=&#34;关于&#34;&gt;关于&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-写给谁看&#34;&gt;1. 写给谁看？&lt;/h3&gt;&#xA;&lt;p&gt;博客写给非特定对象，即不曾谋面的中文互联网读者，而非大陆社交媒体用户。&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-为什么公开&#34;&gt;2. 为什么公开？&lt;/h3&gt;&#xA;&lt;p&gt;对我来说，公开写作是为了提升写作水平和认知水平。&lt;/p&gt;&#xA;&lt;p&gt;即把文章写得能够吸引普通读者去读并读完，让读者理解我在表达什么。&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-不适合追求反馈&#34;&gt;3. 不适合追求反馈&lt;/h3&gt;&#xA;&lt;p&gt;鉴于中文博客现状，反馈、互动、点赞、评论极少。大多数人已读不回（本人也是如此）。&lt;/p&gt;&#xA;&lt;p&gt;如果追求更多反馈，适合发在抖音、小红书、知乎、豆瓣，而不是在外网写博客。&lt;/p&gt;&#xA;&lt;p&gt;写独立博客，更多的是追求表达的自由。国内社交网站确实能带来更多的读者和阅读量、更多的反馈、甚至能变现，但时刻需要自我审查和承受炸号的风险。算是各有利弊。&lt;/p&gt;&#xA;&lt;p&gt;而我追求更自由地表达，因此选择独立博客。&lt;/p&gt;&#xA;&lt;h3 id=&#34;4-博客内容&#34;&gt;4. 博客内容&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;生活体验。如游记、物品评测、某段经历等。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;读书新知。我基本上每天读书，常读心理学、个人成长、科普等类型的书，适时分享读过的有启发的文本。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;研究的问题。我的日常关注点在：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;行为改变&lt;/li&gt;&#xA;&lt;li&gt;提升表达沟通&lt;/li&gt;&#xA;&lt;li&gt;健康管理&lt;/li&gt;&#xA;&lt;li&gt;育儿&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;5-关于博主&#34;&gt;5. 关于博主&lt;/h3&gt;&#xA;&lt;p&gt;35+阿姨，已婚已育。&lt;/p&gt;&#xA;&lt;p&gt;写博客，为了记录“当时只道是寻常”的生活。&lt;/p&gt;</description>
     </item>
     <item>
       <title>2026年二月小结</title>
