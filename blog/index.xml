@@ -10,10 +10,17 @@
     
     
     
-    <lastBuildDate>Thu, 30 Jul 2026 13:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:45:00 +0800</lastBuildDate>
     
     
     <atom:link href="https://ellenli.cc/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026年九月小结</title>
+      <link>https://ellenli.cc/posts/2026-09/</link>
+      <pubDate>Wed, 30 Sep 2026 13:45:00 +0800</pubDate>
+      <guid>https://ellenli.cc/posts/2026-09/</guid>
+      <description>&lt;h3 id=&#34;2026年九月小结&#34;&gt;2026年九月小结&lt;/h3&gt;&#xA;&lt;p&gt;九月对我最重要的三件事是：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;回到原部门上班，终于安心并快乐地上班&lt;/li&gt;&#xA;&lt;li&gt;去顺德团建&lt;/li&gt;&#xA;&lt;li&gt;娃上托班，变化很大&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ellencord.netlify.app/posts/2026-09/&#34;&gt;全文查看……&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【播客笔记】Anyway.FM 设计杂谈：访谈 ECharts 开发者羡辙，程序员如何把副业做成主业</title>
       <link>https://ellenli.cc/posts/20260730/</link>
