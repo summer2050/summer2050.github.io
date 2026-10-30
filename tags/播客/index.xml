@@ -1,66 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-
-  <channel>
-    <title>Ellen&#39;s 自留地</title>
-    <link>https://ellenli.cc/</link>
-    <description>Recent blog posts on Ellen&#39;s 自留地</description>
-    
-    <generator>Hugo (https://gohugo.io)</generator>
-    
-    <language>zh-cn</language>
-    
-    <managingEditor></managingEditor>
-    
-    <webMaster></webMaster>
-    
-    <lastBuildDate>Thu, 30 Jul 2026 13:30:00 +0800</lastBuildDate>
-    
-    <atom:link href="https://ellenli.cc/tags/%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
-    
-
-    <item>
-      <title>【播客笔记】Anyway.FM 设计杂谈：访谈 ECharts 开发者羡辙，程序员如何把副业做成主业</title>
-      <link>https://ellenli.cc/posts/20260730/</link>
-      <pubDate>Thu, 30 Jul 2026 13:30:00 +0800</pubDate>
-      
-      <author></author>
-
-      
-      
-      
-      
-
-      <description>
-       播客链接
-
-      </description>
-      <content:encoded>&lt;img src=&#34;https://i.ibb.co/JRdHWDNx/image.jpg&#34; alt=&#34;羡辙播客&#34; style=&#34;zoom:25%;&#34; /&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.xiaoyuzhoufm.com/episode/698a1642a22480add662584a&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;播客链接&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;最大的收获是访谈者对失败的理解&#34; &gt;
-&lt;div&gt;
-    &lt;a href=&#34;#%e6%9c%80%e5%a4%a7%e7%9a%84%e6%94%b6%e8%8e%b7%e6%98%af%e8%ae%bf%e8%b0%88%e8%80%85%e5%af%b9%e5%a4%b1%e8%b4%a5%e7%9a%84%e7%90%86%e8%a7%a3&#34;&gt;
-        ##
-    &lt;/a&gt;
-    最大的收获是访谈者对失败的理解
-&lt;/div&gt;
-&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;其实我觉得这取决于你怎么看不成功对吧？比如说我们大部分情况下，你做的第一款游戏总是不那么火的对吧？你不可能一下子就做一个爆款出来。就像我们之前做的一些 APP 一样。你需要知道这个跑通整个流程，然后知道你欠缺哪块，哪些应该去做，哪些找什么人做，这样一些跑通整个流程。&lt;/p&gt;
-&lt;p&gt;做第一款游戏是非常重要的，那怎么定义这个失败呢？&lt;/p&gt;
-&lt;p&gt;我并不觉得第一款游戏，比如说它销量不佳，或者说它的口碑不佳，就是一个失败。&lt;/p&gt;
-&lt;p&gt;我觉得什么是失败呢？就是我没有坚持做下去，我觉得这可能是我定义中唯一可能存在的失败。否则的话，你只要把你的目标是跑通整个流程，然后学习到你欠缺哪一块的知识以后，你就会发现你不会失败的。&lt;/p&gt;
-&lt;/blockquote&gt;</content:encoded>
-      
-      <category>播客</category>
-      
-      <category>失败</category>
-      
-      
-      <category>阅读笔记</category>
-      
-      <guid isPermaLink="true">https://ellenli.cc/posts/20260730/</guid>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>播客 on Ellen&#39;s 自留地</title>
+		<link>https://ellenli.cc/tags/%E6%92%AD%E5%AE%A2/</link>
+		<description>Recent content in 播客 on Ellen&#39;s 自留地</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+			<copyright>Ellen</copyright>
+		
+		
+			<lastBuildDate>Thu, 30 Jul 2026 13:30:00 +0800</lastBuildDate>
+		
+			<atom:link href="https://ellenli.cc/tags/%E6%92%AD%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>【播客笔记】Anyway.FM 设计杂谈：访谈 ECharts 开发者羡辙，程序员如何把副业做成主业</title>
+				<link>https://ellenli.cc/posts/20260730/</link>
+				<pubDate>Thu, 30 Jul 2026 13:30:00 +0800</pubDate>
+				<guid>https://ellenli.cc/posts/20260730/</guid>
+				<description>&lt;img src=&#34;https://i.ibb.co/JRdHWDNx/image.jpg&#34; alt=&#34;羡辙播客&#34; style=&#34;zoom:25%;&#34; /&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.xiaoyuzhoufm.com/episode/698a1642a22480add662584a&#34;&gt;播客链接&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
